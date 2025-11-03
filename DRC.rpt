@@ -1,0 +1,114 @@
+** Drc report for Soleidon_board.kicad_pcb **
+** Created on 2025-10-30T16:44:55+0100 **
+
+** Found 26 DRC violations **
+[clearance]: Violazione clearance (netclass "Default" clearance 0,2000 mm; reale 0,1524 mm)
+    Regola: netclass "Default"; error
+    @(123,2869 mm, 58,1881 mm): Pista [GND] su F.Cu, lung. 2,3302 mm
+    @(125,9200 mm, 58,5600 mm): Piazzola 14 [D12] di U6 su F.Cu
+[clearance]: Violazione clearance (netclass "Default" clearance 0,2000 mm; reale 0,1673 mm)
+    Regola: netclass "Default"; error
+    @(138,5246 mm, 84,0558 mm): Piazzola 11 [GND] di U7 su F.Cu
+    @(139,8336 mm, 82,9596 mm): Pista [+3V3] su F.Cu, lung. 0,0762 mm
+[clearance]: Violazione clearance (netclass "Default" clearance 0,2000 mm; reale 0,1748 mm)
+    Regola: netclass "Default"; error
+    @(102,2314 mm, 99,5900 mm): Pista [VBUS] su F.Cu, lung. 3,6152 mm
+    @(102,8050 mm, 100,2400 mm): Piazzola B8 [unconnected-(U1-SBU2-PadB8)] di U1 su F.Cu
+[hole_clearance]: Violazione clearance foro (vincoli impostazioni scheda fori clearance 0,2500 mm; reale 0,1982 mm)
+    Regola: vincoli impostazioni scheda fori; error
+    @(102,2314 mm, 99,5900 mm): Pista [VBUS] su F.Cu, lung. 3,6152 mm
+    @(101,7300 mm, 99,1000 mm): Piazzola NPTH di U1
+[clearance]: Violazione clearance (netclass "Default" clearance 0,2000 mm; reale 0,1462 mm)
+    Regola: netclass "Default"; error
+    @(138,5246 mm, 84,0558 mm): Piazzola 11 [GND] di U7 su F.Cu
+    @(139,5246 mm, 82,8030 mm): Pista [+3V3] su F.Cu, lung. 0,2215 mm
+[hole_clearance]: Violazione clearance foro (vincoli impostazioni scheda fori clearance 0,2500 mm; reale 0,1982 mm)
+    Regola: vincoli impostazioni scheda fori; error
+    @(101,2414 mm, 103,4000 mm): Pista [VBUS] su F.Cu, lung. 1,4001 mm
+    @(101,7300 mm, 104,8800 mm): Piazzola NPTH di U1
+[clearance]: Violazione clearance (netclass "Default" clearance 0,2000 mm; reale 0,1748 mm)
+    Regola: netclass "Default"; error
+    @(102,8050 mm, 103,7400 mm): Piazzola B5 [unconnected-(U1-CC2-PadB5)] di U1 su F.Cu
+    @(101,2414 mm, 103,4000 mm): Pista [VBUS] su F.Cu, lung. 1,4001 mm
+[hole_clearance]: Violazione clearance foro (vincoli impostazioni scheda fori clearance 0,2500 mm; reale 0,1728 mm)
+    Regola: vincoli impostazioni scheda fori; error
+    @(102,2314 mm, 104,3900 mm): Pista [VBUS] su F.Cu, lung. 0,5736 mm
+    @(101,7300 mm, 104,8800 mm): Piazzola NPTH di U1
+[clearance]: Violazione clearance (netclass "Default" clearance 0,2000 mm; reale 0,1716 mm)
+    Regola: netclass "Default"; error
+    @(138,5246 mm, 84,0558 mm): Piazzola 11 [GND] di U7 su F.Cu
+    @(137,5246 mm, 82,7794 mm): Pista [/Buck-Boost3.3V/Buck-Boost_INPUT] su F.Cu, lung. 0,2189 mm
+[clearance]: Violazione clearance (netclass "Default" clearance 0,2000 mm; reale 0,1793 mm)
+    Regola: netclass "Default"; error
+    @(143,9500 mm, 53,4800 mm): Piazzola 29 [D5] di U6 su F.Cu
+    @(131,5024 mm, 63,8080 mm): Pista [D18] su F.Cu, lung. 16,3938 mm
+[clearance]: Violazione clearance (netclass "Default" clearance 0,2000 mm; reale 0,1932 mm)
+    Regola: netclass "Default"; error
+    @(139,5288 mm, 82,9126 mm): Pista [+3V3] su F.Cu, lung. 0,3968 mm
+    @(138,5246 mm, 84,0558 mm): Piazzola 11 [GND] di U7 su F.Cu
+[clearance]: Violazione clearance (netclass "Default" clearance 0,2000 mm; reale 0,1673 mm)
+    Regola: netclass "Default"; error
+    @(138,5246 mm, 84,0558 mm): Piazzola 11 [GND] di U7 su F.Cu
+    @(139,8336 mm, 82,9596 mm): Pista [+3V3] su F.Cu, lung. 0,1270 mm
+[clearance]: Violazione clearance (netclass "Default" clearance 0,2000 mm; reale 0,1716 mm)
+    Regola: netclass "Default"; error
+    @(138,5246 mm, 84,0558 mm): Piazzola 11 [GND] di U7 su F.Cu
+    @(137,1158 mm, 82,9342 mm): Pista [/Buck-Boost3.3V/Buck-Boost_INPUT] su F.Cu, lung. 0,2540 mm
+[clearance]: Violazione clearance (netclass "Default" clearance 0,2000 mm; reale 0,1462 mm)
+    Regola: netclass "Default"; error
+    @(138,5246 mm, 84,0558 mm): Piazzola 11 [GND] di U7 su F.Cu
+    @(139,6812 mm, 82,9596 mm): Pista [+3V3] su F.Cu, lung. 0,1524 mm
+[clearance]: Violazione clearance (netclass "Default" clearance 0,2000 mm; reale 0,1930 mm)
+    Regola: netclass "Default"; error
+    @(138,5246 mm, 84,0558 mm): Piazzola 11 [GND] di U7 su F.Cu
+    @(139,5290 mm, 82,9128 mm): Pista [+3V3] su F.Cu, lung. 0,0003 mm
+[hole_clearance]: Violazione clearance foro (vincoli impostazioni scheda fori clearance 0,2500 mm; reale 0,1751 mm)
+    Regola: vincoli impostazioni scheda fori; error
+    @(101,7300 mm, 99,1000 mm): Piazzola NPTH di U1
+    @(102,8050 mm, 98,7900 mm): Piazzola A1/B12 [GND] di U1 su F.Cu
+[hole_clearance]: Violazione clearance foro (vincoli impostazioni scheda fori clearance 0,2500 mm; reale 0,2099 mm)
+    Regola: vincoli impostazioni scheda fori; error
+    @(101,7300 mm, 99,1000 mm): Piazzola NPTH di U1
+    @(102,8050 mm, 99,5900 mm): Piazzola A4/B9 [VBUS] di U1 su F.Cu
+[hole_clearance]: Violazione clearance foro (vincoli impostazioni scheda fori clearance 0,2500 mm; reale 0,1751 mm)
+    Regola: vincoli impostazioni scheda fori; error
+    @(101,7300 mm, 104,8800 mm): Piazzola NPTH di U1
+    @(102,8050 mm, 105,1900 mm): Piazzola B1/A12 [GND] di U1 su F.Cu
+[hole_clearance]: Violazione clearance foro (vincoli impostazioni scheda fori clearance 0,2500 mm; reale 0,2099 mm)
+    Regola: vincoli impostazioni scheda fori; error
+    @(101,7300 mm, 104,8800 mm): Piazzola NPTH di U1
+    @(102,8050 mm, 104,3900 mm): Piazzola B4/A9 [VBUS] di U1 su F.Cu
+[solder_mask_bridge]: L'apertura maschera di saldatura fronte fa ponte tra elementi con collegamenti diversi
+    Regola: impostazioni scheda larghezza minima maschera di saldatura; error
+    @(101,7300 mm, 99,1000 mm): Piazzola NPTH di U1
+    @(102,8050 mm, 98,7900 mm): Piazzola A1/B12 [GND] di U1 su F.Cu
+[solder_mask_bridge]: L'apertura maschera di saldatura fronte fa ponte tra elementi con collegamenti diversi
+    Regola: impostazioni scheda larghezza minima maschera di saldatura; error
+    @(101,7300 mm, 104,8800 mm): Piazzola NPTH di U1
+    @(102,8050 mm, 105,1900 mm): Piazzola B1/A12 [GND] di U1 su F.Cu
+[solder_mask_bridge]: L'apertura maschera di saldatura fronte fa ponte tra elementi con collegamenti diversi
+    Regola: impostazioni scheda larghezza minima maschera di saldatura; error
+    @(102,8050 mm, 98,7900 mm): Piazzola A1/B12 [GND] di U1 su F.Cu
+    @(102,8050 mm, 99,5900 mm): Piazzola A4/B9 [VBUS] di U1 su F.Cu
+[solder_mask_bridge]: L'apertura maschera di saldatura fronte fa ponte tra elementi con collegamenti diversi
+    Regola: impostazioni scheda larghezza minima maschera di saldatura; error
+    @(102,8050 mm, 101,7400 mm): Piazzola A6 [DP] di U1 su F.Cu
+    @(102,8050 mm, 101,2400 mm): Piazzola B7 [DN] di U1 su F.Cu
+[solder_mask_bridge]: L'apertura maschera di saldatura fronte fa ponte tra elementi con collegamenti diversi
+    Regola: impostazioni scheda larghezza minima maschera di saldatura; error
+    @(102,8050 mm, 102,2400 mm): Piazzola A7 [DN] di U1 su F.Cu
+    @(102,8050 mm, 102,7400 mm): Piazzola B6 [DP] di U1 su F.Cu
+[solder_mask_bridge]: L'apertura maschera di saldatura fronte fa ponte tra elementi con collegamenti diversi
+    Regola: impostazioni scheda larghezza minima maschera di saldatura; error
+    @(102,8050 mm, 103,2400 mm): Piazzola A8 [unconnected-(U1-SBU1-PadA8)] di U1 su F.Cu
+    @(102,8050 mm, 103,7400 mm): Piazzola B5 [unconnected-(U1-CC2-PadB5)] di U1 su F.Cu
+[solder_mask_bridge]: L'apertura maschera di saldatura fronte fa ponte tra elementi con collegamenti diversi
+    Regola: impostazioni scheda larghezza minima maschera di saldatura; error
+    @(102,8050 mm, 105,1900 mm): Piazzola B1/A12 [GND] di U1 su F.Cu
+    @(102,8050 mm, 104,3900 mm): Piazzola B4/A9 [VBUS] di U1 su F.Cu
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** End of Report **

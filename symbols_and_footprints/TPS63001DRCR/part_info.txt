@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS63001DRCR
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=11
+Version=2.2
+Released=2020-09-14 12:51:41
+Downloaded=2025-10-30 10:35:57
+3D=Y
