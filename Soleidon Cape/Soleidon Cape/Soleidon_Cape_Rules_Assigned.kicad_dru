@@ -1,0 +1,63 @@
+version 1
+
+# Soleidon Cape - Design Rules (PCBWay 4-Layer, 1oz)
+# Project: Soleidon Cape v1.0
+# Author: Lifely / IoT Designer
+# Date: 2025-11-07
+# Description: Custom PCB design rules and Net Class mapping for Soleidon Cape hardware
+
+[General]
+version=1
+clearance=0.20
+min_trace_width=0.20
+via_diameter=0.60
+via_drill=0.30
+solder_mask_clearance=0.05
+solder_mask_min_width=0.10
+copper_layer_count=4
+board_thickness=1.6
+copper_thickness=35um
+thermal_gap=0.30
+thermal_bridge_width=0.30
+
+[Net Classes]
+# Format: name width clearance via_diameter via_drill
+Default 0.25 0.20 0.60 0.30
+Signal_Low 0.25 0.20 0.60 0.30
+ADC_Signal 0.30 0.20 0.60 0.30
+Power_3V3 0.80 0.25 0.80 0.40
+Power_5V 1.00 0.30 1.00 0.50
+Power_24V 2.00 0.40 1.20 0.60
+LED_Test 0.25 0.20 0.60 0.30
+GND_Plane 0.25 0.25 0.80 0.40
+
+[Net Assignments]
+# Mapping from schematic nets to Net Classes
++24V, +24_PROTECT, +24V_PowerSensor_OUT, 24Vin, 24Vout = Power_24V
++5V, EXT_5V, VDD_5V = Power_5V
++3V3, 3V3_EN, VDD_3V3 = Power_3V3
+GND, GNDREF, GND_TAB = GND_Plane
+AIN*, ADC*, ADS*, U*_IN, 4-20mA*, 0-5V* = ADC_Signal
+SDA*, SCL*, ALERT*, ADDR*, MUX*, I2C*, RESET* = Signal_Low
+LED*, PWR_FLAG*, TP*, ONOFF* = LED_Test
+
+[Layer Stackup]
+# Layer1 (Top): Signal + Components
+# Layer2 (Inner1): GND Plane (solid fill)
+# Layer3 (Inner2): Power Plane (24V / 5V / 3V3 zones)
+# Layer4 (Bottom): Signals / LEDs / Routing
+
+[Notes]
+# Verified for PCBWay 4-layer 1oz stackup (35µm copper)
+# Min trace: 0.20mm (8mil), clearance: 0.20mm, via drill: 0.30mm
+# Suitable up to 3A on 2.0mm tracks and <1A on 0.8mm (35um copper)
+# Use filled zones for GND and Power planes
+# Step-down and 24V input paths should use 1.5-2.0mm width minimum
+
+[Documentation]
+# Project: Soleidon Cape v1.0
+# Prepared for: Lifely - IoT Designer
+# Date: 2025-11-07
+# Author: Foddis Gabriele
+# Toolchain: KiCad 9.0 - PCBWay Manufacturing Constraints
+# Verified against schematic: Soleidon Cape.pdf

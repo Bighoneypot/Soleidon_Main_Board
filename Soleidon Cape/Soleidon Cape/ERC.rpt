@@ -1,0 +1,234 @@
+Rapporto ERC (2025-11-06T12:11:12+0100, codifica UTF8)
+
+***** Foglio /
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(9100 mils, 2950 mils): Symbol J17 Pin 1 [1, Unspecified, Line]
+    @(9200 mils, 2950 mils): Symbol J17 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(9200 mils, 2950 mils): Symbol J17 Pin 2 [2, Unspecified, Line]
+    @(9300 mils, 2950 mils): Symbol J17 Pin 3 [3, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(9300 mils, 2950 mils): Symbol J17 Pin 3 [3, Unspecified, Line]
+    @(9400 mils, 2950 mils): Symbol J17 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(9400 mils, 2950 mils): Symbol J17 Pin 4 [4, Unspecified, Line]
+    @(9500 mils, 2950 mils): Symbol J17 Pin 5 [5, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(9500 mils, 2950 mils): Symbol J17 Pin 5 [5, Unspecified, Line]
+    @(9600 mils, 2950 mils): Symbol J17 Pin 6 [6, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(9600 mils, 2950 mils): Symbol J17 Pin 6 [6, Unspecified, Line]
+    @(9700 mils, 2950 mils): Symbol J17 Pin 7 [7, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(9700 mils, 2950 mils): Symbol J17 Pin 7 [7, Unspecified, Line]
+    @(9800 mils, 2950 mils): Symbol J17 Pin 8 [8, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(9800 mils, 2950 mils): Symbol J17 Pin 8 [8, Unspecified, Line]
+    @(9900 mils, 2950 mils): Symbol J17 Pin 9 [9, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(9900 mils, 2950 mils): Symbol J17 Pin 9 [9, Unspecified, Line]
+    @(10000 mils, 2950 mils): Symbol J17 Pin 10 [10, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(10000 mils, 2950 mils): Symbol J17 Pin 10 [10, Unspecified, Line]
+    @(10100 mils, 2950 mils): Symbol J17 Pin 11 [11, Unspecified, Line]
+[footprint_link_issues]: La configurazione corrente non include la libreria di impronte '1860280'.
+    ; warning
+    @(10400 mils, 1450 mils): Simbolo J20 [1860280]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(10100 mils, 2950 mils): Symbol J17 Pin 11 [11, Unspecified, Line]
+    @(10200 mils, 2950 mils): Symbol J17 Pin 12 [12, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(10200 mils, 2950 mils): Symbol J17 Pin 12 [12, Unspecified, Line]
+    @(10300 mils, 2950 mils): Symbol J17 Pin 13 [13, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(10300 mils, 2950 mils): Symbol J17 Pin 13 [13, Unspecified, Line]
+    @(10400 mils, 2950 mils): Symbol J17 Pin 14 [14, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(10400 mils, 2950 mils): Symbol J17 Pin 14 [14, Unspecified, Line]
+    @(10500 mils, 2950 mils): Symbol J17 Pin 15 [15, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(10500 mils, 2950 mils): Symbol J17 Pin 15 [15, Unspecified, Line]
+    @(10600 mils, 2950 mils): Symbol J17 Pin 16 [16, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Power input sono connessi
+    ; warning
+    @(10600 mils, 2950 mils): Symbol J17 Pin 16 [16, Unspecified, Line]
+    @(11050 mils, 2950 mils): Symbol #PWR034 Pin 1 [Power input, Line]
+[footprint_link_issues]: La configurazione corrente non include la libreria di impronte '1860280'.
+    ; warning
+    @(12450 mils, 1450 mils): Simbolo J25 [1860280]
+[multiple_net_names]: Sia +3.3V che GNDREF sono collegati agli stessi elementi; nella netlist verrà usata +3.3V
+    ; warning
+    @(12800 mils, 10800 mils): Etichetta globale '+3.3V'
+    @(1150 mils, 12600 mils): Symbol #PWR07 Pin 1 [Power input, Line]
+[footprint_link_issues]: La configurazione corrente non include la libreria di impronte ''.
+    ; warning
+    @(12500 mils, 2950 mils): Simbolo J26 [1841555]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(12500 mils, 2950 mils): Symbol J26 Pin 1 [1, Unspecified, Line]
+    @(12600 mils, 2950 mils): Symbol J26 Pin 2 [2, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(12600 mils, 2950 mils): Symbol J26 Pin 2 [2, Unspecified, Line]
+    @(12700 mils, 2950 mils): Symbol J26 Pin 3 [3, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(12700 mils, 2950 mils): Symbol J26 Pin 3 [3, Unspecified, Line]
+    @(12800 mils, 2950 mils): Symbol J26 Pin 4 [4, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(12800 mils, 2950 mils): Symbol J26 Pin 4 [4, Unspecified, Line]
+    @(12900 mils, 2950 mils): Symbol J26 Pin 5 [5, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(12900 mils, 2950 mils): Symbol J26 Pin 5 [5, Unspecified, Line]
+    @(13000 mils, 2950 mils): Symbol J26 Pin 6 [6, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(13000 mils, 2950 mils): Symbol J26 Pin 6 [6, Unspecified, Line]
+    @(13100 mils, 2950 mils): Symbol J26 Pin 7 [7, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(13100 mils, 2950 mils): Symbol J26 Pin 7 [7, Unspecified, Line]
+    @(13200 mils, 2950 mils): Symbol J26 Pin 8 [8, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Passive sono connessi
+    ; warning
+    @(12250 mils, 5600 mils): Symbol U11 Pin 9 [SD2, Unspecified, Line]
+    @(12900 mils, 3750 mils): Symbol J27 Pin 3 [3, Passive, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Passive sono connessi
+    ; warning
+    @(12250 mils, 5700 mils): Symbol U11 Pin 10 [SC2, Unspecified, Line]
+    @(12900 mils, 3850 mils): Symbol J27 Pin 4 [4, Passive, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Passive sono connessi
+    ; warning
+    @(13200 mils, 2950 mils): Symbol J26 Pin 8 [8, Unspecified, Line]
+    @(15250 mils, 4300 mils): Symbol TP8 Pin 1 [1, Passive, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Passive sono connessi
+    ; warning
+    @(12250 mils, 5800 mils): Symbol U11 Pin 11 [SD3, Unspecified, Line]
+    @(12900 mils, 4450 mils): Symbol J28 Pin 3 [3, Passive, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Passive sono connessi
+    ; warning
+    @(12250 mils, 5900 mils): Symbol U11 Pin 12 [SC3, Unspecified, Line]
+    @(12900 mils, 4550 mils): Symbol J28 Pin 4 [4, Passive, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(13300 mils, 2950 mils): Symbol J26 Pin 9 [9, Unspecified, Line]
+    @(13400 mils, 2950 mils): Symbol J26 Pin 10 [10, Unspecified, Line]
+[footprint_link_issues]: La configurazione corrente non include la libreria di impronte 'PCA9546 Breakout'.
+    ; warning
+    @(11350 mils, 7600 mils): Simbolo C22 [CAP_CERAMIC0805-NOOUTLINE]
+[lib_symbol_issues]: La configurazione corrente non include la libreria di simboli 'PCA9546 Breakout-eagle-import'
+    ; warning
+    @(11350 mils, 7600 mils): Simbolo C22 [CAP_CERAMIC0805-NOOUTLINE]
+[pin_to_pin]: I pin di tipo Unspecified e Passive sono connessi
+    ; warning
+    @(12250 mils, 6100 mils): Symbol U11 Pin 14 [SCL, Unspecified, Line]
+    @(11050 mils, 5250 mils): Symbol JP13 Pin 1 [A, Passive, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(13400 mils, 2950 mils): Symbol J26 Pin 10 [10, Unspecified, Line]
+    @(13500 mils, 2950 mils): Symbol J26 Pin 11 [11, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Passive sono connessi
+    ; warning
+    @(12250 mils, 6200 mils): Symbol U11 Pin 15 [SDA, Unspecified, Line]
+    @(11350 mils, 5250 mils): Symbol JP14 Pin 1 [A, Passive, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(13500 mils, 2950 mils): Symbol J26 Pin 11 [11, Unspecified, Line]
+    @(13600 mils, 2950 mils): Symbol J26 Pin 12 [12, Unspecified, Line]
+[footprint_link_issues]: La configurazione corrente non include la libreria di impronte 'PCA9546 Breakout'.
+    ; warning
+    @(11600 mils, 7600 mils): Simbolo C23 [CAP_CERAMIC0805-NOOUTLINE]
+[lib_symbol_issues]: La configurazione corrente non include la libreria di simboli 'PCA9546 Breakout-eagle-import'
+    ; warning
+    @(11600 mils, 7600 mils): Simbolo C23 [CAP_CERAMIC0805-NOOUTLINE]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(13600 mils, 2950 mils): Symbol J26 Pin 12 [12, Unspecified, Line]
+    @(13700 mils, 2950 mils): Symbol J26 Pin 13 [13, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(13700 mils, 2950 mils): Symbol J26 Pin 13 [13, Unspecified, Line]
+    @(13800 mils, 2950 mils): Symbol J26 Pin 14 [14, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(13800 mils, 2950 mils): Symbol J26 Pin 14 [14, Unspecified, Line]
+    @(13900 mils, 2950 mils): Symbol J26 Pin 15 [15, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(13900 mils, 2950 mils): Symbol J26 Pin 15 [15, Unspecified, Line]
+    @(14000 mils, 2950 mils): Symbol J26 Pin 16 [16, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Power input sono connessi
+    ; warning
+    @(14000 mils, 2950 mils): Symbol J26 Pin 16 [16, Unspecified, Line]
+    @(14450 mils, 2950 mils): Symbol #PWR047 Pin 1 [Power input, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Passive sono connessi
+    ; warning
+    @(13850 mils, 5700 mils): Symbol U11 Pin 7 [SC1, Unspecified, Line]
+    @(19150 mils, 7550 mils): Symbol R48 Pin 2 [Passive, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Passive sono connessi
+    ; warning
+    @(13850 mils, 5800 mils): Symbol U11 Pin 6 [SD1, Unspecified, Line]
+    @(17250 mils, 7600 mils): Symbol R42 Pin 2 [Passive, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Passive sono connessi
+    ; warning
+    @(13850 mils, 5900 mils): Symbol U11 Pin 5 [SC0, Unspecified, Line]
+    @(17250 mils, 5600 mils): Symbol R41 Pin 2 [Passive, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Passive sono connessi
+    ; warning
+    @(13850 mils, 6000 mils): Symbol U11 Pin 4 [SD0, Unspecified, Line]
+    @(19150 mils, 5550 mils): Symbol R47 Pin 2 [Passive, Line]
+[footprint_link_issues]: La configurazione corrente non include la libreria di impronte ''.
+    ; warning
+    @(13850 mils, 6300 mils): Simbolo U11 [TCA9546ADR]
+[global_label_dangling]: Etichetta globale non connessa da nessun'altra parte nello schema
+    ; warning
+    @(1600 mils, 15350 mils): Etichetta globale 'ADDR_U16'
+[pin_not_driven]: Pin d'ingresso non pilotato da nessun pin d'uscita
+    ; error
+    @(1900 mils, 15350 mils): Symbol U8 Pin 1 [ADDR, Input, Line]
+[global_label_dangling]: Etichetta globale non connessa da nessun'altra parte nello schema
+    ; warning
+    @(1950 mils, 16850 mils): Etichetta globale 'ADDR_U15'
+[power_pin_not_driven]: Pin di potenza d'ingresso non pilotato da nessun pin di potenza d'uscita
+    ; error
+    @(1650 mils, 17950 mils): Symbol U1 Pin 8 [VDD, Power input, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Passive sono connessi
+    ; warning
+    @(9750 mils, 15850 mils): Symbol J19 Pin 1 [1_1, Unspecified, Line]
+    @(10150 mils, 15500 mils): Symbol R30 Pin 2 [Passive, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Power output sono connessi
+    ; warning
+    @(9750 mils, 15950 mils): Symbol J19 Pin 2 [1_2, Unspecified, Line]
+    @(9050 mils, 15850 mils): Symbol #FLG01 Pin 1 [pwr, Power output, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Unspecified sono connessi
+    ; warning
+    @(9750 mils, 16050 mils): Symbol J19 Pin 3 [2_1, Unspecified, Line]
+    @(9750 mils, 16150 mils): Symbol J19 Pin 4 [2_2, Unspecified, Line]
+[pin_to_pin]: I pin di tipo Unspecified e Power output sono connessi
+    ; warning
+    @(9750 mils, 16150 mils): Symbol J19 Pin 4 [2_2, Unspecified, Line]
+    @(9150 mils, 16000 mils): Symbol #FLG02 Pin 1 [pwr, Power output, Line]
+[lib_symbol_mismatch]: Il simbolo 'LM2596S-5' non corrisponde alla copia nella libreria 'Regulator_Switching'
+    ; warning
+    @(13500 mils, 15600 mils): Simbolo U10 [LM2596S-5]
+
+***** Foglio /StepDown 24v to 5V/
+
+ ** messaggi ERC: 60  Errori 2  Avvisi 58

@@ -1,0 +1,3376 @@
+Info: Elaborazione simbolo "C1:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "C27:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "JP5:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "C15:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "JP29:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "J22:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+Info: Elaborazione simbolo "JP2:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "D10:AA_Soleidon_Cape:LEDC1608X35N".
+Info: Elaborazione simbolo "J10:AA_Soleidon_Cape:CUI_TBL009-254-04GY-2GY".
+Info: Elaborazione simbolo "C49:AA_Soleidon_Cape:CAP_6.3 X 5.8_PAN".
+Info: Elaborazione simbolo "J33:AA_Soleidon_Cape:CONN_1841513".
+Info: Elaborazione simbolo "JP14:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "C39:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "C2:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "D1:Diode_SMD:D_SOD-123".
+Info: Elaborazione simbolo "C28:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "C16:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "J39:AA_Soleidon_Cape:CONN_1841513".
+Info: Elaborazione simbolo "J19:Soleidon_custom:QWIIC-SPARKFUN_PRT-14417".
+Info: Elaborazione simbolo "JP24:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "JP20:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "H1:MountingHole:MountingHole_3.2mm_M3".
+Info: Elaborazione simbolo "H2:MountingHole:MountingHole_3.2mm_M3".
+Info: Elaborazione simbolo "D11:Diode_SMD:D_SMC".
+Info: Elaborazione simbolo "C3:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "C50:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "H3:MountingHole:MountingHole_3.2mm_M3".
+Info: Elaborazione simbolo "H4:MountingHole:MountingHole_3.2mm_M3".
+Info: Elaborazione simbolo "C40:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "C17:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "C29:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "H5:MountingHole:MountingHole_3.2mm_M3".
+Info: Elaborazione simbolo "D2:Diode_SMD:D_SOD-123".
+Info: Elaborazione simbolo "H6:MountingHole:MountingHole_3.2mm_M3".
+Info: Elaborazione simbolo "J1:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical".
+Info: Elaborazione simbolo "C4:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "J6:AA_Soleidon_Cape:CUI_TBL009-254-04GY-2GY".
+Info: Elaborazione simbolo "J14:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical".
+Info: Elaborazione simbolo "J38:AA_Soleidon_Cape:CONN_1841513".
+Info: Elaborazione simbolo "JP23:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "C51:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "J40:AA_Soleidon_Cape:CONN_1841513".
+Info: Elaborazione simbolo "C18:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "JP19:AA_Soleidon_Cape:Custom_Open_Jumper".
+Info: Elaborazione simbolo "C30:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "C41:Capacitor_SMD:C_0805_2012Metric".
+Info: Elaborazione simbolo "C5:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "J23:Soleidon_custom:QWIIC-SPARKFUN_PRT-14417".
+Info: Elaborazione simbolo "D12:Diode_SMD:D_SMB".
+Info: Elaborazione simbolo "D3:Diode_SMD:D_SOD-123".
+Info: Elaborazione simbolo "J28:Soleidon_custom:QWIIC-SPARKFUN_PRT-14417".
+Info: Elaborazione simbolo "J30:AA_Soleidon_Cape:TE_2-644803-3".
+Info: Elaborazione simbolo "J37:AA_Soleidon_Cape:CONN_1841513".
+Info: Elaborazione simbolo "J2:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical".
+Info: Elaborazione simbolo "JP34:AA_Soleidon_Cape:Custom_Open_Jumper".
+Info: Elaborazione simbolo "C19:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "C52:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "C6:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "J26:Soleidon_custom:QWIIC-SPARKFUN_PRT-14417".
+Info: Elaborazione simbolo "C31:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "J15:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical".
+Info: Elaborazione simbolo "C42:AA_Soleidon_Cape:PCAP_8x10-ELECT_NCA".
+Info: Elaborazione simbolo "JP6:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "J11:AA_Soleidon_Cape:CUI_TBL009-254-04GY-2GY".
+Info: Elaborazione simbolo "J32:AA_Soleidon_Cape:CONN_1841513".
+Info: Elaborazione simbolo "D4:Diode_SMD:D_SOD-123".
+Info: Elaborazione simbolo "D13:AA_Soleidon_Cape:DIOM4336X265N".
+Info: Elaborazione simbolo "JP16:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "C7:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "C20:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "JP33:AA_Soleidon_Cape:Custom_Open_Jumper".
+Info: Elaborazione simbolo "J20:Soleidon_custom:QWIIC-SPARKFUN_PRT-14417".
+Info: Elaborazione simbolo "C32:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "JP1:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "J3:AA_Soleidon_Cape:CUI_TBL009-254-04GY-2GY".
+Info: Elaborazione simbolo "C43:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "C53:Capacitor_SMD:C_0805_2012Metric".
+Info: Elaborazione simbolo "J7:AA_Soleidon_Cape:CUI_TBL009-254-04GY-2GY".
+Info: Elaborazione simbolo "J36:AA_Soleidon_Cape:CONN_1841513".
+Info: Elaborazione simbolo "C8:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "JP13:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "JP18:AA_Soleidon_Cape:Custom_Open_Jumper".
+Info: Elaborazione simbolo "C21:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "D5:Diode_SMD:D_SOD-123".
+Info: Elaborazione simbolo "D14:AA_Soleidon_Cape:SMA_DIO_schottky".
+Info: Elaborazione simbolo "JP10:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "C33:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "J16:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical".
+Info: Elaborazione simbolo "JP28:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "JP27:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "C9:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "C44:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "JP32:AA_Soleidon_Cape:Custom_Open_Jumper".
+Info: Elaborazione simbolo "JP7:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "C54:AA_Soleidon_Cape:PCAP_8x10-ELECT_NCA".
+Info: Elaborazione simbolo "C22:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "J24:Soleidon_custom:QWIIC-SPARKFUN_PRT-14417".
+Info: Elaborazione simbolo "JP22:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "J35:AA_Soleidon_Cape:CONN_1841513".
+Info: Elaborazione simbolo "D6:Diode_SMD:D_SOD-123".
+Info: Elaborazione simbolo "C34:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "JP9:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "C10:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "D15:Diode_SMD:D_SMA".
+Info: Elaborazione simbolo "JP21:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "J4:AA_Soleidon_Cape:CUI_TBL009-254-04GY-2GY".
+Info: Elaborazione simbolo "C45:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "J12:AA_Soleidon_Cape:CUI_TBL009-254-04GY-2GY".
+Info: Elaborazione simbolo "C23:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "J31:AA_Soleidon_Cape:CONN_1841513".
+Info: Elaborazione simbolo "C55:Capacitor_SMD:C_0805_2012Metric".
+Info: Elaborazione simbolo "J17:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+Info: Elaborazione simbolo "JP31:AA_Soleidon_Cape:Custom_Open_Jumper".
+Info: Elaborazione simbolo "J21:Soleidon_custom:QWIIC-SPARKFUN_PRT-14417".
+Info: Elaborazione simbolo "C11:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "C35:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "J8:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical".
+Info: Elaborazione simbolo "D7:Diode_SMD:D_SOD-123".
+Info: Elaborazione simbolo "JP12:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "JP11:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "D16:AA_Soleidon_Cape:LEDC1608X35N".
+Info: Elaborazione simbolo "C24:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "C46:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "JP26:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "JP25:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "C56:Capacitor_SMD:C_0805_2012Metric".
+Info: Elaborazione simbolo "C12:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "J27:Soleidon_custom:QWIIC-SPARKFUN_PRT-14417".
+Info: Elaborazione simbolo "JP17:AA_Soleidon_Cape:Custom_Open_Jumper".
+Info: Elaborazione simbolo "C36:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "J29:AA_Soleidon_Cape:TE_2-644803-3".
+Info: Elaborazione simbolo "JP30:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "JP8:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "D8:Diode_SMD:D_SOD-123".
+Info: Elaborazione simbolo "C25:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "J5:AA_Soleidon_Cape:CUI_TBL009-254-04GY-2GY".
+Info: Elaborazione simbolo "JP38:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "C47:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "C13:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "JP37:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "D17:AA_Soleidon_Cape:LEDC1608X35N".
+Info: Elaborazione simbolo "C57:AA_Soleidon_Cape:PCAP_8x10-ELECT_NCA".
+Info: Elaborazione simbolo "J18:AA_Soleidon_Cape:CONN2_2601-1102_WAG".
+Info: Elaborazione simbolo "C37:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "J9:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical".
+Info: Elaborazione simbolo "J34:AA_Soleidon_Cape:CONN_1841513".
+Info: Elaborazione simbolo "JP15:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "C26:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "J25:Soleidon_custom:QWIIC-SPARKFUN_PRT-14417".
+Info: Elaborazione simbolo "JP4:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "C14:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "D9:AA_Soleidon_Cape:LEDC1608X35N".
+Info: Elaborazione simbolo "C48:Capacitor_SMD:C_0805_2012Metric".
+Info: Elaborazione simbolo "JP3:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "J13:Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical".
+Info: Elaborazione simbolo "JP36:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "C58:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "C38:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "JP35:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "F1:AA_Soleidon_Cape:FUSE_155900_LTF".
+Info: Elaborazione simbolo "JP39:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "JP40:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "JP41:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "JP42:Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm".
+Info: Elaborazione simbolo "JP43:AA_Soleidon_Cape:Custom_Open_Jumper".
+Info: Elaborazione simbolo "L1:AA_Soleidon_Cape:RL622_Series".
+Info: Elaborazione simbolo "L1_SRR1260-330M1:AA_Soleidon_Cape:IND_BOURNS_SRR1260".
+Info: Elaborazione simbolo "Q1:Package_TO_SOT_SMD:SOT-23".
+Info: Elaborazione simbolo "Q2:Package_TO_SOT_SMD:SOT-23".
+Info: Elaborazione simbolo "Q3:Package_TO_SOT_SMD:SOT-23".
+Info: Elaborazione simbolo "Q4:Package_TO_SOT_SMD:SOT-23".
+Info: Elaborazione simbolo "R1:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R2:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R3:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R4:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R5:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R6:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R7:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R8:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R9:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R10:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R11:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R12:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R13:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R14:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R15:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R16:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R17:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R18:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R19:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R20:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R21:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R22:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R23:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R24:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R25:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R26:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R27:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R28:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R29:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R30:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R31:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R32:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R33:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R34:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R35:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R36:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R37:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R38:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R39:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R40:Resistor_SMD:R_0603_1608Metric".
+Info: Totale avvisi: 22, errori: 12.
+Info: Elaborazione simbolo "R41:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R42:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R43:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R44:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R45:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R46:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R47:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R48:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R49:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R50:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R51:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R52:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R53:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R54:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "R55:Resistor_SMD:R_0201_0603Metric".
+Info: Elaborazione simbolo "R56:Resistor_SMD:R_1206_3216Metric".
+Info: Elaborazione simbolo "R57:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "R58:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R59:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R60:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R61:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R62:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "R63:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R64:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "R65:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "R66:Capacitor_SMD:C_0201_0603Metric".
+Info: Elaborazione simbolo "R67:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R68:Resistor_SMD:R_0603_1608Metric".
+Info: Elaborazione simbolo "R69:Resistor_SMD:R_0201_0603Metric".
+Info: Elaborazione simbolo "R70:Resistor_SMD:R_0201_0603Metric".
+Info: Elaborazione simbolo "R71:Resistor_SMD:R_0805_2012Metric".
+Info: Elaborazione simbolo "R72:Resistor_SMD:R_0805_2012Metric".
+Info: Elaborazione simbolo "R73:Resistor_SMD:R_0805_2012Metric".
+Info: Elaborazione simbolo "R74:Resistor_SMD:R_0805_2012Metric".
+Info: Elaborazione simbolo "R75:Resistor_SMD:R_0805_2012Metric".
+Info: Elaborazione simbolo "R76:Resistor_SMD:R_0805_2012Metric".
+Info: Elaborazione simbolo "R77:Resistor_SMD:R_0805_2012Metric".
+Info: Elaborazione simbolo "R78:Resistor_SMD:R_0805_2012Metric".
+Info: Elaborazione simbolo "TP1:TestPoint:TestPoint_Pad_1.5x1.5mm".
+Info: Elaborazione simbolo "TP2:TestPoint:TestPoint_Pad_1.5x1.5mm".
+Info: Elaborazione simbolo "TP3:TestPoint:TestPoint_Pad_1.5x1.5mm".
+Info: Elaborazione simbolo "TP4:TestPoint:TestPoint_Pad_1.5x1.5mm".
+Info: Elaborazione simbolo "TP5:TestPoint:TestPoint_Pad_1.5x1.5mm".
+Info: Elaborazione simbolo "TP6:TestPoint:TestPoint_Pad_1.5x1.5mm".
+Info: Elaborazione simbolo "TP7:TestPoint:TestPoint_Pad_1.5x1.5mm".
+Info: Elaborazione simbolo "TP8:TestPoint:TestPoint_Pad_1.5x1.5mm".
+Info: Elaborazione simbolo "TP9:TestPoint:TestPoint_Pad_1.5x1.5mm".
+Info: Elaborazione simbolo "TP10:Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical".
+Info: Elaborazione simbolo "TP11:TestPoint:TestPoint_Pad_1.5x1.5mm".
+Info: Elaborazione simbolo "TP12:TestPoint:TestPoint_Pad_1.5x1.5mm".
+Info: Elaborazione simbolo "TP13:TestPoint:TestPoint_Pad_1.5x1.5mm".
+Info: Elaborazione simbolo "TP14:TestPoint:TestPoint_Pad_1.5x1.5mm".
+Info: Elaborazione simbolo "TP15:TestPoint:TestPoint_Pad_1.5x1.5mm".
+Info: Elaborazione simbolo "TP16:TestPoint:TestPoint_Pad_1.5x1.5mm".
+Info: Elaborazione simbolo "TP17:TestPoint:TestPoint_Pad_1.5x1.5mm".
+Info: Elaborazione simbolo "U1:AA_Soleidon_Cape:DGS0010A_N".
+Info: Elaborazione simbolo "U2:AA_Soleidon_Cape:DGS0010A_N".
+Info: Elaborazione simbolo "U3:AA_Soleidon_Cape:DGS0010A_N".
+Info: Elaborazione simbolo "U4:AA_Soleidon_Cape:DGS0010A_N".
+Info: Elaborazione simbolo "U5:AA_Soleidon_Cape:DGS0010A_N".
+Info: Elaborazione simbolo "U6:AA_Soleidon_Cape:DGS0010A_N".
+Info: Elaborazione simbolo "U7:AA_Soleidon_Cape:DGS0010A_N".
+Info: Elaborazione simbolo "U8:AA_Soleidon_Cape:DGS0010A_N".
+Info: Elaborazione simbolo "U9:Package_SO:SOIC-8_3.9x4.9mm_P1.27mm".
+Info: Elaborazione simbolo "U10:AA_Soleidon_Cape:D16_TEX".
+Info: Elaborazione simbolo "VR1:AA_Soleidon_Cape:LM2596S-5.0_NOPB".
+Aggiornata associazione simbolo C12 da  a /ec60d453-3859-4f43-9882-d6df50ff3648.
+Aggiornati C12 campi
+Aggiornato nome foglio C12 a '/'.
+Aggiornato file foglio C12 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C12 a 'C_*'.
+Aggiungi collegamento Net-(U7-AIN2).
+Connesso C12 pin 1 a Net-(U7-AIN2).
+Connesso C12 pin 2 a GND.
+Aggiunto C13 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C13.
+Cambiato valore C13 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C13 da  a /f16a60f8-6ca9-4370-8f07-8bca7dc850cf.
+Aggiornati C13 campi
+Aggiornato nome foglio C13 a '/'.
+Aggiornato file foglio C13 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C13 a 'C_*'.
+Connesso C13 pin 2 a GND.
+Aggiungi collegamento Net-(U6-AIN0).
+Connesso C13 pin 1 a Net-(U6-AIN0).
+Aggiunto C14 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C14.
+Cambiato valore C14 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C14 da  a /3e7ab709-4e99-4354-b54c-acf435134a93.
+Aggiornati C14 campi
+Aggiornato nome foglio C14 a '/'.
+Aggiornato file foglio C14 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C14 a 'C_*'.
+Aggiungi collegamento Net-(U2-AIN0).
+Connesso C14 pin 1 a Net-(U2-AIN0).
+Connesso C14 pin 2 a GND.
+Aggiunto C15 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C15.
+Cambiato valore C15 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C15 da  a /48614c07-34d0-4b37-862e-71447b5bc3f7.
+Aggiornati C15 campi
+Aggiornato nome foglio C15 a '/'.
+Aggiornato file foglio C15 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C15 a 'C_*'.
+Aggiungi collegamento Net-(U2-AIN2).
+Connesso C15 pin 1 a Net-(U2-AIN2).
+Connesso C15 pin 2 a GND.
+Aggiunto C16 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C16.
+Cambiato valore C16 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C16 da  a /8b804993-34a9-475a-a863-77da964a9af2.
+Aggiornati C16 campi
+Aggiornato nome foglio C16 a '/'.
+Aggiornato file foglio C16 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C16 a 'C_*'.
+Connesso C16 pin 2 a GND.
+Aggiungi collegamento Net-(U4-AIN1).
+Connesso C16 pin 1 a Net-(U4-AIN1).
+Aggiunto C17 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C17.
+Cambiato valore C17 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C17 da  a /c2376118-1889-4f01-b2ff-c72fb1aa192c.
+Aggiornati C17 campi
+Aggiornato nome foglio C17 a '/'.
+Aggiornato file foglio C17 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C17 a 'C_*'.
+Aggiungi collegamento Net-(U7-AIN0).
+Connesso C17 pin 1 a Net-(U7-AIN0).
+Connesso C17 pin 2 a GND.
+Aggiunto C18 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C18.
+Cambiato valore C18 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C18 da  a /469fbe90-1b0f-464e-a93c-385e4319112c.
+Aggiornati C18 campi
+Aggiornato nome foglio C18 a '/'.
+Aggiornato file foglio C18 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C18 a 'C_*'.
+Aggiungi collegamento Net-(U7-AIN1).
+Connesso C18 pin 1 a Net-(U7-AIN1).
+Connesso C18 pin 2 a GND.
+Aggiunto C19 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C19.
+Cambiato valore C19 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C19 da  a /ae7270d8-846c-4ff8-b6de-7bceb44da1b3.
+Aggiornati C19 campi
+Aggiornato nome foglio C19 a '/'.
+Aggiornato file foglio C19 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C19 a 'C_*'.
+Connesso C19 pin 2 a GND.
+Aggiungi collegamento Net-(U7-AIN3).
+Connesso C19 pin 1 a Net-(U7-AIN3).
+Aggiunto C20 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C20.
+Cambiato valore C20 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C20 da  a /b38bcb20-ef86-45dc-8a74-9dac6d80446b.
+Aggiornati C20 campi
+Aggiornato nome foglio C20 a '/'.
+Aggiornato file foglio C20 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C20 a 'C_*'.
+Aggiungi collegamento Net-(U5-AIN1).
+Connesso C20 pin 1 a Net-(U5-AIN1).
+Connesso C20 pin 2 a GND.
+Aggiunto C21 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C21.
+Cambiato valore C21 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C21 da  a /d04f3011-ee17-477c-a529-5fe9cafc1688.
+Aggiornati C21 campi
+Aggiornato nome foglio C21 a '/'.
+Aggiornato file foglio C21 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C21 a 'C_*'.
+Aggiungi collegamento Net-(U6-AIN1).
+Connesso C21 pin 1 a Net-(U6-AIN1).
+Connesso C21 pin 2 a GND.
+Aggiunto C22 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C22.
+Cambiato valore C22 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C22 da  a /94d01328-d5d2-45d9-8de2-fb63a266f0b8.
+Aggiornati C22 campi
+Aggiornato nome foglio C22 a '/'.
+Aggiornato file foglio C22 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C22 a 'C_*'.
+Aggiungi collegamento Net-(U6-AIN2).
+Connesso C22 pin 1 a Net-(U6-AIN2).
+Connesso C22 pin 2 a GND.
+Aggiunto C23 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C23.
+Cambiato valore C23 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C23 da  a /ea4e8568-9fbc-4ad7-aa26-4a379fcc786c.
+Aggiornati C23 campi
+Aggiornato nome foglio C23 a '/'.
+Aggiornato file foglio C23 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C23 a 'C_*'.
+Connesso C23 pin 2 a GND.
+Aggiungi collegamento Net-(U3-AIN0).
+Connesso C23 pin 1 a Net-(U3-AIN0).
+Aggiunto C24 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C24.
+Cambiato valore C24 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C24 da  a /1eb829e1-5ded-4b9e-9b3c-50ef58669082.
+Aggiornati C24 campi
+Aggiornato nome foglio C24 a '/'.
+Aggiornato file foglio C24 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C24 a 'C_*'.
+Connesso C24 pin 2 a GND.
+Aggiungi collegamento Net-(U3-AIN1).
+Connesso C24 pin 1 a Net-(U3-AIN1).
+Aggiunto C25 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C25.
+Cambiato valore C25 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C25 da  a /2971ee6c-1a62-4103-ae70-b28668267199.
+Aggiornati C25 campi
+Aggiornato nome foglio C25 a '/'.
+Aggiornato file foglio C25 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C25 a 'C_*'.
+Aggiungi collegamento Net-(U3-AIN2).
+Connesso C25 pin 1 a Net-(U3-AIN2).
+Connesso C25 pin 2 a GND.
+Aggiunto C26 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C26.
+Cambiato valore C26 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C26 da  a /4abac088-adee-4021-9701-75774d1aed98.
+Aggiornati C26 campi
+Aggiornato nome foglio C26 a '/'.
+Aggiornato file foglio C26 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C26 a 'C_*'.
+Connesso C26 pin 2 a GND.
+Aggiungi collegamento Net-(U3-AIN3).
+Connesso C26 pin 1 a Net-(U3-AIN3).
+Aggiunto C27 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C27.
+Cambiato valore C27 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C27 da  a /65a5b7c8-e7a3-4012-a019-003f5c58aba5.
+Aggiornati C27 campi
+Aggiornato nome foglio C27 a '/'.
+Aggiornato file foglio C27 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C27 a 'C_*'.
+Aggiungi collegamento Net-(U4-AIN0).
+Connesso C27 pin 1 a Net-(U4-AIN0).
+Connesso C27 pin 2 a GND.
+Aggiunto C28 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C28.
+Cambiato valore C28 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C28 da  a /54731e57-3fcd-4333-aedc-052c3382679a.
+Aggiornati C28 campi
+Aggiornato nome foglio C28 a '/'.
+Aggiornato file foglio C28 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C28 a 'C_*'.
+Aggiungi collegamento Net-(U4-AIN2).
+Connesso C28 pin 1 a Net-(U4-AIN2).
+Connesso C28 pin 2 a GND.
+Aggiunto C29 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C29.
+Cambiato valore C29 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C29 da  a /bc93f7be-713a-485f-aa41-2ebb1d542130.
+Aggiornati C29 campi
+Aggiornato nome foglio C29 a '/'.
+Aggiornato file foglio C29 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C29 a 'C_*'.
+Connesso C29 pin 2 a GND.
+Aggiungi collegamento Net-(U4-AIN3).
+Connesso C29 pin 1 a Net-(U4-AIN3).
+Aggiunto C30 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C30.
+Cambiato valore C30 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C30 da  a /6488d822-e764-441d-aab9-f100e063c2a7.
+Aggiornati C30 campi
+Aggiornato nome foglio C30 a '/'.
+Aggiornato file foglio C30 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C30 a 'C_*'.
+Aggiungi collegamento Net-(U5-AIN2).
+Connesso C30 pin 1 a Net-(U5-AIN2).
+Connesso C30 pin 2 a GND.
+Aggiunto C31 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C31.
+Cambiato valore C31 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C31 da  a /37964197-698d-4c5a-a69c-8ec6975f84ad.
+Aggiornati C31 campi
+Aggiornato nome foglio C31 a '/'.
+Aggiornato file foglio C31 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C31 a 'C_*'.
+Connesso C31 pin 1 a Net-(U6-AIN2).
+Connesso C31 pin 2 a GND.
+Aggiunto C32 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C32.
+Cambiato valore C32 da C_0201_0603Metric a 22nF.
+Aggiornata associazione simbolo C32 da  a /4329c728-40cb-4e02-9e37-f0ec77e59d21.
+Aggiornati C32 campi
+Aggiornato nome foglio C32 a '/'.
+Aggiornato file foglio C32 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C32 a 'C_*'.
+Connesso C32 pin 2 a GND.
+Aggiungi collegamento Net-(U2-AIN1).
+Connesso C32 pin 1 a Net-(U2-AIN1).
+Aggiunto C33 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C33.
+Cambiato valore C33 da C_0201_0603Metric a C100 nF.
+Aggiornata associazione simbolo C33 da  a /76005e8e-64d4-4f51-81fb-d3d1026c927d.
+Aggiornati C33 campi
+Aggiornato nome foglio C33 a '/'.
+Aggiornato file foglio C33 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C33 a 'C_*'.
+Aggiungi collegamento AIN3_U17.
+Connesso C33 pin 2 a AIN3_U17.
+Connesso C33 pin 1 a GND.
+Aggiunto C34 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C34.
+Cambiato valore C34 da C_0201_0603Metric a C100 nF.
+Aggiornata associazione simbolo C34 da  a /8aae0f21-0b17-4329-98e4-784fba10e254.
+Aggiornati C34 campi
+Aggiornato nome foglio C34 a '/'.
+Aggiornato file foglio C34 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C34 a 'C_*'.
+Connesso C34 pin 1 a GND.
+Aggiungi collegamento AIN2_U17.
+Connesso C34 pin 2 a AIN2_U17.
+Aggiunto C35 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C35.
+Cambiato valore C35 da C_0201_0603Metric a C100 nF.
+Aggiornata associazione simbolo C35 da  a /a46dadf0-21d5-4e5b-8806-581e319bfd8a.
+Aggiornati C35 campi
+Aggiornato nome foglio C35 a '/'.
+Aggiornato file foglio C35 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C35 a 'C_*'.
+Connesso C35 pin 1 a GND.
+Aggiungi collegamento AIN1_U17.
+Connesso C35 pin 2 a AIN1_U17.
+Aggiunto C36 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C36.
+Cambiato valore C36 da C_0201_0603Metric a C100 nF.
+Aggiornata associazione simbolo C36 da  a /d4845407-7a84-46f9-8bb3-bcaca0def2a4.
+Aggiornati C36 campi
+Aggiornato nome foglio C36 a '/'.
+Aggiornato file foglio C36 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C36 a 'C_*'.
+Aggiungi collegamento AIN0_U17.
+Connesso C36 pin 2 a AIN0_U17.
+Connesso C36 pin 1 a GND.
+Aggiunto C37 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C37.
+Cambiato valore C37 da C_0201_0603Metric a C100 nF.
+Aggiornata associazione simbolo C37 da  a /c70fd753-bc9b-49b1-9f72-95f55aaf521d.
+Aggiornati C37 campi
+Aggiornato nome foglio C37 a '/'.
+Aggiornato file foglio C37 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C37 a 'C_*'.
+Aggiungi collegamento AIN3_U16.
+Connesso C37 pin 2 a AIN3_U16.
+Connesso C37 pin 1 a GND.
+Aggiunto C38 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C38.
+Cambiato valore C38 da C_0201_0603Metric a C100 nF.
+Aggiornata associazione simbolo C38 da  a /69ddc874-20b4-45f8-8a0a-31edf8dda92b.
+Aggiornati C38 campi
+Aggiornato nome foglio C38 a '/'.
+Aggiornato file foglio C38 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C38 a 'C_*'.
+Connesso C38 pin 1 a GND.
+Aggiungi collegamento AIN2_U16.
+Connesso C38 pin 2 a AIN2_U16.
+Aggiunto C39 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C39.
+Cambiato valore C39 da C_0201_0603Metric a C100 nF.
+Aggiornata associazione simbolo C39 da  a /5bb6b8db-e0df-488e-ae58-cb1a0fe298f5.
+Aggiornati C39 campi
+Aggiornato nome foglio C39 a '/'.
+Aggiornato file foglio C39 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C39 a 'C_*'.
+Aggiungi collegamento AIN1_U16.
+Connesso C39 pin 2 a AIN1_U16.
+Connesso C39 pin 1 a GND.
+Aggiunto C40 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C40.
+Cambiato valore C40 da C_0201_0603Metric a C100 nF.
+Aggiornata associazione simbolo C40 da  a /912bbda7-5bcc-4828-ac8f-2622a1746d55.
+Aggiornati C40 campi
+Aggiornato nome foglio C40 a '/'.
+Aggiornato file foglio C40 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C40 a 'C_*'.
+Aggiungi collegamento AIN0_U16.
+Connesso C40 pin 2 a AIN0_U16.
+Connesso C40 pin 1 a GND.
+Aggiunto C41 (impronta 'Capacitor_SMD:C_0805_2012Metric').
+Cambiato riferimento REF** a C41.
+Cambiato valore C41 da C_0805_2012Metric a 10μF.
+Aggiornata associazione simbolo C41 da  a /6d3903b4-6289-4cbf-b8c6-11c641882455.
+Aggiornati C41 campi
+Aggiornato nome foglio C41 a '/'.
+Aggiornato file foglio C41 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C41 a 'C_*'.
+Connesso C41 pin 2 a GND.
+Aggiungi collegamento +24_PROTECT.
+Connesso C41 pin 1 a +24_PROTECT.
+Aggiunto C42 (impronta 'AA_Soleidon_Cape:PCAP_8x10-ELECT_NCA').
+Cambiato riferimento REF** a C42.
+Cambiato valore C42 da PCAP_8x10-ELECT_NCA a C220uF/35V.
+Aggiornata associazione simbolo C42 da  a /148af259-ca1e-4e37-99fa-78f0e36039bb.
+Aggiornati C42 campi
+Aggiornato nome foglio C42 a '/'.
+Aggiornato file foglio C42 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C42 a 'CP_*'.
+Connesso C42 pin 2 a GND.
+Connesso C42 pin 1 a +24_PROTECT.
+Aggiunto C43 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C43.
+Cambiato valore C43 da C_0201_0603Metric a 100pF.
+Aggiornata associazione simbolo C43 da  a /2152d50e-d31b-43e6-9ecd-6632a8701c98.
+Aggiornati C43 campi
+Aggiornato nome foglio C43 a '/'.
+Aggiornato file foglio C43 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C43 a 'C_*'.
+Aggiungi collegamento Net-(U9-COMP).
+Connesso C43 pin 1 a Net-(U9-COMP).
+Connesso C43 pin 2 a GND.
+Aggiunto C44 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C44.
+Cambiato valore C44 da C_0201_0603Metric a 2.2nF.
+Aggiornata associazione simbolo C44 da  a /52f85654-b2ec-4ab8-bb24-f4e603c7a136.
+Aggiornati C44 campi
+Aggiornato nome foglio C44 a '/'.
+Aggiornato file foglio C44 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C44 a 'C_*'.
+Connesso C44 pin 2 a GND.
+Aggiungi collegamento Net-(C44-Pad1).
+Connesso C44 pin 1 a Net-(C44-Pad1).
+Aggiunto C45 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C45.
+Cambiato valore C45 da C_0201_0603Metric a 10uF.
+Aggiornata associazione simbolo C45 da  a /19f13590-aaad-44db-94ff-7b2838cf259d.
+Aggiornati C45 campi
+Aggiornato nome foglio C45 a '/'.
+Aggiornato file foglio C45 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C45 a 'C_*'.
+Connesso C45 pin 2 a GND.
+Aggiungi collegamento +3.3V.
+Connesso C45 pin 1 a +3.3V.
+Aggiunto C46 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C46.
+Cambiato valore C46 da C_0201_0603Metric a 10nF.
+Aggiornata associazione simbolo C46 da  a /727a2ee2-68c3-41a5-8783-47653b2dd1b5.
+Aggiornati C46 campi
+Aggiornato nome foglio C46 a '/'.
+Aggiornato file foglio C46 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C46 a 'C_*'.
+Connesso C46 pin 2 a GND.
+Aggiungi collegamento Net-(U9-SS).
+Connesso C46 pin 1 a Net-(U9-SS).
+Aggiunto C47 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C47.
+Cambiato valore C47 da C_0201_0603Metric a 100nf.
+Aggiornata associazione simbolo C47 da  a /34e5e3ca-710c-4ea6-90fb-ff61e8eb195f.
+Aggiornati C47 campi
+Aggiornato nome foglio C47 a '/'.
+Aggiornato file foglio C47 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C47 a 'C_*'.
+Connesso C47 pin 1 a +3.3V.
+Connesso C47 pin 2 a GND.
+Aggiunto C48 (impronta 'Capacitor_SMD:C_0805_2012Metric').
+Cambiato riferimento REF** a C48.
+Cambiato valore C48 da C_0805_2012Metric a 0.1μF.
+Aggiornata associazione simbolo C48 da  a /74551c0e-cd59-4a8c-baa2-19196ba69221.
+Aggiornati C48 campi
+Aggiornato nome foglio C48 a '/'.
+Aggiornato file foglio C48 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C48 a 'C_*'.
+Aggiungi collegamento Net-(D14-K).
+Connesso C48 pin 1 a Net-(D14-K).
+Aggiungi collegamento Net-(C48-Pad2).
+Connesso C48 pin 2 a Net-(C48-Pad2).
+Aggiunto C49 (impronta 'AA_Soleidon_Cape:CAP_6.3 X 5.8_PAN').
+Cambiato riferimento REF** a C49.
+Cambiato valore C49 da CAP_6.3_X_5.8_PAN a 220uF 50V.
+Aggiornata associazione simbolo C49 da  a /b51b0f60-6953-4c14-81e4-5d644e9c88c2.
+Aggiornati C49 campi
+Aggiornato nome foglio C49 a '/'.
+Aggiornato file foglio C49 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C49 a 'CP_*'.
+Connesso C49 pin 2 a GND.
+Connesso C49 pin 1 a +24_PROTECT.
+Aggiunto C50 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C50.
+Cambiato valore C50 da C_0201_0603Metric a 1uF.
+Aggiornata associazione simbolo C50 da  a /31b8d970-1388-418c-9d84-77483d6bb094.
+Aggiornati C50 campi
+Aggiornato nome foglio C50 a '/'.
+Aggiornato file foglio C50 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C50 a 'C_*'.
+Connesso C50 pin 2 a GND.
+Connesso C50 pin 1 a +24_PROTECT.
+Aggiunto C51 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C51.
+Cambiato valore C51 da C_0201_0603Metric a 470nF.
+Aggiornata associazione simbolo C51 da  a /74b5330e-60e0-4dd4-bf6c-6bb3eb6727f5.
+Aggiornati C51 campi
+Aggiornato nome foglio C51 a '/'.
+Aggiornato file foglio C51 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C51 a 'C_*'.
+Connesso C51 pin 1 a GND.
+Connesso C51 pin 2 a +24_PROTECT.
+Aggiunto C52 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C52.
+Cambiato valore C52 da C_0201_0603Metric a 22 µF X7R.
+Aggiornata associazione simbolo C52 da  a /9aa559f6-9fa9-4348-b7ab-e532bc9abce1.
+Aggiornati C52 campi
+Aggiornato nome foglio C52 a '/'.
+Aggiornato file foglio C52 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C52 a 'C_*'.
+Aggiungi collegamento Net-(JP42-A).
+Connesso C52 pin 2 a Net-(JP42-A).
+Aggiungi collegamento Net-(JP40-A).
+Connesso C52 pin 1 a Net-(JP40-A).
+Aggiunto C53 (impronta 'Capacitor_SMD:C_0805_2012Metric').
+Cambiato riferimento REF** a C53.
+Cambiato valore C53 da C_0805_2012Metric a 470pF.
+Aggiornata associazione simbolo C53 da  a /eefd8e15-74f9-4434-bae2-3f6a6cc9ae4b.
+Aggiornati C53 campi
+Aggiornato nome foglio C53 a '/'.
+Aggiornato file foglio C53 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C53 a 'C_*'.
+Aggiungi collegamento Net-(C53-Pad1).
+Connesso C53 pin 1 a Net-(C53-Pad1).
+Aggiungi collegamento Net-(U9-VSENSE).
+Connesso C53 pin 2 a Net-(U9-VSENSE).
+Aggiunto C54 (impronta 'AA_Soleidon_Cape:PCAP_8x10-ELECT_NCA').
+Cambiato riferimento REF** a C54.
+Cambiato valore C54 da PCAP_8x10-ELECT_NCA a C220uF/35V.
+Aggiornata associazione simbolo C54 da  a /9f64a0e0-7b62-4b31-a34b-1c8aad14dbbd.
+Aggiornati C54 campi
+Aggiornato nome foglio C54 a '/'.
+Aggiornato file foglio C54 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C54 a 'CP_*'.
+Connesso C54 pin 2 a GND.
+Connesso C54 pin 1 a +3.3V.
+Aggiunto C55 (impronta 'Capacitor_SMD:C_0805_2012Metric').
+Cambiato riferimento REF** a C55.
+Cambiato valore C55 da C_0805_2012Metric a 10μF.
+Aggiornata associazione simbolo C55 da  a /775cd5fd-3416-4398-93ca-f6ed6627e0e2.
+Aggiornati C55 campi
+Aggiornato nome foglio C55 a '/'.
+Aggiornato file foglio C55 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C55 a 'C_*'.
+Connesso C55 pin 1 a +3.3V.
+Connesso C55 pin 2 a GND.
+Aggiunto C56 (impronta 'Capacitor_SMD:C_0805_2012Metric').
+Cambiato riferimento REF** a C56.
+Cambiato valore C56 da C_0805_2012Metric a 10μF.
+Aggiornata associazione simbolo C56 da  a /57432e41-f05d-4b7b-ade2-57a4f948dd62.
+Aggiornati C56 campi
+Aggiornato nome foglio C56 a '/'.
+Aggiornato file foglio C56 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C56 a 'C_*'.
+Connesso C56 pin 2 a GND.
+Connesso C56 pin 1 a +3.3V.
+Aggiunto C57 (impronta 'AA_Soleidon_Cape:PCAP_8x10-ELECT_NCA').
+Cambiato riferimento REF** a C57.
+Cambiato valore C57 da PCAP_8x10-ELECT_NCA a 220 µF/10 V.
+Aggiornata associazione simbolo C57 da  a /d85c6e91-4410-456e-9678-8fa7f6c4ae3e.
+Aggiornati C57 campi
+Aggiornato nome foglio C57 a '/'.
+Aggiornato file foglio C57 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C57 a 'CP_*'.
+Connesso C57 pin 1 a EXT_5V.
+Connesso C57 pin 2 a GND.
+Aggiunto C58 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a C58.
+Cambiato valore C58 da C_0201_0603Metric a 22 µF X7R.
+Aggiornata associazione simbolo C58 da  a /7899c305-2c75-4da4-aa09-5058555cb922.
+Aggiornati C58 campi
+Aggiornato nome foglio C58 a '/'.
+Aggiornato file foglio C58 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta C58 a 'C_*'.
+Connesso C58 pin 2 a GND.
+Connesso C58 pin 1 a EXT_5V.
+Aggiunto D1 (impronta 'Diode_SMD:D_SOD-123').
+Cambiato riferimento REF** a D1.
+Cambiato valore D1 da D_SOD-123 a D_Zener_4.7V.
+Aggiornata associazione simbolo D1 da  a /1e2920d6-0af0-4f68-8de6-df9fdc2826b4.
+Aggiornati D1 campi
+Aggiornato nome foglio D1 a '/'.
+Aggiornato file foglio D1 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta D1 a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connesso D1 pin 1 a GND.
+Connesso D1 pin 2 a AIN3_U17.
+Aggiunto D2 (impronta 'Diode_SMD:D_SOD-123').
+Cambiato riferimento REF** a D2.
+Cambiato valore D2 da D_SOD-123 a D_Zener_4.7V.
+Aggiornata associazione simbolo D2 da  a /4468fb00-440c-49ee-8ea2-84fd510e45d9.
+Aggiornati D2 campi
+Aggiornato nome foglio D2 a '/'.
+Aggiornato file foglio D2 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta D2 a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connesso D2 pin 1 a GND.
+Connesso D2 pin 2 a AIN2_U17.
+Aggiunto D3 (impronta 'Diode_SMD:D_SOD-123').
+Cambiato riferimento REF** a D3.
+Cambiato valore D3 da D_SOD-123 a D_Zener_4.7V.
+Aggiornata associazione simbolo D3 da  a /36a1e9e5-a04c-46b1-8124-95424f819326.
+Aggiornati D3 campi
+Aggiornato nome foglio D3 a '/'.
+Aggiornato file foglio D3 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta D3 a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connesso D3 pin 1 a GND.
+Connesso D3 pin 2 a AIN1_U17.
+Aggiunto D4 (impronta 'Diode_SMD:D_SOD-123').
+Cambiato riferimento REF** a D4.
+Cambiato valore D4 da D_SOD-123 a D_Zener_4.7V.
+Aggiornata associazione simbolo D4 da  a /872c5655-27eb-429e-99e5-4b029eba54ef.
+Aggiornati D4 campi
+Aggiornato nome foglio D4 a '/'.
+Aggiornato file foglio D4 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta D4 a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connesso D4 pin 2 a AIN0_U17.
+Connesso D4 pin 1 a GND.
+Aggiunto D5 (impronta 'Diode_SMD:D_SOD-123').
+Cambiato riferimento REF** a D5.
+Cambiato valore D5 da D_SOD-123 a D_Zener_4.7V.
+Aggiornata associazione simbolo D5 da  a /4b2fc667-9b77-4394-a6d6-ec2320dad78a.
+Aggiornati D5 campi
+Aggiornato nome foglio D5 a '/'.
+Aggiornato file foglio D5 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta D5 a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connesso D5 pin 2 a AIN3_U16.
+Connesso D5 pin 1 a GND.
+Aggiunto D6 (impronta 'Diode_SMD:D_SOD-123').
+Cambiato riferimento REF** a D6.
+Cambiato valore D6 da D_SOD-123 a D_Zener_4.7V.
+Aggiornata associazione simbolo D6 da  a /7ac74fab-862b-4b61-b024-b7883d58e828.
+Aggiornati D6 campi
+Aggiornato nome foglio D6 a '/'.
+Aggiornato file foglio D6 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta D6 a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connesso D6 pin 2 a AIN2_U16.
+Connesso D6 pin 1 a GND.
+Aggiunto D7 (impronta 'Diode_SMD:D_SOD-123').
+Cambiato riferimento REF** a D7.
+Cambiato valore D7 da D_SOD-123 a D_Zener_4.7V.
+Aggiornata associazione simbolo D7 da  a /ff2f51c0-2c60-4b73-b60f-d8c7da129e2f.
+Aggiornati D7 campi
+Aggiornato nome foglio D7 a '/'.
+Aggiornato file foglio D7 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta D7 a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connesso D7 pin 2 a AIN1_U16.
+Connesso D7 pin 1 a GND.
+Aggiunto D8 (impronta 'Diode_SMD:D_SOD-123').
+Cambiato riferimento REF** a D8.
+Cambiato valore D8 da D_SOD-123 a D_Zener_4.7V.
+Aggiornata associazione simbolo D8 da  a /220428fa-9baa-4766-980a-ac84a3dd08f3.
+Aggiornati D8 campi
+Aggiornato nome foglio D8 a '/'.
+Aggiornato file foglio D8 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta D8 a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connesso D8 pin 2 a AIN0_U16.
+Connesso D8 pin 1 a GND.
+Aggiunto D9 (impronta 'AA_Soleidon_Cape:LEDC1608X35N').
+Cambiato riferimento REF** a D9.
+Cambiato valore D9 da LEDC1608X35N a LTST-C190KRKT.
+Aggiornata associazione simbolo D9 da  a /70063eab-bf76-4bae-8ebd-d247ba32dfe9.
+Aggiornato nome foglio D9 a '/'.
+Aggiornato file foglio D9 a 'Soleidon Cape.kicad_sch'.
+Aggiungi collegamento Net-(D9-PadA).
+Connesso D9 pin A a Net-(D9-PadA).
+Connesso D9 pin C a GND.
+Aggiunto D10 (impronta 'AA_Soleidon_Cape:LEDC1608X35N').
+Cambiato riferimento REF** a D10.
+Cambiato valore D10 da LEDC1608X35N a LTST-C190KRKT.
+Aggiornata associazione simbolo D10 da  a /a523c1b5-a311-4edb-a3ff-5ade6d3332a6.
+Aggiornato nome foglio D10 a '/'.
+Aggiornato file foglio D10 a 'Soleidon Cape.kicad_sch'.
+Connesso D10 pin C a GND.
+Aggiungi collegamento Net-(D10-PadA).
+Connesso D10 pin A a Net-(D10-PadA).
+Aggiunto D11 (impronta 'Diode_SMD:D_SMC').
+Cambiato riferimento REF** a D11.
+Cambiato valore D11 da D_SMC a MBRS340.
+Aggiornata associazione simbolo D11 da  a /c473932f-a778-4d50-91d9-31868d37b016.
+Aggiornati D11 campi
+Aggiornato nome foglio D11 a '/'.
+Aggiornato file foglio D11 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta D11 a '*D*SMC*'.
+Aggiungi collegamento Net-(D11-A).
+Connesso D11 pin 2 a Net-(D11-A).
+Aggiungi collegamento Net-(D11-K).
+Connesso D11 pin 1 a Net-(D11-K).
+Aggiunto D12 (impronta 'Diode_SMD:D_SMB').
+Cambiato riferimento REF** a D12.
+Cambiato valore D12 da D_SMB a Z2SMBxxx.
+Aggiornata associazione simbolo D12 da  a /21660f11-dbe6-475b-acaa-806f41519725.
+Aggiornati D12 campi
+Aggiornato nome foglio D12 a '/'.
+Aggiornato file foglio D12 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta D12 a 'D?SMB*'.
+Connesso D12 pin 2 a GND.
+Connesso D12 pin 1 a +24_PROTECT.
+Aggiunto D13 (impronta 'AA_Soleidon_Cape:DIOM4336X265N').
+Cambiato riferimento REF** a D13.
+Cambiato valore D13 da DIOM4336X265N a P6SMB33A.
+Aggiornata associazione simbolo D13 da  a /e5bc8fc6-cd11-4180-b2b9-d2e827aa4945.
+Aggiornati D13 campi
+Aggiornato nome foglio D13 a '/'.
+Aggiornato file foglio D13 a 'Soleidon Cape.kicad_sch'.
+Connesso D13 pin A a GND.
+Connesso D13 pin C a +24_PROTECT.
+Aggiunto D14 (impronta 'AA_Soleidon_Cape:SMA_DIO_schottky').
+Cambiato riferimento REF** a D14.
+Cambiato valore D14 da SMA_DIO_schottky a D_Schottky.
+Aggiornata associazione simbolo D14 da  a /801dbdef-02fd-492f-80ec-616b8e7f9218.
+Aggiornati D14 campi
+Aggiornato nome foglio D14 a '/'.
+Aggiornato file foglio D14 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta D14 a 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connesso D14 pin 2 a GND.
+Connesso D14 pin 1 a Net-(D14-K).
+Aggiunto D15 (impronta 'Diode_SMD:D_SMA').
+Cambiato riferimento REF** a D15.
+Cambiato valore D15 da D_SMA a SS54.
+Aggiornata associazione simbolo D15 da  a /e78ec871-f071-443b-9947-36f1bf8923d1.
+Aggiornati D15 campi
+Aggiornato nome foglio D15 a '/'.
+Aggiornato file foglio D15 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta D15 a 'D*SMA*'.
+Connesso D15 pin 1 a EXT_5V.
+Connesso D15 pin 2 a GND.
+Aggiunto D16 (impronta 'AA_Soleidon_Cape:LEDC1608X35N').
+Cambiato riferimento REF** a D16.
+Cambiato valore D16 da LEDC1608X35N a LED.
+Aggiornata associazione simbolo D16 da  a /dc5413fc-8eee-4240-ba61-53873e01159f.
+Aggiornati D16 campi
+Aggiornato nome foglio D16 a '/'.
+Aggiornato file foglio D16 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta D16 a 'LED* LED_SMD:* LED_THT:*'.
+Aggiunto D17 (impronta 'AA_Soleidon_Cape:LEDC1608X35N').
+Cambiato riferimento REF** a D17.
+Cambiato valore D17 da LEDC1608X35N a LED.
+Aggiornata associazione simbolo D17 da  a /0cb46a05-a73c-400c-beb8-a74a2e5ec3e5.
+Aggiornati D17 campi
+Aggiornato nome foglio D17 a '/'.
+Aggiornato file foglio D17 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta D17 a 'LED* LED_SMD:* LED_THT:*'.
+Aggiunto F1 (impronta 'AA_Soleidon_Cape:FUSE_155900_LTF').
+Cambiato riferimento REF** a F1.
+Cambiato valore F1 da FUSE_155900_LTF a 01550900DR.
+Aggiornata associazione simbolo F1 da  a /63421132-4d54-43cb-87be-6a49db5a6a12.
+Aggiornati F1 campi
+Aggiornato nome foglio F1 a '/'.
+Aggiornato file foglio F1 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta F1 a 'FUSE_155900_LTF'.
+Aggiungi collegamento +24V.
+Connesso F1 pin 1 a +24V.
+Connesso F1 pin 2 a Net-(D11-A).
+Aggiunto J1 (impronta 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical').
+Cambiato riferimento REF** a J1.
+Cambiato valore J1 da PinHeader_1x01_P2.54mm_Vertical a Conn_01x01_Socket.
+Aggiornata associazione simbolo J1 da  a /257ca2cb-8faa-44a4-8a49-b644699a17da.
+Aggiornati J1 campi
+Aggiornato nome foglio J1 a '/'.
+Aggiornato file foglio J1 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J1 a 'Connector*:*_1x??_*'.
+Aggiungi collegamento ALERT/RDY_U17.
+Connesso J1 pin 1 a ALERT/RDY_U17.
+Aggiunto J2 (impronta 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical').
+Cambiato riferimento REF** a J2.
+Cambiato valore J2 da PinHeader_1x01_P2.54mm_Vertical a Conn_01x01_Socket.
+Aggiornata associazione simbolo J2 da  a /e0ac605e-6a9e-4059-85f2-d473b56d455f.
+Aggiornati J2 campi
+Aggiornato nome foglio J2 a '/'.
+Aggiornato file foglio J2 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J2 a 'Connector*:*_1x??_*'.
+Aggiungi collegamento ALERT/RDY_U16.
+Connesso J2 pin 1 a ALERT/RDY_U16.
+Aggiunto J3 (impronta 'AA_Soleidon_Cape:CUI_TBL009-254-04GY-2GY').
+Cambiato riferimento REF** a J3.
+Cambiato valore J3 da CUI_TBL009-254-04GY-2GY a U1_4-20mA.
+Aggiornata associazione simbolo J3 da  a /c70d072a-1179-4c79-83cc-f4a798d3c361.
+Aggiornati J3 campi
+Aggiornato nome foglio J3 a '/'.
+Aggiornato file foglio J3 a 'Soleidon Cape.kicad_sch'.
+Connesso J3 pin 1_A a AIN0_U17.
+Connesso J3 pin 2_A a AIN1_U17.
+Connesso J3 pin 3_B a AIN2_U17.
+Connesso J3 pin 1_B a AIN0_U17.
+Connesso J3 pin 4_A a AIN3_U17.
+Connesso J3 pin 2_B a AIN1_U17.
+Connesso J3 pin 4_B a AIN3_U17.
+Connesso J3 pin 3_A a AIN2_U17.
+Aggiunto J4 (impronta 'AA_Soleidon_Cape:CUI_TBL009-254-04GY-2GY').
+Cambiato riferimento REF** a J4.
+Cambiato valore J4 da CUI_TBL009-254-04GY-2GY a U8_4-20mA.
+Aggiornata associazione simbolo J4 da  a /0cfd223a-641e-4bea-b0ec-5198daf74161.
+Aggiornati J4 campi
+Aggiornato nome foglio J4 a '/'.
+Aggiornato file foglio J4 a 'Soleidon Cape.kicad_sch'.
+Connesso J4 pin 1_B a AIN0_U16.
+Connesso J4 pin 2_B a AIN1_U16.
+Connesso J4 pin 4_B a AIN3_U16.
+Connesso J4 pin 1_A a AIN0_U16.
+Connesso J4 pin 4_A a AIN3_U16.
+Connesso J4 pin 2_A a AIN1_U16.
+Connesso J4 pin 3_A a AIN2_U16.
+Connesso J4 pin 3_B a AIN2_U16.
+Aggiunto J5 (impronta 'AA_Soleidon_Cape:CUI_TBL009-254-04GY-2GY').
+Cambiato riferimento REF** a J5.
+Cambiato valore J5 da CUI_TBL009-254-04GY-2GY a U2_0-5V.
+Aggiornata associazione simbolo J5 da  a /0744e2f9-f0e1-40c6-b0a0-b8b2f031d10d.
+Aggiornati J5 campi
+Aggiornato nome foglio J5 a '/'.
+Aggiornato file foglio J5 a 'Soleidon Cape.kicad_sch'.
+Aggiungi collegamento AIN3_U10.
+Connesso J5 pin 4_B a AIN3_U10.
+Aggiungi collegamento AIN1_U10.
+Connesso J5 pin 2_B a AIN1_U10.
+Connesso J5 pin 4_A a AIN3_U10.
+Aggiungi collegamento AIN2_U10.
+Connesso J5 pin 3_B a AIN2_U10.
+Aggiungi collegamento AIN0_U10.
+Connesso J5 pin 1_A a AIN0_U10.
+Connesso J5 pin 2_A a AIN1_U10.
+Connesso J5 pin 3_A a AIN2_U10.
+Connesso J5 pin 1_B a AIN0_U10.
+Aggiunto J6 (impronta 'AA_Soleidon_Cape:CUI_TBL009-254-04GY-2GY').
+Cambiato riferimento REF** a J6.
+Cambiato valore J6 da CUI_TBL009-254-04GY-2GY a U5_0-5V.
+Aggiornata associazione simbolo J6 da  a /d275cf75-cbe0-4d1a-847a-6187a5ee0f25.
+Aggiornati J6 campi
+Aggiornato nome foglio J6 a '/'.
+Aggiornato file foglio J6 a 'Soleidon Cape.kicad_sch'.
+Aggiungi collegamento AIN0_U8.
+Connesso J6 pin 1_B a AIN0_U8.
+Connesso J6 pin 1_A a AIN0_U8.
+Aggiungi collegamento AIN1_U8.
+Connesso J6 pin 2_B a AIN1_U8.
+Aggiungi collegamento AIN2_U8.
+Connesso J6 pin 3_A a AIN2_U8.
+Connesso J6 pin 2_A a AIN1_U8.
+Aggiungi collegamento AIN3_U8.
+Connesso J6 pin 4_A a AIN3_U8.
+Connesso J6 pin 3_B a AIN2_U8.
+Connesso J6 pin 4_B a AIN3_U8.
+Aggiunto J7 (impronta 'AA_Soleidon_Cape:CUI_TBL009-254-04GY-2GY').
+Cambiato riferimento REF** a J7.
+Cambiato valore J7 da CUI_TBL009-254-04GY-2GY a U6_0-5V.
+Aggiornata associazione simbolo J7 da  a /4a70fd21-88d3-49ee-8319-5cd998be5a89.
+Aggiornati J7 campi
+Aggiornato nome foglio J7 a '/'.
+Aggiornato file foglio J7 a 'Soleidon Cape.kicad_sch'.
+Aggiungi collegamento AIN2_U9.
+Connesso J7 pin 3_B a AIN2_U9.
+Aggiungi collegamento AIN1_U9.
+Connesso J7 pin 2_B a AIN1_U9.
+Aggiungi collegamento AIN3_U9.
+Connesso J7 pin 4_A a AIN3_U9.
+Aggiungi collegamento AIN0_U9.
+Connesso J7 pin 1_B a AIN0_U9.
+Connesso J7 pin 3_A a AIN2_U9.
+Connesso J7 pin 4_B a AIN3_U9.
+Connesso J7 pin 2_A a AIN1_U9.
+Connesso J7 pin 1_A a AIN0_U9.
+Aggiunto J8 (impronta 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical').
+Cambiato riferimento REF** a J8.
+Cambiato valore J8 da PinHeader_1x01_P2.54mm_Vertical a Conn_01x01_Socket.
+Aggiornata associazione simbolo J8 da  a /09ca0baf-9ad3-4d72-b5da-c8de230f0a08.
+Aggiornati J8 campi
+Aggiornato nome foglio J8 a '/'.
+Aggiornato file foglio J8 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J8 a 'Connector*:*_1x??_*'.
+Aggiungi collegamento ALERT/RDY_U9.
+Connesso J8 pin 1 a ALERT/RDY_U9.
+Aggiunto J9 (impronta 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical').
+Cambiato riferimento REF** a J9.
+Cambiato valore J9 da PinHeader_1x01_P2.54mm_Vertical a Conn_01x01_Socket.
+Aggiornata associazione simbolo J9 da  a /ea474ced-c0b1-4225-9054-05515f759e67.
+Aggiornati J9 campi
+Aggiornato nome foglio J9 a '/'.
+Aggiornato file foglio J9 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J9 a 'Connector*:*_1x??_*'.
+Aggiungi collegamento ALERT/RDY_U10.
+Connesso J9 pin 1 a ALERT/RDY_U10.
+Aggiunto J10 (impronta 'AA_Soleidon_Cape:CUI_TBL009-254-04GY-2GY').
+Cambiato riferimento REF** a J10.
+Cambiato valore J10 da CUI_TBL009-254-04GY-2GY a U7_0-5V.
+Aggiornata associazione simbolo J10 da  a /07e2c061-f229-410d-b809-8c53a4ffe61a.
+Aggiornati J10 campi
+Aggiornato nome foglio J10 a '/'.
+Aggiornato file foglio J10 a 'Soleidon Cape.kicad_sch'.
+Aggiungi collegamento AIN2_U14.
+Connesso J10 pin 3_A a AIN2_U14.
+Aggiungi collegamento AIN1_U14.
+Connesso J10 pin 2_B a AIN1_U14.
+Aggiungi collegamento AIN3_U14.
+Connesso J10 pin 4_A a AIN3_U14.
+Connesso J10 pin 4_B a AIN3_U14.
+Connesso J10 pin 2_A a AIN1_U14.
+Aggiungi collegamento AIN0_U14.
+Connesso J10 pin 1_A a AIN0_U14.
+Connesso J10 pin 3_B a AIN2_U14.
+Connesso J10 pin 1_B a AIN0_U14.
+Aggiunto J11 (impronta 'AA_Soleidon_Cape:CUI_TBL009-254-04GY-2GY').
+Cambiato riferimento REF** a J11.
+Cambiato valore J11 da CUI_TBL009-254-04GY-2GY a U3_0-5V.
+Aggiornata associazione simbolo J11 da  a /e68c879f-2baf-474e-8163-77e301a75bb4.
+Aggiornati J11 campi
+Aggiornato nome foglio J11 a '/'.
+Aggiornato file foglio J11 a 'Soleidon Cape.kicad_sch'.
+Aggiungi collegamento AIN2_U11.
+Connesso J11 pin 3_B a AIN2_U11.
+Connesso J11 pin 3_A a AIN2_U11.
+Aggiungi collegamento AIN1_U11.
+Connesso J11 pin 2_B a AIN1_U11.
+Aggiungi collegamento AIN3_U11.
+Connesso J11 pin 4_A a AIN3_U11.
+Connesso J11 pin 4_B a AIN3_U11.
+Aggiungi collegamento AIN0_U11.
+Connesso J11 pin 1_B a AIN0_U11.
+Connesso J11 pin 2_A a AIN1_U11.
+Connesso J11 pin 1_A a AIN0_U11.
+Aggiunto J12 (impronta 'AA_Soleidon_Cape:CUI_TBL009-254-04GY-2GY').
+Cambiato riferimento REF** a J12.
+Cambiato valore J12 da CUI_TBL009-254-04GY-2GY a U4_0-5V.
+Aggiornata associazione simbolo J12 da  a /691dd6ec-cfa5-4811-b4cf-24d560cd1ce1.
+Aggiornati J12 campi
+Aggiornato nome foglio J12 a '/'.
+Aggiornato file foglio J12 a 'Soleidon Cape.kicad_sch'.
+Aggiungi collegamento AIN1_U13.
+Connesso J12 pin 2_B a AIN1_U13.
+Aggiungi collegamento AIN2_U13.
+Connesso J12 pin 3_B a AIN2_U13.
+Connesso J12 pin 3_A a AIN2_U13.
+Aggiungi collegamento AIN3_U13.
+Connesso J12 pin 4_A a AIN3_U13.
+Connesso J12 pin 2_A a AIN1_U13.
+Aggiungi collegamento AIN0_U13.
+Connesso J12 pin 1_A a AIN0_U13.
+Connesso J12 pin 4_B a AIN3_U13.
+Connesso J12 pin 1_B a AIN0_U13.
+Aggiunto J13 (impronta 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical').
+Cambiato riferimento REF** a J13.
+Cambiato valore J13 da PinHeader_1x01_P2.54mm_Vertical a Conn_01x01_Socket.
+Aggiornata associazione simbolo J13 da  a /4f56fc9c-a282-4e10-afde-cf8be4eb871f.
+Aggiornati J13 campi
+Aggiornato nome foglio J13 a '/'.
+Aggiornato file foglio J13 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J13 a 'Connector*:*_1x??_*'.
+Aggiungi collegamento ALERT/RDY_U14.
+Connesso J13 pin 1 a ALERT/RDY_U14.
+Aggiunto J14 (impronta 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical').
+Cambiato riferimento REF** a J14.
+Cambiato valore J14 da PinHeader_1x01_P2.54mm_Vertical a Conn_01x01_Socket.
+Aggiornata associazione simbolo J14 da  a /e703006b-4347-40a7-9e98-54f0ef953abd.
+Aggiornati J14 campi
+Aggiornato nome foglio J14 a '/'.
+Aggiornato file foglio J14 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J14 a 'Connector*:*_1x??_*'.
+Aggiungi collegamento ALERT/RDY_U8.
+Connesso J14 pin 1 a ALERT/RDY_U8.
+Aggiunto J15 (impronta 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical').
+Cambiato riferimento REF** a J15.
+Cambiato valore J15 da PinHeader_1x01_P2.54mm_Vertical a Conn_01x01_Socket.
+Aggiornata associazione simbolo J15 da  a /29c64119-d414-4118-b20f-6cb96145d2ac.
+Aggiornati J15 campi
+Aggiornato nome foglio J15 a '/'.
+Aggiornato file foglio J15 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J15 a 'Connector*:*_1x??_*'.
+Aggiungi collegamento ALERT/RDY_U11.
+Connesso J15 pin 1 a ALERT/RDY_U11.
+Aggiunto J16 (impronta 'Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical').
+Cambiato riferimento REF** a J16.
+Cambiato valore J16 da PinHeader_1x01_P2.54mm_Vertical a Conn_01x01_Socket.
+Aggiornata associazione simbolo J16 da  a /e4b35bad-656f-4621-b0ce-525b41ba5ba7.
+Aggiornati J16 campi
+Aggiornato nome foglio J16 a '/'.
+Aggiornato file foglio J16 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J16 a 'Connector*:*_1x??_*'.
+Aggiungi collegamento ALERT/RDY_U13.
+Connesso J16 pin 1 a ALERT/RDY_U13.
+Aggiunto J17 (impronta 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Cambiato riferimento REF** a J17.
+Cambiato valore J17 da PinHeader_1x02_P2.54mm_Vertical a PowerOnOff for Sensors.
+Aggiornata associazione simbolo J17 da  a /49e222ba-2d38-4772-b91f-1847bf0141bd.
+Aggiornati J17 campi
+Aggiornato nome foglio J17 a '/'.
+Aggiornato file foglio J17 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J17 a 'Connector*:*_1x??_*'.
+Aggiungi collegamento +24V_PowerSensor_OUT.
+Connesso J17 pin 1 a +24V_PowerSensor_OUT.
+Connesso J17 pin 2 a +24_PROTECT.
+Aggiunto J18 (impronta 'AA_Soleidon_Cape:CONN2_2601-1102_WAG').
+Cambiato riferimento REF** a J18.
+Cambiato valore J18 da CONN2_2601-1102_WAG a 2601-1102.
+Aggiornata associazione simbolo J18 da  a /47b47f08-9162-438f-8909-5dcc291031cd.
+Aggiornati J18 campi
+Aggiornato nome foglio J18 a '/'.
+Aggiornato file foglio J18 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J18 a 'CONN2_2601-1102_WAG'.
+Connesso J18 pin 1 a +24V.
+Connesso J18 pin 2 a +24V.
+Connesso J18 pin 4 a GND.
+Connesso J18 pin 3 a GND.
+Aggiunto J19 (impronta 'Soleidon_custom:QWIIC-SPARKFUN_PRT-14417').
+Cambiato riferimento REF** a J19.
+Cambiato valore J19 da QWIIC-SPARKFUN_PRT-14417 a PRT-14417.
+Aggiornata associazione simbolo J19 da  a /3f842629-834e-472f-ada5-036d89beaef9.
+Aggiornati J19 campi
+Aggiornato nome foglio J19 a '/'.
+Aggiornato file foglio J19 a 'Soleidon Cape.kicad_sch'.
+Aggiungi collegamento Net-(JP17-B).
+Connesso J19 pin 2 a Net-(JP17-B).
+Connesso J19 pin 1 a GND.
+Aggiungi collegamento Net-(JP20-B).
+Connesso J19 pin 4 a Net-(JP20-B).
+Aggiungi collegamento Net-(JP14-B).
+Connesso J19 pin 3 a Net-(JP14-B).
+Aggiunto J20 (impronta 'Soleidon_custom:QWIIC-SPARKFUN_PRT-14417').
+Cambiato riferimento REF** a J20.
+Cambiato valore J20 da QWIIC-SPARKFUN_PRT-14417 a PRT-14417.
+Aggiornata associazione simbolo J20 da  a /c75ca0a3-2b61-4fd7-8ef9-f3a613712013.
+Aggiornati J20 campi
+Aggiornato nome foglio J20 a '/'.
+Aggiornato file foglio J20 a 'Soleidon Cape.kicad_sch'.
+Aggiungi collegamento Net-(JP15-B).
+Connesso J20 pin 3 a Net-(JP15-B).
+Aggiungi collegamento Net-(JP21-B).
+Connesso J20 pin 4 a Net-(JP21-B).
+Connesso J20 pin 1 a GND.
+Aggiungi collegamento Net-(JP18-B).
+Connesso J20 pin 2 a Net-(JP18-B).
+Aggiunto J21 (impronta 'Soleidon_custom:QWIIC-SPARKFUN_PRT-14417').
+Cambiato riferimento REF** a J21.
+Cambiato valore J21 da QWIIC-SPARKFUN_PRT-14417 a PRT-14417.
+Aggiornata associazione simbolo J21 da  a /5af36450-1bcd-43ca-9962-239665c9feba.
+Aggiornati J21 campi
+Aggiornato nome foglio J21 a '/'.
+Aggiornato file foglio J21 a 'Soleidon Cape.kicad_sch'.
+Aggiungi collegamento Net-(JP19-B).
+Connesso J21 pin 2 a Net-(JP19-B).
+Aggiungi collegamento Net-(JP22-B).
+Connesso J21 pin 4 a Net-(JP22-B).
+Aggiungi collegamento Net-(JP16-B).
+Connesso J21 pin 3 a Net-(JP16-B).
+Connesso J21 pin 1 a GND.
+Aggiunto J22 (impronta 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Cambiato riferimento REF** a J22.
+Cambiato valore J22 da PinHeader_1x02_P2.54mm_Vertical a Power OnOff StepDown.
+Aggiornata associazione simbolo J22 da  a /410c8e3f-4867-49a3-95cb-25d810d03624.
+Aggiornati J22 campi
+Aggiornato nome foglio J22 a '/'.
+Aggiornato file foglio J22 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J22 a 'Connector*:*_1x??_*'.
+Connesso J22 pin 2 a +24_PROTECT.
+Connesso J22 pin 1 a Net-(D11-K).
+Aggiunto J23 (impronta 'Soleidon_custom:QWIIC-SPARKFUN_PRT-14417').
+Cambiato riferimento REF** a J23.
+Cambiato valore J23 da QWIIC-SPARKFUN_PRT-14417 a PRT-14417.
+Aggiornata associazione simbolo J23 da  a /7f01d0dc-28f3-420e-ada8-472bb5f7fac0.
+Aggiornati J23 campi
+Aggiornato nome foglio J23 a '/'.
+Aggiornato file foglio J23 a 'Soleidon Cape.kicad_sch'.
+Aggiungi collegamento /2SDA.
+Connesso J23 pin 3 a /2SDA.
+Connesso J23 pin 2 a +3.3V.
+Aggiungi collegamento /2SCL.
+Connesso J23 pin 4 a /2SCL.
+Connesso J23 pin 1 a GND.
+Aggiunto J24 (impronta 'Soleidon_custom:QWIIC-SPARKFUN_PRT-14417').
+Cambiato riferimento REF** a J24.
+Cambiato valore J24 da QWIIC-SPARKFUN_PRT-14417 a PRT-14417.
+Aggiornata associazione simbolo J24 da  a /b0143874-c274-43b0-9b76-e523e231ab92.
+Aggiornati J24 campi
+Aggiornato nome foglio J24 a '/'.
+Aggiornato file foglio J24 a 'Soleidon Cape.kicad_sch'.
+Connesso J24 pin 2 a +3.3V.
+Aggiungi collegamento /3SDA.
+Connesso J24 pin 3 a /3SDA.
+Connesso J24 pin 1 a GND.
+Aggiungi collegamento /3SCL.
+Connesso J24 pin 4 a /3SCL.
+Aggiunto J25 (impronta 'Soleidon_custom:QWIIC-SPARKFUN_PRT-14417').
+Cambiato riferimento REF** a J25.
+Cambiato valore J25 da QWIIC-SPARKFUN_PRT-14417 a PRT-14417.
+Aggiornata associazione simbolo J25 da  a /2f636b46-0281-4de2-b923-48978bd8dc0d.
+Aggiornati J25 campi
+Aggiornato nome foglio J25 a '/'.
+Aggiornato file foglio J25 a 'Soleidon Cape.kicad_sch'.
+Aggiungi collegamento Net-(JP31-B).
+Connesso J25 pin 2 a Net-(JP31-B).
+Connesso J25 pin 1 a GND.
+Aggiungi collegamento Net-(JP29-B).
+Connesso J25 pin 4 a Net-(JP29-B).
+Aggiungi collegamento Net-(JP37-B).
+Connesso J25 pin 3 a Net-(JP37-B).
+Aggiunto J26 (impronta 'Soleidon_custom:QWIIC-SPARKFUN_PRT-14417').
+Cambiato riferimento REF** a J26.
+Aggiornata associazione simbolo J26 da  a /3e757d1b-c5b0-4ba6-b2db-927101066624.
+Aggiornati J26 campi
+Aggiornato nome foglio J26 a '/'.
+Aggiornato file foglio J26 a 'Soleidon Cape.kicad_sch'.
+Aggiungi collegamento Net-(JP27-B).
+Connesso J26 pin 3 a Net-(JP27-B).
+Aggiungi collegamento Net-(JP32-B).
+Connesso J26 pin 2 a Net-(JP32-B).
+Aggiungi collegamento Net-(JP35-B).
+Connesso J26 pin 4 a Net-(JP35-B).
+Connesso J26 pin 1 a GND.
+Aggiunto J27 (impronta 'Soleidon_custom:QWIIC-SPARKFUN_PRT-14417').
+Cambiato riferimento REF** a J27.
+Cambiato valore J27 da QWIIC-SPARKFUN_PRT-14417 a PRT-14417.
+Aggiornata associazione simbolo J27 da  a /bd205cc0-75e6-46a1-971b-fa6b7ce29d24.
+Aggiornati J27 campi
+Aggiornato nome foglio J27 a '/'.
+Aggiornato file foglio J27 a 'Soleidon Cape.kicad_sch'.
+Aggiungi collegamento Net-(JP33-B).
+Connesso J27 pin 2 a Net-(JP33-B).
+Connesso J27 pin 1 a GND.
+Aggiungi collegamento Net-(JP36-B).
+Connesso J27 pin 4 a Net-(JP36-B).
+Aggiungi collegamento Net-(JP28-B).
+Connesso J27 pin 3 a Net-(JP28-B).
+Aggiunto J28 (impronta 'Soleidon_custom:QWIIC-SPARKFUN_PRT-14417').
+Cambiato riferimento REF** a J28.
+Cambiato valore J28 da QWIIC-SPARKFUN_PRT-14417 a PRT-14417.
+Aggiornata associazione simbolo J28 da  a /24fe0ea6-db4e-4941-89f5-f942409aaff3.
+Aggiornati J28 campi
+Aggiornato nome foglio J28 a '/'.
+Aggiornato file foglio J28 a 'Soleidon Cape.kicad_sch'.
+Aggiungi collegamento Net-(JP34-B).
+Connesso J28 pin 2 a Net-(JP34-B).
+Aggiungi collegamento Net-(JP30-B).
+Connesso J28 pin 3 a Net-(JP30-B).
+Connesso J28 pin 1 a GND.
+Aggiungi collegamento Net-(JP38-B).
+Connesso J28 pin 4 a Net-(JP38-B).
+Aggiunto J29 (impronta 'AA_Soleidon_Cape:TE_2-644803-3').
+Cambiato riferimento REF** a J29.
+Cambiato valore J29 da TE_2-644803-3 a 2-644803-3.
+Aggiornata associazione simbolo J29 da  a /d0c8fd60-da42-4979-9d26-be76e872cb57.
+Aggiornati J29 campi
+Aggiornato nome foglio J29 a '/'.
+Aggiornato file foglio J29 a 'Soleidon Cape.kicad_sch'.
+Aggiungi collegamento Net-(J29-Pad1).
+Connesso J29 pin 1 a Net-(J29-Pad1).
+Aggiungi collegamento Net-(J29-Pad3).
+Connesso J29 pin 3 a Net-(J29-Pad3).
+Connesso J29 pin 2 a GND.
+Aggiunto J30 (impronta 'AA_Soleidon_Cape:TE_2-644803-3').
+Cambiato riferimento REF** a J30.
+Cambiato valore J30 da TE_2-644803-3 a 2-644803-3.
+Aggiornata associazione simbolo J30 da  a /de4b5917-7093-4305-a132-b130e684b389.
+Aggiornati J30 campi
+Aggiornato nome foglio J30 a '/'.
+Aggiornato file foglio J30 a 'Soleidon Cape.kicad_sch'.
+Connesso J30 pin 3 a Net-(J29-Pad3).
+Connesso J30 pin 1 a Net-(J29-Pad1).
+Connesso J30 pin 2 a GND.
+Aggiunto J31 (impronta 'AA_Soleidon_Cape:CONN_1841513').
+Cambiato riferimento REF** a J31.
+Cambiato valore J31 da CONN_1841513 a Power 24V.
+Aggiornata associazione simbolo J31 da  a /1c783b15-2ce0-4621-8f95-95a0ad178169.
+Aggiornati J31 campi
+Aggiornato nome foglio J31 a '/'.
+Aggiornato file foglio J31 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J31 a 'CONN_1841513'.
+Connesso J31 pin 5 a +24V_PowerSensor_OUT.
+Connesso J31 pin 6 a +24V_PowerSensor_OUT.
+Connesso J31 pin 3 a GND.
+Connesso J31 pin 2 a GND.
+Connesso J31 pin 7 a +24V_PowerSensor_OUT.
+Connesso J31 pin 4 a GND.
+Connesso J31 pin 8 a +24V_PowerSensor_OUT.
+Connesso J31 pin 1 a GND.
+Aggiunto J32 (impronta 'AA_Soleidon_Cape:CONN_1841513').
+Cambiato riferimento REF** a J32.
+Cambiato valore J32 da CONN_1841513 a Power 24V.
+Aggiornata associazione simbolo J32 da  a /97419e4b-5264-4224-9fbd-b73e3b2ecf43.
+Aggiornati J32 campi
+Aggiornato nome foglio J32 a '/'.
+Aggiornato file foglio J32 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J32 a 'CONN_1841513'.
+Connesso J32 pin 8 a +24V_PowerSensor_OUT.
+Connesso J32 pin 1 a GND.
+Connesso J32 pin 2 a GND.
+Connesso J32 pin 7 a +24V_PowerSensor_OUT.
+Connesso J32 pin 3 a GND.
+Connesso J32 pin 6 a +24V_PowerSensor_OUT.
+Connesso J32 pin 4 a GND.
+Connesso J32 pin 5 a +24V_PowerSensor_OUT.
+Aggiunto J33 (impronta 'AA_Soleidon_Cape:CONN_1841513').
+Cambiato riferimento REF** a J33.
+Cambiato valore J33 da CONN_1841513 a Power 24V.
+Aggiornata associazione simbolo J33 da  a /73ed55d4-f041-43b2-9c98-8e881025366b.
+Aggiornati J33 campi
+Aggiornato nome foglio J33 a '/'.
+Aggiornato file foglio J33 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J33 a 'CONN_1841513'.
+Connesso J33 pin 6 a +24V_PowerSensor_OUT.
+Connesso J33 pin 5 a +24V_PowerSensor_OUT.
+Connesso J33 pin 8 a +24V_PowerSensor_OUT.
+Connesso J33 pin 3 a GND.
+Connesso J33 pin 2 a GND.
+Connesso J33 pin 1 a GND.
+Connesso J33 pin 7 a +24V_PowerSensor_OUT.
+Connesso J33 pin 4 a GND.
+Aggiunto J34 (impronta 'AA_Soleidon_Cape:CONN_1841513').
+Cambiato riferimento REF** a J34.
+Cambiato valore J34 da CONN_1841513 a Power 3.3V.
+Aggiornata associazione simbolo J34 da  a /8d43c088-f50c-4e29-9d0d-8329ed926622.
+Aggiornati J34 campi
+Aggiornato nome foglio J34 a '/'.
+Aggiornato file foglio J34 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J34 a 'CONN_1841513'.
+Connesso J34 pin 7 a +3.3V.
+Connesso J34 pin 4 a GND.
+Connesso J34 pin 1 a GND.
+Connesso J34 pin 2 a GND.
+Connesso J34 pin 8 a +3.3V.
+Connesso J34 pin 6 a +3.3V.
+Connesso J34 pin 5 a +3.3V.
+Connesso J34 pin 3 a GND.
+Aggiunto J35 (impronta 'AA_Soleidon_Cape:CONN_1841513').
+Cambiato riferimento REF** a J35.
+Cambiato valore J35 da CONN_1841513 a Power 24V.
+Aggiornata associazione simbolo J35 da  a /3cb62cf4-7fb8-4a4a-828e-52020bf9b28d.
+Aggiornati J35 campi
+Aggiornato nome foglio J35 a '/'.
+Aggiornato file foglio J35 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J35 a 'CONN_1841513'.
+Connesso J35 pin 7 a +24V_PowerSensor_OUT.
+Connesso J35 pin 8 a +24V_PowerSensor_OUT.
+Connesso J35 pin 4 a GND.
+Connesso J35 pin 1 a GND.
+Connesso J35 pin 6 a +24V_PowerSensor_OUT.
+Connesso J35 pin 3 a GND.
+Connesso J35 pin 5 a +24V_PowerSensor_OUT.
+Connesso J35 pin 2 a GND.
+Aggiunto J36 (impronta 'AA_Soleidon_Cape:CONN_1841513').
+Cambiato riferimento REF** a J36.
+Cambiato valore J36 da CONN_1841513 a Power 24V.
+Aggiornata associazione simbolo J36 da  a /00469423-26ca-4b49-82f3-f159f33bff2c.
+Aggiornati J36 campi
+Aggiornato nome foglio J36 a '/'.
+Aggiornato file foglio J36 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J36 a 'CONN_1841513'.
+Connesso J36 pin 6 a +24V_PowerSensor_OUT.
+Connesso J36 pin 5 a +24V_PowerSensor_OUT.
+Connesso J36 pin 3 a GND.
+Connesso J36 pin 7 a +24V_PowerSensor_OUT.
+Connesso J36 pin 4 a GND.
+Connesso J36 pin 2 a GND.
+Connesso J36 pin 1 a GND.
+Connesso J36 pin 8 a +24V_PowerSensor_OUT.
+Aggiunto J37 (impronta 'AA_Soleidon_Cape:CONN_1841513').
+Cambiato riferimento REF** a J37.
+Cambiato valore J37 da CONN_1841513 a Power 24V.
+Aggiornata associazione simbolo J37 da  a /fe56e6f6-61f8-4b9a-926f-86a6dc335481.
+Aggiornati J37 campi
+Aggiornato nome foglio J37 a '/'.
+Aggiornato file foglio J37 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J37 a 'CONN_1841513'.
+Connesso J37 pin 8 a +24V_PowerSensor_OUT.
+Connesso J37 pin 5 a +24V_PowerSensor_OUT.
+Connesso J37 pin 7 a +24V_PowerSensor_OUT.
+Connesso J37 pin 4 a GND.
+Connesso J37 pin 2 a GND.
+Connesso J37 pin 1 a GND.
+Connesso J37 pin 6 a +24V_PowerSensor_OUT.
+Connesso J37 pin 3 a GND.
+Aggiunto J38 (impronta 'AA_Soleidon_Cape:CONN_1841513').
+Cambiato riferimento REF** a J38.
+Cambiato valore J38 da CONN_1841513 a Power 5V.
+Aggiornata associazione simbolo J38 da  a /11a75f23-edf1-4d32-9c30-4f76e23f635f.
+Aggiornati J38 campi
+Aggiornato nome foglio J38 a '/'.
+Aggiornato file foglio J38 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J38 a 'CONN_1841513'.
+Connesso J38 pin 2 a GND.
+Connesso J38 pin 8 a EXT_5V.
+Connesso J38 pin 1 a GND.
+Connesso J38 pin 7 a EXT_5V.
+Connesso J38 pin 3 a GND.
+Connesso J38 pin 4 a GND.
+Connesso J38 pin 5 a EXT_5V.
+Connesso J38 pin 6 a EXT_5V.
+Aggiunto J39 (impronta 'AA_Soleidon_Cape:CONN_1841513').
+Cambiato riferimento REF** a J39.
+Cambiato valore J39 da CONN_1841513 a Power 24V.
+Aggiornata associazione simbolo J39 da  a /ea8eff0a-215b-4551-b175-20742cd655e8.
+Aggiornati J39 campi
+Aggiornato nome foglio J39 a '/'.
+Aggiornato file foglio J39 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J39 a 'CONN_1841513'.
+Connesso J39 pin 3 a GND.
+Connesso J39 pin 4 a GND.
+Connesso J39 pin 1 a GND.
+Connesso J39 pin 8 a +24V_PowerSensor_OUT.
+Connesso J39 pin 5 a +24V_PowerSensor_OUT.
+Connesso J39 pin 7 a +24V_PowerSensor_OUT.
+Connesso J39 pin 2 a GND.
+Connesso J39 pin 6 a +24V_PowerSensor_OUT.
+Aggiunto J40 (impronta 'AA_Soleidon_Cape:CONN_1841513').
+Cambiato riferimento REF** a J40.
+Cambiato valore J40 da CONN_1841513 a Power 24V.
+Aggiornata associazione simbolo J40 da  a /93af21ef-b32d-4bb4-81ba-3302aea1e407.
+Aggiornati J40 campi
+Aggiornato nome foglio J40 a '/'.
+Aggiornato file foglio J40 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta J40 a 'CONN_1841513'.
+Connesso J40 pin 8 a +24V_PowerSensor_OUT.
+Connesso J40 pin 4 a GND.
+Connesso J40 pin 2 a GND.
+Connesso J40 pin 6 a +24V_PowerSensor_OUT.
+Connesso J40 pin 3 a GND.
+Connesso J40 pin 1 a GND.
+Connesso J40 pin 7 a +24V_PowerSensor_OUT.
+Connesso J40 pin 5 a +24V_PowerSensor_OUT.
+Aggiunto JP1 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP1.
+Cambiato valore JP1 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP1 da  a /dba4a257-acb3-4b06-993b-d85fbc297b69.
+Aggiornati JP1 campi
+Aggiornato nome foglio JP1 a '/'.
+Aggiornato file foglio JP1 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP1 a 'SolderJumper*Open*'.
+Aggiungi collegamento Net-(JP1-B).
+Connesso JP1 pin 2 a Net-(JP1-B).
+Connesso JP1 pin 1 a EXT_5V.
+Aggiunto JP2 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP2.
+Cambiato valore JP2 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP2 da  a /af632502-90e8-4f31-b9e2-b0d772128c3f.
+Aggiornati JP2 campi
+Aggiornato nome foglio JP2 a '/'.
+Aggiornato file foglio JP2 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP2 a 'SolderJumper*Open*'.
+Aggiungi collegamento Net-(JP2-B).
+Connesso JP2 pin 2 a Net-(JP2-B).
+Connesso JP2 pin 1 a EXT_5V.
+Aggiunto JP3 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP3.
+Cambiato valore JP3 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP3 da  a /644c65c5-b6f0-40c2-8c9c-26393a7ead87.
+Aggiornati JP3 campi
+Aggiornato nome foglio JP3 a '/'.
+Aggiornato file foglio JP3 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP3 a 'SolderJumper*Open*'.
+Aggiungi collegamento Net-(JP3-B).
+Connesso JP3 pin 2 a Net-(JP3-B).
+Connesso JP3 pin 1 a EXT_5V.
+Aggiunto JP4 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP4.
+Cambiato valore JP4 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP4 da  a /47b4823b-0da8-4907-9ca6-26ffecfc8f7a.
+Aggiornati JP4 campi
+Aggiornato nome foglio JP4 a '/'.
+Aggiornato file foglio JP4 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP4 a 'SolderJumper*Open*'.
+Connesso JP4 pin 1 a EXT_5V.
+Aggiungi collegamento Net-(JP4-B).
+Connesso JP4 pin 2 a Net-(JP4-B).
+Aggiunto JP5 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP5.
+Cambiato valore JP5 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP5 da  a /a9df8a27-4f3a-45af-9943-b2038cbdb144.
+Aggiornati JP5 campi
+Aggiornato nome foglio JP5 a '/'.
+Aggiornato file foglio JP5 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP5 a 'SolderJumper*Open*'.
+Aggiungi collegamento Net-(JP5-B).
+Connesso JP5 pin 2 a Net-(JP5-B).
+Connesso JP5 pin 1 a EXT_5V.
+Aggiunto JP6 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP6.
+Cambiato valore JP6 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP6 da  a /0276eede-0c73-4006-91e9-3990dfb8794a.
+Aggiornati JP6 campi
+Aggiornato nome foglio JP6 a '/'.
+Aggiornato file foglio JP6 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP6 a 'SolderJumper*Open*'.
+Connesso JP6 pin 1 a EXT_5V.
+Aggiungi collegamento Net-(JP6-B).
+Connesso JP6 pin 2 a Net-(JP6-B).
+Aggiunto JP7 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP7.
+Cambiato valore JP7 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP7 da  a /d3753505-1c8c-4083-bfd5-81dd9518eacb.
+Aggiornati JP7 campi
+Aggiornato nome foglio JP7 a '/'.
+Aggiornato file foglio JP7 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP7 a 'SolderJumper*Open*'.
+Aggiungi collegamento Net-(JP7-B).
+Connesso JP7 pin 2 a Net-(JP7-B).
+Connesso JP7 pin 1 a EXT_5V.
+Aggiunto JP8 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP8.
+Cambiato valore JP8 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP8 da  a /ef6b2360-d9fd-4efe-8d35-bb1ea651c9e2.
+Aggiornati JP8 campi
+Aggiornato nome foglio JP8 a '/'.
+Aggiornato file foglio JP8 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP8 a 'SolderJumper*Open*'.
+Aggiungi collegamento Net-(JP8-B).
+Connesso JP8 pin 2 a Net-(JP8-B).
+Connesso JP8 pin 1 a EXT_5V.
+Aggiunto JP9 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP9.
+Cambiato valore JP9 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP9 da  a /529b3a69-d462-4369-a9e4-23a6cf75a4fd.
+Aggiornati JP9 campi
+Aggiornato nome foglio JP9 a '/'.
+Aggiornato file foglio JP9 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP9 a 'SolderJumper*Open*'.
+Aggiungi collegamento Net-(JP9-A).
+Connesso JP9 pin 1 a Net-(JP9-A).
+Connesso JP9 pin 2 a EXT_5V.
+Aggiunto JP10 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP10.
+Cambiato valore JP10 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP10 da  a /5db056e3-51ad-4581-bfa1-a83bf255b836.
+Aggiornati JP10 campi
+Aggiornato nome foglio JP10 a '/'.
+Aggiornato file foglio JP10 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP10 a 'SolderJumper*Open*'.
+Aggiungi collegamento Net-(JP10-B).
+Connesso JP10 pin 2 a Net-(JP10-B).
+Connesso JP10 pin 1 a EXT_5V.
+Aggiunto JP11 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP11.
+Cambiato valore JP11 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP11 da  a /346d1e2e-d0fe-4f3f-b7bc-ed6c563675b3.
+Aggiornati JP11 campi
+Aggiornato nome foglio JP11 a '/'.
+Aggiornato file foglio JP11 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP11 a 'SolderJumper*Open*'.
+Connesso JP11 pin 2 a +3.3V.
+Aggiungi collegamento /A2.
+Connesso JP11 pin 1 a /A2.
+Aggiunto JP12 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP12.
+Cambiato valore JP12 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP12 da  a /bd215ace-6a50-4a1a-a028-ea77e936dd5f.
+Aggiornati JP12 campi
+Aggiornato nome foglio JP12 a '/'.
+Aggiornato file foglio JP12 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP12 a 'SolderJumper*Open*'.
+Aggiungi collegamento /A0.
+Connesso JP12 pin 2 a /A0.
+Connesso JP12 pin 1 a +3.3V.
+Aggiunto JP13 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP13.
+Cambiato valore JP13 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP13 da  a /7b5e46cb-31e6-43be-9b37-c4d5c927534d.
+Aggiornati JP13 campi
+Aggiornato nome foglio JP13 a '/'.
+Aggiornato file foglio JP13 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP13 a 'SolderJumper*Open*'.
+Aggiungi collegamento /A1.
+Connesso JP13 pin 1 a /A1.
+Connesso JP13 pin 2 a +3.3V.
+Aggiunto JP14 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP14.
+Cambiato valore JP14 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP14 da  a /d64a0d87-526b-465a-8904-5dd8658453ee.
+Aggiornati JP14 campi
+Aggiornato nome foglio JP14 a '/'.
+Aggiornato file foglio JP14 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP14 a 'SolderJumper*Open*'.
+Connesso JP14 pin 2 a Net-(JP14-B).
+Aggiungi collegamento SDA_EXT_2.
+Connesso JP14 pin 1 a SDA_EXT_2.
+Aggiunto JP15 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP15.
+Cambiato valore JP15 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP15 da  a /8c5d9c6d-f3c5-4adb-8ad9-5a69dbe1e018.
+Aggiornati JP15 campi
+Aggiornato nome foglio JP15 a '/'.
+Aggiornato file foglio JP15 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP15 a 'SolderJumper*Open*'.
+Connesso JP15 pin 1 a SDA_EXT_2.
+Connesso JP15 pin 2 a Net-(JP15-B).
+Cambiato valore J26 da QWIIC-SPARKFUN_PRT-14417 a PRT-14417.
+Aggiunto JP16 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP16.
+Cambiato valore JP16 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP16 da  a /ac53d60f-26e8-4390-93f8-6ebc41627624.
+Aggiornati JP16 campi
+Aggiornato nome foglio JP16 a '/'.
+Aggiornato file foglio JP16 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP16 a 'SolderJumper*Open*'.
+Connesso JP16 pin 2 a Net-(JP16-B).
+Connesso JP16 pin 1 a SDA_EXT_2.
+Aggiunto JP17 (impronta 'AA_Soleidon_Cape:Custom_Open_Jumper').
+Cambiato riferimento REF** a JP17.
+Cambiato valore JP17 da Custom_Open_Jumper a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP17 da  a /6aff440a-9c99-41b9-b5af-81a9093552ea.
+Aggiornati JP17 campi
+Aggiornato nome foglio JP17 a '/'.
+Aggiornato file foglio JP17 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP17 a 'SolderJumper*Open*'.
+Aggiunti JP17 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso JP17 pin 1 a +3.3V.
+Connesso JP17 pin 1 a +3.3V.
+Aggiunto JP18 (impronta 'AA_Soleidon_Cape:Custom_Open_Jumper').
+Cambiato riferimento REF** a JP18.
+Cambiato valore JP18 da Custom_Open_Jumper a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP18 da  a /bad6550b-a1c2-4222-9dea-fbcbf499afe4.
+Aggiornati JP18 campi
+Aggiornato nome foglio JP18 a '/'.
+Aggiornato file foglio JP18 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP18 a 'SolderJumper*Open*'.
+Aggiunti JP18 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso JP18 pin 1 a +3.3V.
+Connesso JP18 pin 1 a +3.3V.
+Aggiunto JP19 (impronta 'AA_Soleidon_Cape:Custom_Open_Jumper').
+Cambiato riferimento REF** a JP19.
+Cambiato valore JP19 da Custom_Open_Jumper a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP19 da  a /35655886-3492-4fcb-8923-ab2f614cd4c2.
+Aggiornati JP19 campi
+Aggiornato nome foglio JP19 a '/'.
+Aggiornato file foglio JP19 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP19 a 'SolderJumper*Open*'.
+Aggiunti JP19 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso JP19 pin 1 a +3.3V.
+Connesso JP19 pin 1 a +3.3V.
+Aggiunto JP20 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP20.
+Cambiato valore JP20 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP20 da  a /faca1602-10f6-4966-bea6-d62978f2ab0f.
+Aggiornati JP20 campi
+Aggiornato nome foglio JP20 a '/'.
+Aggiornato file foglio JP20 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP20 a 'SolderJumper*Open*'.
+Aggiungi collegamento SCL_EXT2.
+Connesso JP20 pin 1 a SCL_EXT2.
+Connesso JP20 pin 2 a Net-(JP20-B).
+Aggiunto JP21 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP21.
+Cambiato valore JP21 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP21 da  a /13d4fc3b-ab41-4ea5-be75-8a33ea49e0f5.
+Aggiornati JP21 campi
+Aggiornato nome foglio JP21 a '/'.
+Aggiornato file foglio JP21 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP21 a 'SolderJumper*Open*'.
+Aggiungi collegamento SCL_EXT3.
+Connesso JP21 pin 1 a SCL_EXT3.
+Connesso JP21 pin 2 a Net-(JP21-B).
+Aggiunto JP22 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP22.
+Cambiato valore JP22 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP22 da  a /61f09878-ef14-4fac-a67b-9c4308298c3e.
+Aggiornati JP22 campi
+Aggiornato nome foglio JP22 a '/'.
+Aggiornato file foglio JP22 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP22 a 'SolderJumper*Open*'.
+Aggiungi collegamento SCL_EXT4.
+Connesso JP22 pin 1 a SCL_EXT4.
+Connesso JP22 pin 2 a Net-(JP22-B).
+Aggiunto JP23 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP23.
+Cambiato valore JP23 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP23 da  a /81eb66f8-8894-4919-8972-3253dce0f29a.
+Aggiornati JP23 campi
+Aggiornato nome foglio JP23 a '/'.
+Aggiornato file foglio JP23 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP23 a 'SolderJumper*Open*'.
+Aggiungi collegamento SCL_EXT.
+Connesso JP23 pin 1 a SCL_EXT.
+Aggiungi collegamento Net-(JP23-B).
+Connesso JP23 pin 2 a Net-(JP23-B).
+Aggiunto JP24 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP24.
+Cambiato valore JP24 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP24 da  a /94a0d225-9d24-4e10-8fc1-7157af6ae4c6.
+Aggiornati JP24 campi
+Aggiornato nome foglio JP24 a '/'.
+Aggiornato file foglio JP24 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP24 a 'SolderJumper*Open*'.
+Connesso JP24 pin 2 a +3.3V.
+Aggiungi collegamento Net-(JP24-A).
+Connesso JP24 pin 1 a Net-(JP24-A).
+Aggiunto JP25 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP25.
+Cambiato valore JP25 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP25 da  a /0b41666f-4b40-4425-a1eb-9e5d9612aa04.
+Aggiornati JP25 campi
+Aggiornato nome foglio JP25 a '/'.
+Aggiornato file foglio JP25 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP25 a 'SolderJumper*Open*'.
+Aggiungi collegamento Net-(JP25-B).
+Connesso JP25 pin 2 a Net-(JP25-B).
+Aggiungi collegamento SDA_EXT.
+Connesso JP25 pin 1 a SDA_EXT.
+Aggiunto JP26 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP26.
+Cambiato valore JP26 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP26 da  a /ca5c01b4-6fb8-460c-a09c-539810e3fb90.
+Aggiornati JP26 campi
+Aggiornato nome foglio JP26 a '/'.
+Aggiornato file foglio JP26 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP26 a 'SolderJumper*Open*'.
+Aggiungi collegamento Net-(JP26-B).
+Connesso JP26 pin 2 a Net-(JP26-B).
+Connesso JP26 pin 1 a +3.3V.
+Aggiunto JP27 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP27.
+Cambiato valore JP27 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP27 da  a /a3ff2cfc-aa85-4d66-9e13-9d52c2e68862.
+Aggiornati JP27 campi
+Aggiornato nome foglio JP27 a '/'.
+Aggiornato file foglio JP27 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP27 a 'SolderJumper*Open*'.
+Connesso JP27 pin 2 a Net-(JP27-B).
+Connesso JP27 pin 1 a SDA_EXT_2.
+Aggiunto JP28 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP28.
+Cambiato valore JP28 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP28 da  a /95cf3738-7e82-4cd8-8fdc-eb332c45def2.
+Aggiornati JP28 campi
+Aggiornato nome foglio JP28 a '/'.
+Aggiornato file foglio JP28 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP28 a 'SolderJumper*Open*'.
+Connesso JP28 pin 1 a SDA_EXT_2.
+Connesso JP28 pin 2 a Net-(JP28-B).
+Aggiunto JP29 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP29.
+Cambiato valore JP29 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP29 da  a /a4818336-18b0-4c4c-9e85-0f7f250af99c.
+Aggiornati JP29 campi
+Aggiornato nome foglio JP29 a '/'.
+Aggiornato file foglio JP29 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP29 a 'SolderJumper*Open*'.
+Connesso JP29 pin 1 a SCL_EXT.
+Connesso JP29 pin 2 a Net-(JP29-B).
+Aggiunto JP30 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP30.
+Cambiato valore JP30 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP30 da  a /805856f2-8f04-45a4-9c73-48da5e041b67.
+Aggiornati JP30 campi
+Aggiornato nome foglio JP30 a '/'.
+Aggiornato file foglio JP30 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP30 a 'SolderJumper*Open*'.
+Connesso JP30 pin 2 a Net-(JP30-B).
+Connesso JP30 pin 1 a SDA_EXT_2.
+Aggiunto JP31 (impronta 'AA_Soleidon_Cape:Custom_Open_Jumper').
+Cambiato riferimento REF** a JP31.
+Cambiato valore JP31 da Custom_Open_Jumper a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP31 da  a /8bee75be-9c41-4a7f-9e2f-d6ff553a4ceb.
+Aggiornati JP31 campi
+Aggiornato nome foglio JP31 a '/'.
+Aggiornato file foglio JP31 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP31 a 'SolderJumper*Open*'.
+Aggiunti JP31 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso JP31 pin 1 a +3.3V.
+Connesso JP31 pin 1 a +3.3V.
+Aggiunto JP32 (impronta 'AA_Soleidon_Cape:Custom_Open_Jumper').
+Cambiato riferimento REF** a JP32.
+Cambiato valore JP32 da Custom_Open_Jumper a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP32 da  a /bff305e3-5ceb-46b8-9912-f85536dffc98.
+Aggiornati JP32 campi
+Aggiornato nome foglio JP32 a '/'.
+Aggiornato file foglio JP32 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP32 a 'SolderJumper*Open*'.
+Aggiunti JP32 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso JP32 pin 1 a +3.3V.
+Connesso JP32 pin 1 a +3.3V.
+Aggiunto JP33 (impronta 'AA_Soleidon_Cape:Custom_Open_Jumper').
+Cambiato riferimento REF** a JP33.
+Cambiato valore JP33 da Custom_Open_Jumper a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP33 da  a /e8972fc5-2ab2-4941-897d-4fae7cc7e3b0.
+Aggiornati JP33 campi
+Aggiornato nome foglio JP33 a '/'.
+Aggiornato file foglio JP33 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP33 a 'SolderJumper*Open*'.
+Aggiunti JP33 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso JP33 pin 1 a +3.3V.
+Connesso JP33 pin 1 a +3.3V.
+Aggiunto JP34 (impronta 'AA_Soleidon_Cape:Custom_Open_Jumper').
+Cambiato riferimento REF** a JP34.
+Cambiato valore JP34 da Custom_Open_Jumper a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP34 da  a /ffe94fdb-fb8c-448e-af46-047f3b57335d.
+Aggiornati JP34 campi
+Aggiornato nome foglio JP34 a '/'.
+Aggiornato file foglio JP34 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP34 a 'SolderJumper*Open*'.
+Aggiunti JP34 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso JP34 pin 1 a +3.3V.
+Connesso JP34 pin 1 a +3.3V.
+Aggiunto JP35 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP35.
+Cambiato valore JP35 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP35 da  a /ddf58051-7b80-46e6-af06-b4c72bf14467.
+Aggiornati JP35 campi
+Aggiornato nome foglio JP35 a '/'.
+Aggiornato file foglio JP35 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP35 a 'SolderJumper*Open*'.
+Connesso JP35 pin 1 a SCL_EXT2.
+Connesso JP35 pin 2 a Net-(JP35-B).
+Aggiunto JP36 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP36.
+Cambiato valore JP36 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP36 da  a /70094501-3343-45f3-b655-caeaf9910411.
+Aggiornati JP36 campi
+Aggiornato nome foglio JP36 a '/'.
+Aggiornato file foglio JP36 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP36 a 'SolderJumper*Open*'.
+Connesso JP36 pin 1 a SCL_EXT3.
+Connesso JP36 pin 2 a Net-(JP36-B).
+Aggiunto JP37 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP37.
+Cambiato valore JP37 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP37 da  a /aa2fde3b-17f1-468e-9524-58c8ffebfa48.
+Aggiornati JP37 campi
+Aggiornato nome foglio JP37 a '/'.
+Aggiornato file foglio JP37 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP37 a 'SolderJumper*Open*'.
+Connesso JP37 pin 1 a SDA_EXT.
+Connesso JP37 pin 2 a Net-(JP37-B).
+Aggiunto JP38 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP38.
+Cambiato valore JP38 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP38 da  a /ce978475-c225-4c72-8b3f-583d28e4ffdd.
+Aggiornati JP38 campi
+Aggiornato nome foglio JP38 a '/'.
+Aggiornato file foglio JP38 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP38 a 'SolderJumper*Open*'.
+Connesso JP38 pin 1 a SCL_EXT4.
+Connesso JP38 pin 2 a Net-(JP38-B).
+Aggiunto C1 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Aggiunto JP39 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP39.
+Cambiato valore JP39 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP39 da  a /8518943c-c263-4338-990a-f4659593b49e.
+Aggiornati JP39 campi
+Aggiornato nome foglio JP39 a '/'.
+Aggiornato file foglio JP39 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP39 a 'SolderJumper*Open*'.
+Connesso JP39 pin 1 a EXT_5V.
+Aggiungi collegamento Net-(JP39-B).
+Connesso JP39 pin 2 a Net-(JP39-B).
+Cambiato riferimento REF** a C1.
+Aggiunto JP40 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP40.
+Cambiato valore JP40 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP40 da  a /d3750d2d-3d51-4ec4-af5e-bbb83587e604.
+Aggiornati JP40 campi
+Aggiornato nome foglio JP40 a '/'.
+Aggiornato file foglio JP40 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP40 a 'SolderJumper*Open*'.
+Connesso JP40 pin 1 a Net-(JP40-A).
+Connesso JP40 pin 2 a EXT_5V.
+Cambiato valore C1 da C_0201_0603Metric a 100nF.
+Aggiunto JP41 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP41.
+Cambiato valore JP41 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP41 da  a /b8b00b36-fd50-480f-bc56-753c5218f61f.
+Aggiornati JP41 campi
+Aggiornato nome foglio JP41 a '/'.
+Aggiornato file foglio JP41 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP41 a 'SolderJumper*Open*'.
+Aggiungi collegamento Net-(JP41-B).
+Connesso JP41 pin 2 a Net-(JP41-B).
+Connesso JP41 pin 1 a EXT_5V.
+Aggiornata associazione simbolo C1 da  a /f241907c-8467-433d-b544-954598b59109.
+Aggiunto JP42 (impronta 'Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm').
+Cambiato riferimento REF** a JP42.
+Cambiato valore JP42 da SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP42 da  a /a606866f-cd7d-4560-b2fc-4d3a1363fb65.
+Aggiornati JP42 campi
+Aggiornato nome foglio JP42 a '/'.
+Aggiornato file foglio JP42 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP42 a 'SolderJumper*Open*'.
+Connesso JP42 pin 1 a Net-(JP42-A).
+Connesso JP42 pin 2 a EXT_5V.
+Aggiornati C1 campi
+Aggiunto JP43 (impronta 'AA_Soleidon_Cape:Custom_Open_Jumper').
+Cambiato riferimento REF** a JP43.
+Cambiato valore JP43 da Custom_Open_Jumper a SolderJumper_2_Open.
+Aggiornata associazione simbolo JP43 da  a /a89cf019-0b51-4baa-84c6-1aca54d141c3.
+Aggiornati JP43 campi
+Aggiornato nome foglio JP43 a '/'.
+Aggiornato file foglio JP43 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta JP43 a 'SolderJumper*Open*'.
+Aggiunti JP43 attributi di fabbricazione 'escludi dalla DIBA'.
+Aggiungi collegamento Net-(JP43-A).
+Connesso JP43 pin 1 a Net-(JP43-A).
+Connesso JP43 pin 1 a Net-(JP43-A).
+Aggiornato nome foglio C1 a '/'.
+Aggiunto L1 (impronta 'AA_Soleidon_Cape:RL622_Series').
+Cambiato riferimento REF** a L1.
+Cambiato valore L1 da RL622_Series a 82 μH.
+Aggiornata associazione simbolo L1 da  a /299761e7-79e9-481f-ba37-fdb90ea7fb07.
+Aggiornati L1 campi
+Aggiornato nome foglio L1 a '/'.
+Aggiornato file foglio L1 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta L1 a 'Choke_* *Coil* Inductor_* L_*'.
+Connesso L1 pin 2 a +3.3V.
+Connesso L1 pin 1 a Net-(D14-K).
+Aggiornato file foglio C1 a 'Soleidon Cape.kicad_sch'.
+Aggiunto L1_SRR1260-330M1 (impronta 'AA_Soleidon_Cape:IND_BOURNS_SRR1260').
+Cambiato riferimento REF** a L1_SRR1260-330M1.
+Cambiato valore L1_SRR1260-330M1 da IND_BOURNS_SRR1260 a 33 µH.
+Aggiornata associazione simbolo L1_SRR1260-330M1 da  a /df3c3df1-72ff-4c9e-bcd1-5d14eb6c1bac.
+Aggiornati L1_SRR1260-330M1 campi
+Aggiornato nome foglio L1_SRR1260-330M1 a '/'.
+Aggiornato file foglio L1_SRR1260-330M1 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta L1_SRR1260-330M1 a 'Choke_* *Coil* Inductor_* L_*'.
+Connesso L1_SRR1260-330M1 pin 1 a EXT_5V.
+Connesso L1_SRR1260-330M1 pin 2 a EXT_5V.
+Aggiornati filtri impronta C1 a 'C_*'.
+Aggiunto Q1 (impronta 'Package_TO_SOT_SMD:SOT-23').
+Cambiato riferimento REF** a Q1.
+Cambiato valore Q1 da SOT-23 a BSS138.
+Aggiornata associazione simbolo Q1 da  a /1491ee0d-236e-494f-a5cf-4c538f7d7324.
+Aggiornati Q1 campi
+Aggiornato nome foglio Q1 a '/'.
+Aggiornato file foglio Q1 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta Q1 a 'SOT?23*'.
+Connesso Q1 pin 1 a +3.3V.
+Aggiungi collegamento SDA_0.
+Connesso Q1 pin 2 a SDA_0.
+Aggiungi collegamento SDA_ADS_0.
+Connesso Q1 pin 3 a SDA_ADS_0.
+Aggiungi collegamento GND.
+Aggiunto Q2 (impronta 'Package_TO_SOT_SMD:SOT-23').
+Cambiato riferimento REF** a Q2.
+Cambiato valore Q2 da SOT-23 a BSS138.
+Aggiornata associazione simbolo Q2 da  a /56fd6824-646a-4547-94aa-21a47014bb4a.
+Aggiornati Q2 campi
+Aggiornato nome foglio Q2 a '/'.
+Aggiornato file foglio Q2 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta Q2 a 'SOT?23*'.
+Aggiungi collegamento SDA_ADS_1.
+Connesso Q2 pin 3 a SDA_ADS_1.
+Aggiungi collegamento SDA_1.
+Connesso Q2 pin 2 a SDA_1.
+Connesso Q2 pin 1 a +3.3V.
+Connesso C1 pin 2 a GND.
+Aggiunto Q3 (impronta 'Package_TO_SOT_SMD:SOT-23').
+Cambiato riferimento REF** a Q3.
+Cambiato valore Q3 da SOT-23 a BSS138.
+Aggiornata associazione simbolo Q3 da  a /80a9e8aa-115d-4445-8b3e-396439a88ab5.
+Aggiornati Q3 campi
+Aggiornato nome foglio Q3 a '/'.
+Aggiornato file foglio Q3 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta Q3 a 'SOT?23*'.
+Aggiungi collegamento SCL_0.
+Connesso Q3 pin 2 a SCL_0.
+Aggiungi collegamento SCL__ADS_0.
+Connesso Q3 pin 3 a SCL__ADS_0.
+Connesso Q3 pin 1 a +3.3V.
+Aggiungi collegamento EXT_5V.
+Aggiunto Q4 (impronta 'Package_TO_SOT_SMD:SOT-23').
+Cambiato riferimento REF** a Q4.
+Cambiato valore Q4 da SOT-23 a BSS138.
+Aggiornata associazione simbolo Q4 da  a /9644a5cf-1998-441c-9e50-eb7db7dba024.
+Aggiornati Q4 campi
+Aggiornato nome foglio Q4 a '/'.
+Aggiornato file foglio Q4 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta Q4 a 'SOT?23*'.
+Connesso Q4 pin 1 a +3.3V.
+Aggiungi collegamento SCL_ADS_1.
+Connesso Q4 pin 3 a SCL_ADS_1.
+Aggiungi collegamento SCL_1.
+Connesso Q4 pin 2 a SCL_1.
+Connesso C1 pin 1 a EXT_5V.
+Aggiunto R1 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R1.
+Cambiato valore R1 da R_0603_1608Metric a R10k.
+Aggiornata associazione simbolo R1 da  a /9099fa68-f5f4-4aa6-96a0-7fbaf580e14e.
+Aggiornati R1 campi
+Aggiornato nome foglio R1 a '/'.
+Aggiornato file foglio R1 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R1 a 'R_*'.
+Connesso R1 pin 2 a ALERT/RDY_U10.
+Connesso R1 pin 1 a Net-(JP1-B).
+Aggiunto C2 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Aggiunto R2 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R2.
+Cambiato valore R2 da R_0603_1608Metric a R10k.
+Aggiornata associazione simbolo R2 da  a /5ff1dced-91eb-41e4-8036-4c68e6273bb4.
+Aggiornati R2 campi
+Aggiornato nome foglio R2 a '/'.
+Aggiornato file foglio R2 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R2 a 'R_*'.
+Connesso R2 pin 2 a ALERT/RDY_U11.
+Connesso R2 pin 1 a Net-(JP4-B).
+Cambiato riferimento REF** a C2.
+Aggiunto R3 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R3.
+Cambiato valore R3 da R_0603_1608Metric a R10k.
+Aggiornata associazione simbolo R3 da  a /49c7bacb-0c3a-4f25-ab62-d1dbc7a889ce.
+Aggiornati R3 campi
+Aggiornato nome foglio R3 a '/'.
+Aggiornato file foglio R3 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R3 a 'R_*'.
+Connesso R3 pin 2 a ALERT/RDY_U13.
+Connesso R3 pin 1 a Net-(JP2-B).
+Cambiato valore C2 da C_0201_0603Metric a 100nF.
+Aggiunto R4 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R4.
+Cambiato valore R4 da R_0603_1608Metric a R10k.
+Aggiornata associazione simbolo R4 da  a /bcc6a645-60ef-4ee9-9a17-a2aa3c247b2f.
+Aggiornati R4 campi
+Aggiornato nome foglio R4 a '/'.
+Aggiornato file foglio R4 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R4 a 'R_*'.
+Connesso R4 pin 1 a Net-(JP6-B).
+Connesso R4 pin 2 a ALERT/RDY_U17.
+Aggiornata associazione simbolo C2 da  a /05c4ae44-4049-421e-905e-ce9d57e525f6.
+Aggiunto R5 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R5.
+Cambiato valore R5 da R_0603_1608Metric a R10k.
+Aggiornata associazione simbolo R5 da  a /945cbc98-dc32-4a51-816f-5202b6798341.
+Aggiornati R5 campi
+Aggiornato nome foglio R5 a '/'.
+Aggiornato file foglio R5 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R5 a 'R_*'.
+Connesso R5 pin 1 a Net-(JP7-B).
+Connesso R5 pin 2 a ALERT/RDY_U8.
+Aggiornati C2 campi
+Aggiunto R6 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R6.
+Cambiato valore R6 da R_0603_1608Metric a R10k.
+Aggiornata associazione simbolo R6 da  a /96bbac8b-9599-4785-8c9e-e801e5844449.
+Aggiornati R6 campi
+Aggiornato nome foglio R6 a '/'.
+Aggiornato file foglio R6 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R6 a 'R_*'.
+Connesso R6 pin 2 a ALERT/RDY_U9.
+Connesso R6 pin 1 a Net-(JP3-B).
+Aggiornato nome foglio C2 a '/'.
+Aggiunto R7 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R7.
+Cambiato valore R7 da R_0603_1608Metric a R10k.
+Aggiornata associazione simbolo R7 da  a /3b99e2fe-2f06-471a-aec9-4f4b07c794de.
+Aggiornati R7 campi
+Aggiornato nome foglio R7 a '/'.
+Aggiornato file foglio R7 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R7 a 'R_*'.
+Connesso R7 pin 1 a Net-(JP5-B).
+Connesso R7 pin 2 a ALERT/RDY_U14.
+Aggiornato file foglio C2 a 'Soleidon Cape.kicad_sch'.
+Aggiunto R8 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R8.
+Cambiato valore R8 da R_0603_1608Metric a R10k.
+Aggiornata associazione simbolo R8 da  a /22a5b0fe-bc33-4c47-a97c-70dd623da2d7.
+Aggiornati R8 campi
+Aggiornato nome foglio R8 a '/'.
+Aggiornato file foglio R8 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R8 a 'R_*'.
+Connesso R8 pin 2 a ALERT/RDY_U16.
+Connesso R8 pin 1 a Net-(JP8-B).
+Aggiornati filtri impronta C2 a 'C_*'.
+Aggiunto R9 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R9.
+Cambiato valore R9 da R_0603_1608Metric a R0.
+Aggiornata associazione simbolo R9 da  a /3073ed43-8960-4a09-9b47-df7b5dfa3ae1.
+Aggiornati R9 campi
+Aggiornato nome foglio R9 a '/'.
+Aggiornato file foglio R9 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R9 a 'R_*'.
+Aggiungi collegamento ADDR_U17.
+Connesso R9 pin 1 a ADDR_U17.
+Connesso R9 pin 2 a SCL_ADS_1.
+Connesso C2 pin 2 a GND.
+Aggiunto R10 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R10.
+Cambiato valore R10 da R_0603_1608Metric a R0.
+Aggiornata associazione simbolo R10 da  a /9322f50e-6270-4f4f-9d23-e735012e9441.
+Aggiornati R10 campi
+Aggiornato nome foglio R10 a '/'.
+Aggiornato file foglio R10 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R10 a 'R_*'.
+Connesso R10 pin 2 a SDA_ADS_1.
+Aggiungi collegamento ADDR_U16.
+Connesso R10 pin 1 a ADDR_U16.
+Connesso C2 pin 1 a EXT_5V.
+Aggiunto R11 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R11.
+Cambiato valore R11 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R11 da  a /1f7780c7-42e0-4171-a508-d0a36690b4d5.
+Aggiornati R11 campi
+Aggiornato nome foglio R11 a '/'.
+Aggiornato file foglio R11 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R11 a 'R_*'.
+Connesso R11 pin 1 a Net-(U5-AIN0).
+Connesso R11 pin 2 a AIN0_U8.
+Aggiunto C3 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Aggiunto R12 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R12.
+Cambiato valore R12 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R12 da  a /37304f3e-09db-4ec1-8b91-5f409595bc65.
+Aggiornati R12 campi
+Aggiornato nome foglio R12 a '/'.
+Aggiornato file foglio R12 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R12 a 'R_*'.
+Connesso R12 pin 1 a Net-(U5-AIN3).
+Connesso R12 pin 2 a AIN3_U8.
+Cambiato riferimento REF** a C3.
+Aggiunto R13 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R13.
+Cambiato valore R13 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R13 da  a /64f2cc91-4b18-4f46-85a0-8f67acf302b7.
+Aggiornati R13 campi
+Aggiornato nome foglio R13 a '/'.
+Aggiornato file foglio R13 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R13 a 'R_*'.
+Connesso R13 pin 2 a AIN0_U10.
+Connesso R13 pin 1 a Net-(U2-AIN0).
+Cambiato valore C3 da C_0201_0603Metric a 100nF.
+Aggiunto R14 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R14.
+Cambiato valore R14 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R14 da  a /5a711a03-b214-4bc9-99d7-47d694c2ac6e.
+Aggiornati R14 campi
+Aggiornato nome foglio R14 a '/'.
+Aggiornato file foglio R14 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R14 a 'R_*'.
+Connesso R14 pin 2 a AIN2_U10.
+Connesso R14 pin 1 a Net-(U2-AIN2).
+Aggiornata associazione simbolo C3 da  a /c35e335c-fef1-4842-a6bb-dc40417fec3e.
+Aggiunto R15 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R15.
+Cambiato valore R15 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R15 da  a /efb4d0e9-193f-4b16-b6c3-da5d320afce6.
+Aggiornati R15 campi
+Aggiornato nome foglio R15 a '/'.
+Aggiornato file foglio R15 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R15 a 'R_*'.
+Connesso R15 pin 1 a Net-(U2-AIN3).
+Connesso R15 pin 2 a AIN3_U10.
+Aggiornati C3 campi
+Aggiunto R16 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R16.
+Cambiato valore R16 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R16 da  a /bf2c0c1c-8ac4-401f-86af-2ddd70b79740.
+Aggiornati R16 campi
+Aggiornato nome foglio R16 a '/'.
+Aggiornato file foglio R16 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R16 a 'R_*'.
+Connesso R16 pin 2 a AIN0_U9.
+Connesso R16 pin 1 a Net-(U6-AIN0).
+Aggiornato nome foglio C3 a '/'.
+Aggiunto R17 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R17.
+Cambiato valore R17 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R17 da  a /b4249d28-0bc0-4a4d-9b3f-cf4b444fcce0.
+Aggiornati R17 campi
+Aggiornato nome foglio R17 a '/'.
+Aggiornato file foglio R17 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R17 a 'R_*'.
+Connesso R17 pin 2 a AIN1_U9.
+Connesso R17 pin 1 a Net-(U6-AIN1).
+Aggiornato file foglio C3 a 'Soleidon Cape.kicad_sch'.
+Aggiunto R18 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R18.
+Cambiato valore R18 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R18 da  a /f06bf02c-1848-40dc-a6be-6cb46adfd4f9.
+Aggiornati R18 campi
+Aggiornato nome foglio R18 a '/'.
+Aggiornato file foglio R18 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R18 a 'R_*'.
+Connesso R18 pin 2 a AIN3_U9.
+Connesso R18 pin 1 a Net-(U6-AIN2).
+Aggiornati filtri impronta C3 a 'C_*'.
+Aggiunto R19 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R19.
+Cambiato valore R19 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R19 da  a /bc29d5e2-dcad-413c-915c-85e3748a1829.
+Aggiornati R19 campi
+Aggiornato nome foglio R19 a '/'.
+Aggiornato file foglio R19 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R19 a 'R_*'.
+Connesso R19 pin 1 a Net-(U3-AIN0).
+Connesso R19 pin 2 a AIN0_U11.
+Connesso C3 pin 1 a EXT_5V.
+Aggiunto R20 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R20.
+Cambiato valore R20 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R20 da  a /093bdb33-94eb-44c6-b302-72c45a453aec.
+Aggiornati R20 campi
+Aggiornato nome foglio R20 a '/'.
+Aggiornato file foglio R20 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R20 a 'R_*'.
+Connesso R20 pin 2 a AIN1_U11.
+Connesso R20 pin 1 a Net-(U3-AIN1).
+Connesso C3 pin 2 a GND.
+Aggiunto R21 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R21.
+Cambiato valore R21 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R21 da  a /40c1a6b2-d0d3-4e91-9cb6-6b600e510d7a.
+Aggiornati R21 campi
+Aggiornato nome foglio R21 a '/'.
+Aggiornato file foglio R21 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R21 a 'R_*'.
+Connesso R21 pin 1 a Net-(U3-AIN2).
+Connesso R21 pin 2 a AIN2_U11.
+Aggiunto C4 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Aggiunto R22 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R22.
+Cambiato valore R22 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R22 da  a /5d603b26-1ae2-4d0c-88c2-2a7d35d7eb20.
+Aggiornati R22 campi
+Aggiornato nome foglio R22 a '/'.
+Aggiornato file foglio R22 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R22 a 'R_*'.
+Connesso R22 pin 2 a AIN3_U11.
+Connesso R22 pin 1 a Net-(U3-AIN3).
+Cambiato riferimento REF** a C4.
+Aggiunto R23 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R23.
+Cambiato valore R23 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R23 da  a /bd4e5e20-f556-4a92-91f1-7dc86bf64e1c.
+Aggiornati R23 campi
+Aggiornato nome foglio R23 a '/'.
+Aggiornato file foglio R23 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R23 a 'R_*'.
+Connesso R23 pin 1 a Net-(U4-AIN0).
+Connesso R23 pin 2 a AIN0_U13.
+Cambiato valore C4 da C_0201_0603Metric a 100nF.
+Aggiunto R24 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R24.
+Cambiato valore R24 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R24 da  a /cd78239d-9dc5-4c0c-adcf-8798f5effe53.
+Aggiornati R24 campi
+Aggiornato nome foglio R24 a '/'.
+Aggiornato file foglio R24 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R24 a 'R_*'.
+Connesso R24 pin 2 a AIN1_U13.
+Connesso R24 pin 1 a Net-(U4-AIN1).
+Aggiornata associazione simbolo C4 da  a /9e2c98ba-e857-405a-87c9-ec6d516707e3.
+Aggiunto R25 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R25.
+Cambiato valore R25 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R25 da  a /a377b571-b431-4bdd-93ec-f8cf510c3cff.
+Aggiornati R25 campi
+Aggiornato nome foglio R25 a '/'.
+Aggiornato file foglio R25 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R25 a 'R_*'.
+Connesso R25 pin 1 a Net-(U4-AIN2).
+Connesso R25 pin 2 a AIN2_U13.
+Aggiornati C4 campi
+Aggiunto R26 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R26.
+Cambiato valore R26 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R26 da  a /7fd520ca-af01-4135-b0a8-ec6628e7b821.
+Aggiornati R26 campi
+Aggiornato nome foglio R26 a '/'.
+Aggiornato file foglio R26 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R26 a 'R_*'.
+Connesso R26 pin 2 a AIN3_U13.
+Connesso R26 pin 1 a Net-(U4-AIN3).
+Aggiornato nome foglio C4 a '/'.
+Aggiunto R27 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R27.
+Cambiato valore R27 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R27 da  a /5efc44f3-3bb9-47e1-99bf-5078a3d13a1b.
+Aggiornati R27 campi
+Aggiornato nome foglio R27 a '/'.
+Aggiornato file foglio R27 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R27 a 'R_*'.
+Connesso R27 pin 1 a Net-(U7-AIN0).
+Connesso R27 pin 2 a AIN0_U14.
+Aggiornato file foglio C4 a 'Soleidon Cape.kicad_sch'.
+Aggiunto R28 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R28.
+Cambiato valore R28 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R28 da  a /03f6c83a-5998-4c69-b1d1-931fa5fbb449.
+Aggiornati R28 campi
+Aggiornato nome foglio R28 a '/'.
+Aggiornato file foglio R28 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R28 a 'R_*'.
+Connesso R28 pin 1 a Net-(U7-AIN1).
+Connesso R28 pin 2 a AIN1_U14.
+Aggiornati filtri impronta C4 a 'C_*'.
+Aggiunto R29 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R29.
+Cambiato valore R29 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R29 da  a /f055ad21-63a6-4d0e-a06d-e3d89db779c0.
+Aggiornati R29 campi
+Aggiornato nome foglio R29 a '/'.
+Aggiornato file foglio R29 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R29 a 'R_*'.
+Connesso R29 pin 1 a Net-(U7-AIN2).
+Connesso R29 pin 2 a AIN2_U14.
+Connesso C4 pin 2 a GND.
+Aggiunto R30 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R30.
+Cambiato valore R30 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R30 da  a /dfca1475-603c-4326-a217-9da0f8d48b4a.
+Aggiornati R30 campi
+Aggiornato nome foglio R30 a '/'.
+Aggiornato file foglio R30 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R30 a 'R_*'.
+Connesso R30 pin 1 a Net-(U7-AIN3).
+Connesso R30 pin 2 a AIN3_U14.
+Connesso C4 pin 1 a EXT_5V.
+Aggiunto R31 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R31.
+Cambiato valore R31 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R31 da  a /64dae846-ae4c-4f26-9f33-db62c8a4f89a.
+Aggiornati R31 campi
+Aggiornato nome foglio R31 a '/'.
+Aggiornato file foglio R31 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R31 a 'R_*'.
+Connesso R31 pin 2 a AIN1_U8.
+Connesso R31 pin 1 a Net-(U5-AIN1).
+Aggiunto C5 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Aggiunto R32 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R32.
+Cambiato valore R32 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R32 da  a /a79c3ad9-6c63-489e-ac2b-6b6458236bbf.
+Aggiornati R32 campi
+Aggiornato nome foglio R32 a '/'.
+Aggiornato file foglio R32 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R32 a 'R_*'.
+Connesso R32 pin 1 a Net-(U5-AIN2).
+Connesso R32 pin 2 a AIN2_U8.
+Cambiato riferimento REF** a C5.
+Aggiunto R33 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R33.
+Cambiato valore R33 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R33 da  a /0d037989-a464-4ce8-8728-2eae1bb3cabe.
+Aggiornati R33 campi
+Aggiornato nome foglio R33 a '/'.
+Aggiornato file foglio R33 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R33 a 'R_*'.
+Connesso R33 pin 2 a AIN2_U9.
+Connesso R33 pin 1 a Net-(U6-AIN2).
+Cambiato valore C5 da C_0201_0603Metric a 100nF.
+Aggiunto R34 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R34.
+Cambiato valore R34 da R_0603_1608Metric a R470Ω.
+Aggiornata associazione simbolo R34 da  a /7e23c93c-21f9-48a4-a791-83a601f763b8.
+Aggiornati R34 campi
+Aggiornato nome foglio R34 a '/'.
+Aggiornato file foglio R34 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R34 a 'R_*'.
+Connesso R34 pin 2 a AIN1_U10.
+Connesso R34 pin 1 a Net-(U2-AIN1).
+Aggiornata associazione simbolo C5 da  a /e7fc4675-96a2-4901-9d00-8f9d69898914.
+Aggiunto R35 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R35.
+Cambiato valore R35 da R_0603_1608Metric a 180Ω.
+Aggiornata associazione simbolo R35 da  a /8c158511-55f9-425b-873f-5f02811af9d9.
+Aggiornati R35 campi
+Aggiornato nome foglio R35 a '/'.
+Aggiornato file foglio R35 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R35 a 'R_*'.
+Connesso R35 pin 1 a GND.
+Connesso R35 pin 2 a AIN3_U17.
+Aggiornati C5 campi
+Aggiunto R36 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R36.
+Cambiato valore R36 da R_0603_1608Metric a 180Ω.
+Aggiornata associazione simbolo R36 da  a /7423501d-e6f2-4e72-a2cc-48e4629173ca.
+Aggiornati R36 campi
+Aggiornato nome foglio R36 a '/'.
+Aggiornato file foglio R36 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R36 a 'R_*'.
+Connesso R36 pin 2 a AIN2_U17.
+Connesso R36 pin 1 a GND.
+Aggiornato nome foglio C5 a '/'.
+Aggiunto R37 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R37.
+Cambiato valore R37 da R_0603_1608Metric a 180Ω.
+Aggiornata associazione simbolo R37 da  a /663bbddc-9459-4c4c-81ee-fcd74992c090.
+Aggiornati R37 campi
+Aggiornato nome foglio R37 a '/'.
+Aggiornato file foglio R37 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R37 a 'R_*'.
+Connesso R37 pin 1 a GND.
+Connesso R37 pin 2 a AIN1_U17.
+Aggiornato file foglio C5 a 'Soleidon Cape.kicad_sch'.
+Aggiunto R38 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R38.
+Cambiato valore R38 da R_0603_1608Metric a 180Ω.
+Aggiornata associazione simbolo R38 da  a /2c19c77b-cfe1-4ed9-b6b4-62086e8e1db4.
+Aggiornati R38 campi
+Aggiornato nome foglio R38 a '/'.
+Aggiornato file foglio R38 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R38 a 'R_*'.
+Connesso R38 pin 2 a AIN0_U17.
+Connesso R38 pin 1 a GND.
+Aggiornati filtri impronta C5 a 'C_*'.
+Aggiunto R39 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R39.
+Cambiato valore R39 da R_0603_1608Metric a 180Ω.
+Aggiornata associazione simbolo R39 da  a /76cbee2f-be9e-443a-a9da-dfc321b6b530.
+Aggiornati R39 campi
+Aggiornato nome foglio R39 a '/'.
+Aggiornato file foglio R39 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R39 a 'R_*'.
+Connesso R39 pin 1 a GND.
+Connesso R39 pin 2 a AIN3_U16.
+Connesso C5 pin 1 a GND.
+Aggiunto R40 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R40.
+Cambiato valore R40 da R_0603_1608Metric a 180Ω.
+Aggiornata associazione simbolo R40 da  a /3a210d18-9f30-46ae-89b4-f2c90837f123.
+Aggiornati R40 campi
+Aggiornato nome foglio R40 a '/'.
+Connesso C5 pin 2 a EXT_5V.
+Aggiornati filtri impronta R40 a 'R_*'.
+Connesso R40 pin 2 a AIN2_U16.
+Connesso R40 pin 1 a GND.
+Aggiunto C6 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Aggiunto R41 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R41.
+Cambiato valore R41 da R_0603_1608Metric a 180Ω.
+Aggiornata associazione simbolo R41 da  a /dc68f7f9-18c7-49d7-89a3-1d594e083975.
+Aggiornati R41 campi
+Aggiornato nome foglio R41 a '/'.
+Aggiornato file foglio R41 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R41 a 'R_*'.
+Connesso R41 pin 1 a GND.
+Connesso R41 pin 2 a AIN1_U16.
+Cambiato riferimento REF** a C6.
+Aggiunto R42 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R42.
+Cambiato valore R42 da R_0603_1608Metric a 180Ω.
+Aggiornata associazione simbolo R42 da  a /b48d5db5-b7b2-4f73-ad06-dad25071fa95.
+Aggiornati R42 campi
+Aggiornato nome foglio R42 a '/'.
+Aggiornato file foglio R42 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R42 a 'R_*'.
+Connesso R42 pin 1 a GND.
+Connesso R42 pin 2 a AIN0_U16.
+Cambiato valore C6 da C_0201_0603Metric a 100nF.
+Aggiunto R43 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R43.
+Cambiato valore R43 da R_0603_1608Metric a R0.
+Aggiornata associazione simbolo R43 da  a /fe1cda8e-6026-492d-840a-bc378f275a0d.
+Aggiornati R43 campi
+Aggiornato nome foglio R43 a '/'.
+Aggiornato file foglio R43 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R43 a 'R_*'.
+Aggiungi collegamento ADDR_U14.
+Connesso R43 pin 1 a ADDR_U14.
+Connesso R43 pin 2 a EXT_5V.
+Aggiornata associazione simbolo C6 da  a /2eb8a212-9d16-4a3d-a6f2-f1de9c21cc22.
+Aggiunto R44 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R44.
+Cambiato valore R44 da R_0603_1608Metric a R0.
+Aggiornata associazione simbolo R44 da  a /1ac2aafd-ffcd-42a5-8902-bac7133ee30a.
+Aggiornati R44 campi
+Aggiornato nome foglio R44 a '/'.
+Aggiornato file foglio R44 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R44 a 'R_*'.
+Connesso R44 pin 2 a SDA_ADS_0.
+Aggiungi collegamento ADDR_U10.
+Connesso R44 pin 1 a ADDR_U10.
+Aggiornati C6 campi
+Aggiunto R45 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R45.
+Cambiato valore R45 da R_0603_1608Metric a R0.
+Aggiornata associazione simbolo R45 da  a /0285c0c8-2f60-4db7-8e83-7e67a657d8b5.
+Aggiornati R45 campi
+Aggiornato nome foglio R45 a '/'.
+Aggiornato file foglio R45 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R45 a 'R_*'.
+Aggiungi collegamento ADDR_U11.
+Connesso R45 pin 1 a ADDR_U11.
+Connesso R45 pin 2 a SCL__ADS_0.
+Aggiornato nome foglio C6 a '/'.
+Aggiunto R46 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R46.
+Cambiato valore R46 da R_0603_1608Metric a R0.
+Aggiornata associazione simbolo R46 da  a /897235ae-caa9-49d0-a1c7-aa663356b478.
+Aggiornati R46 campi
+Aggiornato nome foglio R46 a '/'.
+Aggiornato file foglio R46 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R46 a 'R_*'.
+Aggiungi collegamento ADDR_U8.
+Connesso R46 pin 1 a ADDR_U8.
+Connesso R46 pin 2 a GND.
+Aggiornato file foglio C6 a 'Soleidon Cape.kicad_sch'.
+Aggiunto R47 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R47.
+Cambiato valore R47 da R_0603_1608Metric a R0.
+Aggiornata associazione simbolo R47 da  a /de6cfd2e-8cdb-43aa-98d9-ea8135ae71ae.
+Aggiornati R47 campi
+Aggiornato nome foglio R47 a '/'.
+Aggiornato file foglio R47 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R47 a 'R_*'.
+Aggiungi collegamento ADDR_U13.
+Connesso R47 pin 1 a ADDR_U13.
+Connesso R47 pin 2 a GND.
+Aggiornati filtri impronta C6 a 'C_*'.
+Aggiunto R48 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R48.
+Cambiato valore R48 da R_0603_1608Metric a R0.
+Aggiornata associazione simbolo R48 da  a /c8be6153-4008-4ee4-b98b-ab592465ea8b.
+Aggiornati R48 campi
+Aggiornato nome foglio R48 a '/'.
+Aggiornato file foglio R48 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R48 a 'R_*'.
+Connesso R48 pin 2 a EXT_5V.
+Aggiungi collegamento ADDR_U9.
+Connesso R48 pin 1 a ADDR_U9.
+Connesso C6 pin 2 a GND.
+Aggiunto R49 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R49.
+Cambiato valore R49 da R_0603_1608Metric a 10K.
+Aggiornata associazione simbolo R49 da  a /f13cc027-01bf-47d2-9d86-52b7dd10cbd1.
+Aggiornati R49 campi
+Aggiornato nome foglio R49 a '/'.
+Aggiornato file foglio R49 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R49 a 'R_*'.
+Aggiungi collegamento SCL.
+Connesso R49 pin 1 a SCL.
+Connesso R49 pin 2 a Net-(JP9-A).
+Connesso C6 pin 1 a EXT_5V.
+Aggiunto R50 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R50.
+Cambiato valore R50 da R_0603_1608Metric a 10K.
+Aggiornata associazione simbolo R50 da  a /a01b4888-9553-4053-9ee1-e79d2ec7d1a6.
+Aggiornati R50 campi
+Aggiornato nome foglio R50 a '/'.
+Aggiornato file foglio R50 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R50 a 'R_*'.
+Connesso R50 pin 2 a /A2.
+Connesso R50 pin 1 a GND.
+Aggiunto C7 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Aggiunto R51 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R51.
+Cambiato valore R51 da R_0603_1608Metric a 10K.
+Aggiornata associazione simbolo R51 da  a /fbc96155-2c0c-4c7f-941d-260dbdf4f9e7.
+Aggiornati R51 campi
+Aggiornato nome foglio R51 a '/'.
+Aggiornato file foglio R51 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R51 a 'R_*'.
+Connesso R51 pin 2 a /A1.
+Connesso R51 pin 1 a GND.
+Cambiato riferimento REF** a C7.
+Aggiunto R52 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R52.
+Cambiato valore R52 da R_0603_1608Metric a 10K.
+Aggiornata associazione simbolo R52 da  a /77a77e29-bfbd-447d-8b6e-422eaa192d33.
+Aggiornati R52 campi
+Aggiornato nome foglio R52 a '/'.
+Aggiornato file foglio R52 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R52 a 'R_*'.
+Connesso R52 pin 2 a /A0.
+Connesso R52 pin 1 a GND.
+Cambiato valore C7 da C_0201_0603Metric a 100nF.
+Aggiunto R53 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R53.
+Cambiato valore R53 da R_0603_1608Metric a 10K.
+Aggiornata associazione simbolo R53 da  a /89d3d5bf-ae58-438a-8e24-e15a62533963.
+Aggiornati R53 campi
+Aggiornato nome foglio R53 a '/'.
+Aggiornato file foglio R53 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R53 a 'R_*'.
+Connesso R53 pin 1 a Net-(JP10-B).
+Aggiungi collegamento SDA.
+Connesso R53 pin 2 a SDA.
+Aggiornata associazione simbolo C7 da  a /294a2310-9b7f-4020-b2a9-fa35ec73c206.
+Aggiunto R54 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a R54.
+Cambiato valore R54 da C_0201_0603Metric a R100K.
+Aggiornata associazione simbolo R54 da  a /80c5ff04-5771-44a8-8442-66cacdb9ee6c.
+Aggiornati R54 campi
+Aggiornato nome foglio R54 a '/'.
+Aggiornato file foglio R54 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R54 a 'R_*'.
+Connesso R54 pin 2 a GND.
+Aggiungi collegamento Net-(U9-ROSC).
+Connesso R54 pin 1 a Net-(U9-ROSC).
+Aggiornati C7 campi
+Aggiunto R55 (impronta 'Resistor_SMD:R_0201_0603Metric').
+Cambiato riferimento REF** a R55.
+Cambiato valore R55 da R_0201_0603Metric a 4.7kΩ.
+Aggiornata associazione simbolo R55 da  a /9dcc87c2-2c74-48e7-9084-9d7893d2d5ed.
+Aggiornati R55 campi
+Aggiornato nome foglio R55 a '/'.
+Aggiornato file foglio R55 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R55 a 'R_*'.
+Connesso R55 pin 2 a Net-(D10-PadA).
+Connesso R55 pin 1 a +24V_PowerSensor_OUT.
+Aggiornato nome foglio C7 a '/'.
+Aggiunto R56 (impronta 'Resistor_SMD:R_1206_3216Metric').
+Cambiato riferimento REF** a R56.
+Cambiato valore R56 da R_1206_3216Metric a 8.2kΩ.
+Aggiornata associazione simbolo R56 da  a /9914e6a2-df4a-4074-9b3e-de7bc40631a9.
+Aggiornati R56 campi
+Aggiornato nome foglio R56 a '/'.
+Aggiornato file foglio R56 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R56 a 'R_*'.
+Connesso R56 pin 1 a Net-(D9-PadA).
+Connesso R56 pin 2 a +24_PROTECT.
+Aggiornato file foglio C7 a 'Soleidon Cape.kicad_sch'.
+Aggiunto R57 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a R57.
+Cambiato valore R57 da C_0201_0603Metric a R47k.
+Aggiornata associazione simbolo R57 da  a /536e17ff-24c5-4cf5-9170-26ef114fc588.
+Aggiornati R57 campi
+Aggiornato nome foglio R57 a '/'.
+Aggiornato file foglio R57 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R57 a 'R_*'.
+Connesso R57 pin 2 a Net-(C44-Pad1).
+Connesso R57 pin 1 a Net-(U9-COMP).
+Aggiornati filtri impronta C7 a 'C_*'.
+Aggiunto R58 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R58.
+Cambiato valore R58 da R_0603_1608Metric a 4.7kΩ.
+Aggiornata associazione simbolo R58 da  a /f0fc6a9f-eb7c-481b-9806-27a3341ed8f3.
+Aggiornati R58 campi
+Aggiornato nome foglio R58 a '/'.
+Aggiornato file foglio R58 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R58 a 'R_*'.
+Connesso R58 pin 2 a +3.3V.
+Connesso R58 pin 1 a Net-(JP23-B).
+Connesso C7 pin 1 a EXT_5V.
+Aggiunto R59 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R59.
+Cambiato valore R59 da R_0603_1608Metric a 10K.
+Aggiornata associazione simbolo R59 da  a /4642a67f-d896-41d2-b939-0a9d5a9d02c2.
+Aggiornati R59 campi
+Aggiornato nome foglio R59 a '/'.
+Aggiornato file foglio R59 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R59 a 'R_*'.
+Connesso R59 pin 2 a Net-(JP24-A).
+Connesso R59 pin 1 a SCL.
+Connesso C7 pin 2 a GND.
+Aggiunto R60 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R60.
+Cambiato valore R60 da R_0603_1608Metric a 4.7kΩ.
+Aggiornata associazione simbolo R60 da  a /162e4384-9995-487e-9361-a285555e6c63.
+Aggiornati R60 campi
+Aggiornato nome foglio R60 a '/'.
+Aggiornato file foglio R60 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R60 a 'R_*'.
+Connesso R60 pin 1 a Net-(JP25-B).
+Connesso R60 pin 2 a +3.3V.
+Aggiunto C8 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Aggiunto R61 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R61.
+Cambiato valore R61 da R_0603_1608Metric a 10K.
+Aggiornata associazione simbolo R61 da  a /a1c44182-ab7e-44e6-bd2a-ed8a004151fd.
+Aggiornati R61 campi
+Aggiornato nome foglio R61 a '/'.
+Aggiornato file foglio R61 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R61 a 'R_*'.
+Connesso R61 pin 1 a Net-(JP26-B).
+Connesso R61 pin 2 a SDA.
+Cambiato riferimento REF** a C8.
+Aggiunto R62 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a R62.
+Cambiato valore R62 da C_0201_0603Metric a R0.
+Aggiornata associazione simbolo R62 da  a /d3279aea-e1be-4003-8445-24311bdaa5c5.
+Aggiornati R62 campi
+Aggiornato nome foglio R62 a '/'.
+Aggiornato file foglio R62 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R62 a 'R_*'.
+Aggiungi collegamento Net-(U9-BOOT).
+Connesso R62 pin 1 a Net-(U9-BOOT).
+Connesso R62 pin 2 a Net-(C48-Pad2).
+Cambiato valore C8 da C_0201_0603Metric a 100nF.
+Aggiunto R63 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R63.
+Cambiato valore R63 da R_0603_1608Metric a R100Ω.
+Aggiornata associazione simbolo R63 da  a /52d7a25a-5177-41a7-b5ed-bffd4c739ae1.
+Aggiornati R63 campi
+Aggiornato nome foglio R63 a '/'.
+Aggiornato file foglio R63 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R63 a 'R_*'.
+Connesso R63 pin 2 a Net-(JP39-B).
+Connesso R63 pin 1 a Net-(JP41-B).
+Aggiornata associazione simbolo C8 da  a /a3d1e6fe-a08f-47cf-a56e-654161c70f8d.
+Aggiunto R64 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a R64.
+Cambiato valore R64 da C_0201_0603Metric a R0.
+Aggiornata associazione simbolo R64 da  a /34a07eb3-6199-49a5-974f-ae34aa5d1b71.
+Aggiornati R64 campi
+Aggiornato nome foglio R64 a '/'.
+Aggiornato file foglio R64 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R64 a 'R_*'.
+Connesso R64 pin 1 a +3.3V.
+Connesso R64 pin 2 a Net-(C53-Pad1).
+Aggiornati C8 campi
+Aggiunto R65 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a R65.
+Cambiato valore R65 da C_0201_0603Metric a R0.
+Aggiornata associazione simbolo R65 da  a /81698cc8-66a3-4e87-8f5d-e23465ceba3c.
+Aggiornati R65 campi
+Aggiornato nome foglio R65 a '/'.
+Aggiornato file foglio R65 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R65 a 'R_*'.
+Connesso R65 pin 1 a Net-(C53-Pad1).
+Connesso R65 pin 2 a Net-(U9-VSENSE).
+Aggiornato nome foglio C8 a '/'.
+Aggiunto R66 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Cambiato riferimento REF** a R66.
+Cambiato valore R66 da C_0201_0603Metric a R3.8K.
+Aggiornata associazione simbolo R66 da  a /2b3c62a5-f8df-456d-9447-634425ca92e6.
+Aggiornati R66 campi
+Aggiornato nome foglio R66 a '/'.
+Aggiornato file foglio R66 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R66 a 'R_*'.
+Connesso R66 pin 2 a GND.
+Connesso R66 pin 1 a Net-(U9-VSENSE).
+Aggiornato file foglio C8 a 'Soleidon Cape.kicad_sch'.
+Aggiunto R67 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R67.
+Cambiato valore R67 da R_0603_1608Metric a 100 kΩ.
+Aggiornata associazione simbolo R67 da  a /05ed5969-8bac-4ab1-97eb-48e561119f45.
+Aggiornati R67 campi
+Aggiornato nome foglio R67 a '/'.
+Aggiornato file foglio R67 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R67 a 'R_*'.
+Connesso R67 pin 2 a Net-(JP43-A).
+Connesso R67 pin 1 a GND.
+Aggiornati filtri impronta C8 a 'C_*'.
+Aggiunto R68 (impronta 'Resistor_SMD:R_0603_1608Metric').
+Cambiato riferimento REF** a R68.
+Cambiato valore R68 da R_0603_1608Metric a 10K.
+Aggiornata associazione simbolo R68 da  a /cbebe1bf-7820-4847-8d5b-5bdd229eba78.
+Aggiornati R68 campi
+Aggiornato nome foglio R68 a '/'.
+Aggiornato file foglio R68 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R68 a 'R_*'.
+Aggiungi collegamento Net-(JP43-B).
+Connesso R68 pin 1 a Net-(JP43-B).
+Connesso R68 pin 2 a +3.3V.
+Connesso C8 pin 1 a EXT_5V.
+Aggiunto R69 (impronta 'Resistor_SMD:R_0201_0603Metric').
+Cambiato riferimento REF** a R69.
+Cambiato valore R69 da R_0201_0603Metric a 680 Ω.
+Aggiornata associazione simbolo R69 da  a /be73ac3b-6f43-48bd-982a-b9313f7bb64f.
+Aggiornati R69 campi
+Aggiornato nome foglio R69 a '/'.
+Aggiornato file foglio R69 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R69 a 'R_*'.
+Connesso R69 pin 2 a EXT_5V.
+Aggiungi collegamento Net-(D16-A).
+Connesso R69 pin 1 a Net-(D16-A).
+Connesso C8 pin 2 a GND.
+Aggiunto R70 (impronta 'Resistor_SMD:R_0201_0603Metric').
+Cambiato riferimento REF** a R70.
+Cambiato valore R70 da R_0201_0603Metric a 220Ω.
+Aggiornata associazione simbolo R70 da  a /388707c3-83ad-4a86-b709-029541e9c4c8.
+Aggiornati R70 campi
+Aggiornato nome foglio R70 a '/'.
+Aggiornato file foglio R70 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R70 a 'R_*'.
+Connesso R70 pin 2 a +3.3V.
+Aggiungi collegamento Net-(D17-A).
+Connesso R70 pin 1 a Net-(D17-A).
+Aggiunto C9 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Aggiunto R71 (impronta 'Resistor_SMD:R_0805_2012Metric').
+Cambiato riferimento REF** a R71.
+Cambiato valore R71 da R_0805_2012Metric a 4.7kΩ.
+Aggiornata associazione simbolo R71 da  a /dcc1b3d2-4fe6-4ce9-8d47-d52b05eae58b.
+Aggiornati R71 campi
+Aggiornato nome foglio R71 a '/'.
+Aggiornato file foglio R71 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R71 a 'R_*'.
+Connesso R71 pin 1 a +3.3V.
+Connesso R71 pin 2 a SDA_0.
+Cambiato riferimento REF** a C9.
+Aggiunto R72 (impronta 'Resistor_SMD:R_0805_2012Metric').
+Cambiato riferimento REF** a R72.
+Cambiato valore R72 da R_0805_2012Metric a 4.7kΩ.
+Aggiornata associazione simbolo R72 da  a /bab0d324-8924-4b6d-a393-3c54b664309e.
+Aggiornati R72 campi
+Aggiornato nome foglio R72 a '/'.
+Aggiornato file foglio R72 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R72 a 'R_*'.
+Connesso R72 pin 1 a +3.3V.
+Connesso R72 pin 2 a SDA_1.
+Cambiato valore C9 da C_0201_0603Metric a 22nF.
+Aggiunto R73 (impronta 'Resistor_SMD:R_0805_2012Metric').
+Cambiato riferimento REF** a R73.
+Cambiato valore R73 da R_0805_2012Metric a 4.7kΩ.
+Aggiornata associazione simbolo R73 da  a /893ab400-b7ee-41d9-b83e-96c8ae006ae4.
+Aggiornati R73 campi
+Aggiornato nome foglio R73 a '/'.
+Aggiornato file foglio R73 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R73 a 'R_*'.
+Connesso R73 pin 2 a SDA_ADS_0.
+Connesso R73 pin 1 a EXT_5V.
+Aggiornata associazione simbolo C9 da  a /aee14130-af7c-4e06-be45-7fbce7f8343e.
+Aggiunto R74 (impronta 'Resistor_SMD:R_0805_2012Metric').
+Cambiato riferimento REF** a R74.
+Cambiato valore R74 da R_0805_2012Metric a 4.7kΩ.
+Aggiornata associazione simbolo R74 da  a /262e032b-65f4-440b-808b-fdc03137f749.
+Aggiornati R74 campi
+Aggiornato nome foglio R74 a '/'.
+Aggiornato file foglio R74 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R74 a 'R_*'.
+Connesso R74 pin 2 a SDA_ADS_1.
+Connesso R74 pin 1 a EXT_5V.
+Aggiornati C9 campi
+Aggiunto R75 (impronta 'Resistor_SMD:R_0805_2012Metric').
+Cambiato riferimento REF** a R75.
+Cambiato valore R75 da R_0805_2012Metric a 4.7kΩ.
+Aggiornata associazione simbolo R75 da  a /5c15f39c-e020-408e-8db8-6c40ef77728c.
+Aggiornati R75 campi
+Aggiornato nome foglio R75 a '/'.
+Aggiornato file foglio R75 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R75 a 'R_*'.
+Connesso R75 pin 2 a SCL_0.
+Connesso R75 pin 1 a +3.3V.
+Aggiornato nome foglio C9 a '/'.
+Aggiunto R76 (impronta 'Resistor_SMD:R_0805_2012Metric').
+Cambiato riferimento REF** a R76.
+Cambiato valore R76 da R_0805_2012Metric a 4.7kΩ.
+Aggiornata associazione simbolo R76 da  a /158ac4be-0e04-4325-861b-b18c54e27886.
+Aggiornati R76 campi
+Aggiornato nome foglio R76 a '/'.
+Aggiornato file foglio R76 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R76 a 'R_*'.
+Connesso R76 pin 2 a SCL_1.
+Connesso R76 pin 1 a +3.3V.
+Aggiornato file foglio C9 a 'Soleidon Cape.kicad_sch'.
+Aggiunto R77 (impronta 'Resistor_SMD:R_0805_2012Metric').
+Cambiato riferimento REF** a R77.
+Cambiato valore R77 da R_0805_2012Metric a 4.7kΩ.
+Aggiornata associazione simbolo R77 da  a /3371bc35-d9e8-4b63-9eed-86e589656d14.
+Aggiornati R77 campi
+Aggiornato nome foglio R77 a '/'.
+Aggiornato file foglio R77 a 'Soleidon Cape.kicad_sch'.
+Aggiornato file foglio R40 a 'Soleidon Cape.kicad_sch'.
+Connesso R77 pin 1 a EXT_5V.
+Connesso R77 pin 2 a SCL__ADS_0.
+Aggiornati filtri impronta C9 a 'C_*'.
+Aggiunto R78 (impronta 'Resistor_SMD:R_0805_2012Metric').
+Cambiato riferimento REF** a R78.
+Cambiato valore R78 da R_0805_2012Metric a 4.7kΩ.
+Aggiornata associazione simbolo R78 da  a /04063243-7cd1-4f66-9d6e-93c66e646101.
+Aggiornati R78 campi
+Aggiornato nome foglio R78 a '/'.
+Aggiornato file foglio R78 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta R78 a 'R_*'.
+Connesso R78 pin 2 a SCL_ADS_1.
+Connesso R78 pin 1 a EXT_5V.
+Connesso C9 pin 2 a GND.
+Aggiunto TP1 (impronta 'TestPoint:TestPoint_Pad_1.5x1.5mm').
+Cambiato riferimento REF** a TP1.
+Cambiato valore TP1 da TestPoint_Pad_1.5x1.5mm a TestPoint.
+Aggiornata associazione simbolo TP1 da  a /136369fa-bf6e-49c0-bfcb-a045d46da6be.
+Aggiornati TP1 campi
+Aggiornato nome foglio TP1 a '/'.
+Aggiornato file foglio TP1 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP1 a 'Pin* Test*'.
+Rimossi TP1 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso TP1 pin 1 a GND.
+Aggiungi collegamento Net-(U5-AIN0).
+Aggiunto TP2 (impronta 'TestPoint:TestPoint_Pad_1.5x1.5mm').
+Cambiato riferimento REF** a TP2.
+Cambiato valore TP2 da TestPoint_Pad_1.5x1.5mm a TestPoint.
+Aggiornata associazione simbolo TP2 da  a /c1944153-26a2-498a-9cef-77680a4c8d8f.
+Aggiornati TP2 campi
+Aggiornato nome foglio TP2 a '/'.
+Aggiornato file foglio TP2 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP2 a 'Pin* Test*'.
+Rimossi TP2 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso TP2 pin 1 a +24_PROTECT.
+Connesso C9 pin 1 a Net-(U5-AIN0).
+Aggiunto TP3 (impronta 'TestPoint:TestPoint_Pad_1.5x1.5mm').
+Cambiato riferimento REF** a TP3.
+Cambiato valore TP3 da TestPoint_Pad_1.5x1.5mm a 24Vin.
+Aggiornata associazione simbolo TP3 da  a /eb90d182-b920-4aaf-becd-b04ebc7d1e72.
+Aggiornati TP3 campi
+Aggiornato nome foglio TP3 a '/'.
+Aggiornato file foglio TP3 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP3 a 'Pin* Test*'.
+Rimossi TP3 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso TP3 pin 1 a +24V.
+Aggiunto C10 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Aggiunto TP4 (impronta 'TestPoint:TestPoint_Pad_1.5x1.5mm').
+Cambiato riferimento REF** a TP4.
+Cambiato valore TP4 da TestPoint_Pad_1.5x1.5mm a TestPoint.
+Aggiornata associazione simbolo TP4 da  a /24d94076-8a9e-46dc-b197-9b34f31c97a0.
+Aggiornati TP4 campi
+Aggiornato nome foglio TP4 a '/'.
+Aggiornato file foglio TP4 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP4 a 'Pin* Test*'.
+Rimossi TP4 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso TP4 pin 1 a GND.
+Cambiato riferimento REF** a C10.
+Aggiunto TP5 (impronta 'TestPoint:TestPoint_Pad_1.5x1.5mm').
+Cambiato riferimento REF** a TP5.
+Cambiato valore TP5 da TestPoint_Pad_1.5x1.5mm a 24Vout.
+Aggiornata associazione simbolo TP5 da  a /17575c8d-49e4-43dd-915d-ce7537639ddd.
+Aggiornati TP5 campi
+Aggiornato nome foglio TP5 a '/'.
+Aggiornato file foglio TP5 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP5 a 'Pin* Test*'.
+Rimossi TP5 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso TP5 pin 1 a +24V.
+Cambiato valore C10 da C_0201_0603Metric a 22nF.
+Aggiunto TP6 (impronta 'TestPoint:TestPoint_Pad_1.5x1.5mm').
+Cambiato riferimento REF** a TP6.
+Cambiato valore TP6 da TestPoint_Pad_1.5x1.5mm a 24Vout.
+Aggiornata associazione simbolo TP6 da  a /747d630e-eeb1-4eed-8ffb-11313297f4b3.
+Aggiornati TP6 campi
+Aggiornato nome foglio TP6 a '/'.
+Aggiornato file foglio TP6 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP6 a 'Pin* Test*'.
+Rimossi TP6 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso TP6 pin 1 a +24_PROTECT.
+Aggiornata associazione simbolo C10 da  a /28a1fdf4-ba5c-4b87-a07b-8436fc781267.
+Aggiunto TP7 (impronta 'TestPoint:TestPoint_Pad_1.5x1.5mm').
+Cambiato riferimento REF** a TP7.
+Cambiato valore TP7 da TestPoint_Pad_1.5x1.5mm a TestPoint.
+Aggiornata associazione simbolo TP7 da  a /afcedd8f-7ca8-49e7-9a07-f9c37ccdf388.
+Aggiornati TP7 campi
+Aggiornato nome foglio TP7 a '/'.
+Aggiornato file foglio TP7 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP7 a 'Pin* Test*'.
+Rimossi TP7 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso TP7 pin 1 a Net-(C53-Pad1).
+Aggiornati C10 campi
+Aggiunto TP8 (impronta 'TestPoint:TestPoint_Pad_1.5x1.5mm').
+Cambiato riferimento REF** a TP8.
+Cambiato valore TP8 da TestPoint_Pad_1.5x1.5mm a TestPoint.
+Aggiornata associazione simbolo TP8 da  a /0bc3abf5-5363-421b-9e01-51cba65ffd93.
+Aggiornati TP8 campi
+Aggiornato nome foglio TP8 a '/'.
+Aggiornato file foglio TP8 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP8 a 'Pin* Test*'.
+Rimossi TP8 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso TP8 pin 1 a +3.3V.
+Aggiornato nome foglio C10 a '/'.
+Aggiunto TP9 (impronta 'TestPoint:TestPoint_Pad_1.5x1.5mm').
+Cambiato riferimento REF** a TP9.
+Cambiato valore TP9 da TestPoint_Pad_1.5x1.5mm a TestPoint.
+Aggiornata associazione simbolo TP9 da  a /e380be23-adc7-44bb-98d5-3852b33ee80e.
+Aggiornati TP9 campi
+Aggiornato nome foglio TP9 a '/'.
+Aggiornato file foglio TP9 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP9 a 'Pin* Test*'.
+Rimossi TP9 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso TP9 pin 1 a EXT_5V.
+Aggiornato file foglio C10 a 'Soleidon Cape.kicad_sch'.
+Aggiunto TP10 (impronta 'Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical').
+Cambiato riferimento REF** a TP10.
+Cambiato valore TP10 da PinHeader_1x02_P2.54mm_Vertical a TestPoint_2Pole.
+Aggiornata associazione simbolo TP10 da  a /6ae49c49-08b4-43bd-bbaf-009269acc759.
+Aggiornati TP10 campi
+Aggiornato nome foglio TP10 a '/'.
+Aggiornato file foglio TP10 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP10 a 'Pin* Test*'.
+Connesso TP10 pin 1 a GND.
+Connesso TP10 pin 2 a EXT_5V.
+Aggiornati filtri impronta C10 a 'C_*'.
+Aggiunto TP11 (impronta 'TestPoint:TestPoint_Pad_1.5x1.5mm').
+Cambiato riferimento REF** a TP11.
+Cambiato valore TP11 da TestPoint_Pad_1.5x1.5mm a TestPoint.
+Aggiornata associazione simbolo TP11 da  a /3a5f34f6-7267-4b02-9a67-cc83c0bfdcfd.
+Aggiornati TP11 campi
+Aggiornato nome foglio TP11 a '/'.
+Aggiornato file foglio TP11 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP11 a 'Pin* Test*'.
+Rimossi TP11 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso TP11 pin 1 a +3.3V.
+Connesso C10 pin 2 a GND.
+Aggiunto TP12 (impronta 'TestPoint:TestPoint_Pad_1.5x1.5mm').
+Cambiato riferimento REF** a TP12.
+Cambiato valore TP12 da TestPoint_Pad_1.5x1.5mm a TestPoint.
+Aggiornata associazione simbolo TP12 da  a /f298c4d6-0895-4647-8866-a2bdaeb6fc32.
+Aggiornati TP12 campi
+Aggiornato nome foglio TP12 a '/'.
+Aggiornato file foglio TP12 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP12 a 'Pin* Test*'.
+Rimossi TP12 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso TP12 pin 1 a GND.
+Aggiungi collegamento Net-(U5-AIN3).
+Aggiunto TP13 (impronta 'TestPoint:TestPoint_Pad_1.5x1.5mm').
+Cambiato riferimento REF** a TP13.
+Cambiato valore TP13 da TestPoint_Pad_1.5x1.5mm a TestPoint.
+Aggiornata associazione simbolo TP13 da  a /0f1c162a-8ef5-458c-a0d5-ffdd6a06b2fc.
+Aggiornati TP13 campi
+Aggiornato nome foglio TP13 a '/'.
+Aggiornato file foglio TP13 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP13 a 'Pin* Test*'.
+Rimossi TP13 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso TP13 pin 1 a Net-(J29-Pad1).
+Connesso C10 pin 1 a Net-(U5-AIN3).
+Aggiunto TP14 (impronta 'TestPoint:TestPoint_Pad_1.5x1.5mm').
+Cambiato riferimento REF** a TP14.
+Cambiato valore TP14 da TestPoint_Pad_1.5x1.5mm a TestPoint.
+Aggiornata associazione simbolo TP14 da  a /55191681-9025-47c6-b1ba-84f67c891db8.
+Aggiornati TP14 campi
+Aggiornato nome foglio TP14 a '/'.
+Aggiornato file foglio TP14 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP14 a 'Pin* Test*'.
+Rimossi TP14 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso TP14 pin 1 a Net-(J29-Pad3).
+Aggiunto C11 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Aggiunto TP15 (impronta 'TestPoint:TestPoint_Pad_1.5x1.5mm').
+Cambiato riferimento REF** a TP15.
+Cambiato valore TP15 da TestPoint_Pad_1.5x1.5mm a TestPoint -GND_5V.
+Aggiornata associazione simbolo TP15 da  a /2c1e1f89-7415-4e34-a20c-eca130b1522d.
+Aggiornati TP15 campi
+Aggiornato nome foglio TP15 a '/'.
+Aggiornato file foglio TP15 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP15 a 'Pin* Test*'.
+Rimossi TP15 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso TP15 pin 1 a GND.
+Cambiato riferimento REF** a C11.
+Aggiunto TP16 (impronta 'TestPoint:TestPoint_Pad_1.5x1.5mm').
+Cambiato riferimento REF** a TP16.
+Cambiato valore TP16 da TestPoint_Pad_1.5x1.5mm a TestPoint.
+Aggiornata associazione simbolo TP16 da  a /dcc4a30d-ec6f-4a98-9897-314ea24c845d.
+Aggiornati TP16 campi
+Aggiornato nome foglio TP16 a '/'.
+Aggiornato file foglio TP16 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP16 a 'Pin* Test*'.
+Rimossi TP16 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso TP16 pin 1 a GND.
+Cambiato valore C11 da C_0201_0603Metric a 22nF.
+Aggiunto TP17 (impronta 'TestPoint:TestPoint_Pad_1.5x1.5mm').
+Cambiato riferimento REF** a TP17.
+Cambiato valore TP17 da TestPoint_Pad_1.5x1.5mm a TestPoint +5V.
+Aggiornata associazione simbolo TP17 da  a /15fb58c1-8201-4417-ba10-19066a6c79ca.
+Aggiornati TP17 campi
+Aggiornato nome foglio TP17 a '/'.
+Aggiornato file foglio TP17 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta TP17 a 'Pin* Test*'.
+Rimossi TP17 attributi di fabbricazione 'escludi dalla DIBA'.
+Connesso TP17 pin 1 a EXT_5V.
+Aggiornata associazione simbolo C11 da  a /8dbfe8e5-f077-4868-9b99-26f23ead8a53.
+Aggiunto U1 (impronta 'AA_Soleidon_Cape:DGS0010A_N').
+Cambiato riferimento REF** a U1.
+Cambiato valore U1 da DGS0010A_N a ADS1115IDGSR.
+Aggiornata associazione simbolo U1 da  a /b860d111-df87-4a23-8e57-8b9cbc771d1d.
+Aggiornati U1 campi
+Aggiornato nome foglio U1 a '/'.
+Aggiornato file foglio U1 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta U1 a 'DGS0010A_N DGS0010A_M DGS0010A_L'.
+Connesso U1 pin 5 a AIN1_U17.
+Connesso U1 pin 8 a EXT_5V.
+Connesso U1 pin 3 a GND.
+Connesso U1 pin 2 a ALERT/RDY_U17.
+Connesso U1 pin 7 a AIN3_U17.
+Connesso U1 pin 1 a ADDR_U17.
+Connesso U1 pin 10 a SCL_ADS_1.
+Connesso U1 pin 4 a AIN0_U17.
+Connesso U1 pin 9 a SCL_ADS_1.
+Connesso U1 pin 6 a AIN2_U17.
+Aggiornati C11 campi
+Aggiunto U2 (impronta 'AA_Soleidon_Cape:DGS0010A_N').
+Cambiato riferimento REF** a U2.
+Cambiato valore U2 da DGS0010A_N a ADS1115IDGSR.
+Aggiornata associazione simbolo U2 da  a /9f0ed5b9-7a0c-4dbd-acf8-2204618b0e3c.
+Aggiornati U2 campi
+Aggiornato nome foglio U2 a '/'.
+Aggiornato file foglio U2 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta U2 a 'DGS0010A_N DGS0010A_M DGS0010A_L'.
+Connesso U2 pin 10 a SCL_ADS_1.
+Connesso U2 pin 9 a SCL_ADS_1.
+Connesso U2 pin 2 a ALERT/RDY_U10.
+Connesso U2 pin 8 a EXT_5V.
+Connesso U2 pin 6 a Net-(U2-AIN2).
+Connesso U2 pin 4 a Net-(U2-AIN0).
+Connesso U2 pin 5 a Net-(U2-AIN1).
+Connesso U2 pin 1 a ADDR_U10.
+Connesso U2 pin 3 a GND.
+Connesso U2 pin 7 a Net-(U2-AIN3).
+Aggiornato nome foglio C11 a '/'.
+Aggiunto U3 (impronta 'AA_Soleidon_Cape:DGS0010A_N').
+Cambiato riferimento REF** a U3.
+Cambiato valore U3 da DGS0010A_N a ADS1115IDGSR.
+Aggiornata associazione simbolo U3 da  a /c660128d-760e-4950-9ff7-adc0e0e89752.
+Aggiornati U3 campi
+Aggiornato nome foglio U3 a '/'.
+Aggiornato file foglio U3 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta U3 a 'DGS0010A_N DGS0010A_M DGS0010A_L'.
+Connesso U3 pin 9 a SCL_ADS_1.
+Connesso U3 pin 3 a GND.
+Connesso U3 pin 10 a SCL_ADS_1.
+Connesso U3 pin 4 a Net-(U3-AIN0).
+Connesso U3 pin 6 a Net-(U3-AIN2).
+Connesso U3 pin 1 a ADDR_U11.
+Connesso U3 pin 2 a ALERT/RDY_U11.
+Connesso U3 pin 7 a Net-(U3-AIN3).
+Connesso U3 pin 5 a Net-(U3-AIN1).
+Connesso U3 pin 8 a EXT_5V.
+Aggiornato file foglio C11 a 'Soleidon Cape.kicad_sch'.
+Aggiunto U4 (impronta 'AA_Soleidon_Cape:DGS0010A_N').
+Cambiato riferimento REF** a U4.
+Cambiato valore U4 da DGS0010A_N a ADS1115IDGSR.
+Aggiornata associazione simbolo U4 da  a /e53bed6e-5cb8-47e5-bd99-05adce9824a7.
+Aggiornati U4 campi
+Aggiornato nome foglio U4 a '/'.
+Aggiornato file foglio U4 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta U4 a 'DGS0010A_N DGS0010A_M DGS0010A_L'.
+Connesso U4 pin 8 a EXT_5V.
+Connesso U4 pin 6 a Net-(U4-AIN2).
+Connesso U4 pin 5 a Net-(U4-AIN1).
+Connesso U4 pin 1 a ADDR_U13.
+Connesso U4 pin 3 a GND.
+Connesso U4 pin 2 a ALERT/RDY_U13.
+Connesso U4 pin 7 a Net-(U4-AIN3).
+Connesso U4 pin 4 a Net-(U4-AIN0).
+Connesso U4 pin 10 a SCL_ADS_1.
+Connesso U4 pin 9 a SCL_ADS_1.
+Aggiornati filtri impronta C11 a 'C_*'.
+Aggiunto U5 (impronta 'AA_Soleidon_Cape:DGS0010A_N').
+Cambiato riferimento REF** a U5.
+Cambiato valore U5 da DGS0010A_N a ADS1115IDGSR.
+Aggiornata associazione simbolo U5 da  a /e759f472-dbe5-479e-92d8-b388a2c19d3d.
+Aggiornati U5 campi
+Aggiornato nome foglio U5 a '/'.
+Aggiornato file foglio U5 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta U5 a 'DGS0010A_N DGS0010A_M DGS0010A_L'.
+Connesso U5 pin 9 a SCL_ADS_1.
+Connesso U5 pin 7 a Net-(U5-AIN3).
+Connesso U5 pin 6 a Net-(U5-AIN2).
+Connesso U5 pin 5 a Net-(U5-AIN1).
+Connesso U5 pin 4 a Net-(U5-AIN0).
+Connesso U5 pin 1 a ADDR_U8.
+Connesso U5 pin 3 a GND.
+Connesso U5 pin 10 a SCL_ADS_1.
+Connesso U5 pin 8 a EXT_5V.
+Connesso U5 pin 2 a ALERT/RDY_U8.
+Aggiungi collegamento Net-(U2-AIN3).
+Aggiunto U6 (impronta 'AA_Soleidon_Cape:DGS0010A_N').
+Cambiato riferimento REF** a U6.
+Cambiato valore U6 da DGS0010A_N a ADS1115IDGSR.
+Aggiornata associazione simbolo U6 da  a /bfc5f934-0be7-4e16-88c4-2aaab749774b.
+Aggiornati U6 campi
+Aggiornato nome foglio U6 a '/'.
+Aggiornato file foglio U6 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta U6 a 'DGS0010A_N DGS0010A_M DGS0010A_L'.
+Connesso U6 pin 5 a Net-(U6-AIN1).
+Connesso U6 pin 6 a Net-(U6-AIN2).
+Connesso U6 pin 2 a ALERT/RDY_U9.
+Connesso U6 pin 1 a ADDR_U9.
+Connesso U6 pin 4 a Net-(U6-AIN0).
+Connesso U6 pin 3 a GND.
+Connesso U6 pin 9 a SCL_ADS_1.
+Connesso U6 pin 8 a EXT_5V.
+Connesso U6 pin 10 a SCL_ADS_1.
+Connesso U6 pin 7 a Net-(U6-AIN2).
+Connesso C11 pin 1 a Net-(U2-AIN3).
+Aggiunto U7 (impronta 'AA_Soleidon_Cape:DGS0010A_N').
+Cambiato riferimento REF** a U7.
+Cambiato valore U7 da DGS0010A_N a ADS1115IDGSR.
+Aggiornata associazione simbolo U7 da  a /81e9caa9-cd7a-4da6-a947-d0af6174bbf4.
+Aggiornati U7 campi
+Aggiornato nome foglio U7 a '/'.
+Aggiornato file foglio U7 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta U7 a 'DGS0010A_N DGS0010A_M DGS0010A_L'.
+Connesso U7 pin 10 a SCL_ADS_1.
+Connesso U7 pin 3 a GND.
+Connesso U7 pin 9 a SCL_ADS_1.
+Connesso U7 pin 8 a EXT_5V.
+Connesso U7 pin 4 a Net-(U7-AIN0).
+Connesso U7 pin 7 a Net-(U7-AIN3).
+Connesso U7 pin 2 a ALERT/RDY_U14.
+Connesso U7 pin 1 a ADDR_U14.
+Connesso U7 pin 6 a Net-(U7-AIN2).
+Connesso U7 pin 5 a Net-(U7-AIN1).
+Connesso C11 pin 2 a GND.
+Aggiunto U8 (impronta 'AA_Soleidon_Cape:DGS0010A_N').
+Cambiato riferimento REF** a U8.
+Cambiato valore U8 da DGS0010A_N a ADS1115IDGSR.
+Aggiornata associazione simbolo U8 da  a /b61b09ff-0944-4d2e-a6ad-4d1996b15b10.
+Aggiornati U8 campi
+Aggiornato nome foglio U8 a '/'.
+Aggiornato file foglio U8 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta U8 a 'DGS0010A_N DGS0010A_M DGS0010A_L'.
+Connesso U8 pin 10 a SCL_ADS_1.
+Connesso U8 pin 2 a ALERT/RDY_U16.
+Connesso U8 pin 1 a ADDR_U16.
+Connesso U8 pin 9 a SCL_ADS_1.
+Connesso U8 pin 8 a EXT_5V.
+Connesso U8 pin 5 a AIN1_U16.
+Connesso U8 pin 3 a GND.
+Connesso U8 pin 6 a AIN2_U16.
+Connesso U8 pin 7 a AIN3_U16.
+Connesso U8 pin 4 a AIN0_U16.
+Aggiunto C12 (impronta 'Capacitor_SMD:C_0201_0603Metric').
+Aggiunto U9 (impronta 'Package_SO:SOIC-8_3.9x4.9mm_P1.27mm').
+Cambiato riferimento REF** a U9.
+Cambiato valore U9 da SOIC-8_3.9x4.9mm_P1.27mm a TPS5403.
+Aggiornata associazione simbolo U9 da  a /22163fbe-375f-45f6-86de-dd1d3fb1b1cc.
+Aggiornati U9 campi
+Aggiornato nome foglio U9 a '/'.
+Aggiornato file foglio U9 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta U9 a 'SOIC*3.9x4.9mm*'.
+Connesso U9 pin 6 a Net-(U9-COMP).
+Connesso U9 pin 2 a +24_PROTECT.
+Connesso U9 pin 7 a GND.
+Connesso U9 pin 4 a Net-(U9-SS).
+Connesso U9 pin 3 a Net-(U9-ROSC).
+Connesso U9 pin 8 a Net-(D14-K).
+Connesso U9 pin 5 a Net-(U9-VSENSE).
+Connesso U9 pin 1 a Net-(U9-BOOT).
+Cambiato riferimento REF** a C12.
+Aggiunto U10 (impronta 'AA_Soleidon_Cape:D16_TEX').
+Cambiato riferimento REF** a U10.
+Cambiato valore U10 da D16_TEX a PCA9546A TSSOP.
+Aggiornata associazione simbolo U10 da  a /66480030-5cb3-48ce-a8c4-e8600b0941f9.
+Aggiornato nome foglio U10 a '/'.
+Aggiornato file foglio U10 a 'Soleidon Cape.kicad_sch'.
+Aggiornati filtri impronta U10 a 'D16_TEX D16_TEX-M D16_TEX-L'.
+Connesso U10 pin 2 a /A1.
+Connesso U10 pin 6 a SDA_1.
+Connesso U10 pin 14 a SCL_EXT.
+Connesso U10 pin 4 a SCL_0.
+Connesso U10 pin 8 a GND.
+Connesso U10 pin 12 a /3SCL.
+Connesso U10 pin 5 a SDA_0.
+Connesso U10 pin 10 a /2SCL.
+Connesso U10 pin 11 a /3SDA.
+Connesso U10 pin 15 a SDA_EXT.
+Connesso U10 pin 7 a SCL_1.
+Connesso U10 pin 9 a /2SDA.
+Connesso U10 pin 3 a Net-(JP43-B).
+Connesso U10 pin 13 a /A2.
+Connesso U10 pin 1 a /A0.
+Connesso U10 pin 16 a +3.3V.
+Cambiato valore C12 da C_0201_0603Metric a 22nF.
+Aggiunto VR1 (impronta 'AA_Soleidon_Cape:LM2596S-5.0_NOPB').
+Cambiato riferimento REF** a VR1.
+Aggiornata associazione simbolo VR1 da  a /596c2e33-9b28-4786-ae5a-481fae62c9e4.
+Aggiornati VR1 campi
+Aggiornato nome foglio VR1 a '/'.
+Aggiornato file foglio VR1 a 'Soleidon Cape.kicad_sch'.
+Connesso VR1 pin 5 a GND.
+Connesso VR1 pin 4 a EXT_5V.
+Connesso VR1 pin 3 a GND.
+Connesso VR1 pin 2 a EXT_5V.
+Connesso VR1 pin 6 a GND.
+Connesso VR1 pin 1 a +24_PROTECT.
+
+
+Aggiornati filtri impronta R77 a 'R_*'.
+Attenzione: Nessun collegamento trovato per il componente D17 piazzola C (nessun pin C nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J27 piazzola S2 (nessun pin S2 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente D16 piazzola C (nessun pin C nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J25 piazzola S2 (nessun pin S2 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J26 piazzola S1 (nessun pin S1 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J20 piazzola S2 (nessun pin S2 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J24 piazzola S2 (nessun pin S2 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J27 piazzola S1 (nessun pin S1 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J19 piazzola S1 (nessun pin S1 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J28 piazzola S1 (nessun pin S1 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J21 piazzola S1 (nessun pin S1 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J28 piazzola S2 (nessun pin S2 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente D17 piazzola A (nessun pin A nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente D16 piazzola A (nessun pin A nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J24 piazzola S1 (nessun pin S1 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J21 piazzola S2 (nessun pin S2 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J19 piazzola S2 (nessun pin S2 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J26 piazzola S2 (nessun pin S2 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J23 piazzola S2 (nessun pin S2 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J23 piazzola S1 (nessun pin S1 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J25 piazzola S1 (nessun pin S1 nel simbolo).
+Attenzione: Nessun collegamento trovato per il componente J20 piazzola S1 (nessun pin S1 nel simbolo).
+Errore: D17 piazzola 2 non trovata in AA_Soleidon_Cape:LEDC1608X35N.
+Errore: JP17 piazzola 2 non trovata in AA_Soleidon_Cape:Custom_Open_Jumper.
+Errore: JP18 piazzola 2 non trovata in AA_Soleidon_Cape:Custom_Open_Jumper.
+Errore: JP19 piazzola 2 non trovata in AA_Soleidon_Cape:Custom_Open_Jumper.
+Errore: JP31 piazzola 2 non trovata in AA_Soleidon_Cape:Custom_Open_Jumper.
+Errore: JP32 piazzola 2 non trovata in AA_Soleidon_Cape:Custom_Open_Jumper.
+Errore: JP33 piazzola 2 non trovata in AA_Soleidon_Cape:Custom_Open_Jumper.
+Errore: JP34 piazzola 2 non trovata in AA_Soleidon_Cape:Custom_Open_Jumper.
+Errore: JP43 piazzola 2 non trovata in AA_Soleidon_Cape:Custom_Open_Jumper.
+Errore: D16 piazzola 1 non trovata in AA_Soleidon_Cape:LEDC1608X35N.
+Errore: D16 piazzola 2 non trovata in AA_Soleidon_Cape:LEDC1608X35N.
+Errore: D17 piazzola 1 non trovata in AA_Soleidon_Cape:LEDC1608X35N.
+
+
+Info: Totale avvisi: 22, errori: 12.

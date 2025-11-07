@@ -1,0 +1,70 @@
+Rapporto ERC (2025-11-07T12:12:20+0100, codifica UTF8)
+
+***** Foglio /
+[lib_symbol_mismatch]: Il simbolo 'ADS1115IDGSR' non corrisponde alla copia nella libreria 'AA_cape_symbol'
+    ; warning
+    @(2650 mils, 1650 mils): Simbolo U5 [ADS1115IDGSR]
+[lib_symbol_mismatch]: Il simbolo 'ADS1115IDGSR' non corrisponde alla copia nella libreria 'AA_cape_symbol'
+    ; warning
+    @(2650 mils, 3850 mils): Simbolo U6 [ADS1115IDGSR]
+[lib_symbol_mismatch]: Il simbolo 'ADS1115IDGSR' non corrisponde alla copia nella libreria 'AA_cape_symbol'
+    ; warning
+    @(2600 mils, 6000 mils): Simbolo U2 [ADS1115IDGSR]
+[lib_symbol_mismatch]: Il simbolo 'ADS1115IDGSR' non corrisponde alla copia nella libreria 'AA_cape_symbol'
+    ; warning
+    @(2600 mils, 8350 mils): Simbolo U3 [ADS1115IDGSR]
+[lib_symbol_mismatch]: Il simbolo 'ADS1115IDGSR' non corrisponde alla copia nella libreria 'AA_cape_symbol'
+    ; warning
+    @(2600 mils, 10700 mils): Simbolo U4 [ADS1115IDGSR]
+[lib_symbol_mismatch]: Il simbolo 'ADS1115IDGSR' non corrisponde alla copia nella libreria 'AA_cape_symbol'
+    ; warning
+    @(2650 mils, 13000 mils): Simbolo U7 [ADS1115IDGSR]
+[lib_symbol_mismatch]: Il simbolo 'PRT-14417' non corrisponde alla copia nella libreria 'qwiic'
+    ; warning
+    @(13200 mils, 3750 mils): Simbolo J23 [PRT-14417]
+[lib_symbol_mismatch]: Il simbolo 'PRT-14417' non corrisponde alla copia nella libreria 'qwiic'
+    ; warning
+    @(13200 mils, 4450 mils): Simbolo J24 [PRT-14417]
+[lib_symbol_mismatch]: Il simbolo 'PRT-14417' non corrisponde alla copia nella libreria 'qwiic'
+    ; warning
+    @(11100 mils, 9450 mils): Simbolo J19 [PRT-14417]
+[lib_symbol_mismatch]: Il simbolo 'PRT-14417' non corrisponde alla copia nella libreria 'qwiic'
+    ; warning
+    @(11100 mils, 10200 mils): Simbolo J20 [PRT-14417]
+[lib_symbol_mismatch]: Il simbolo 'TCA9546ADR' non corrisponde alla copia nella libreria 'AA_cape_symbol'
+    ; warning
+    @(13850 mils, 6300 mils): Simbolo U10 [TCA9546ADR]
+[lib_symbol_mismatch]: Il simbolo 'ADS1115IDGSR' non corrisponde alla copia nella libreria 'AA_cape_symbol'
+    ; warning
+    @(2900 mils, 15050 mils): Simbolo U8 [ADS1115IDGSR]
+[lib_symbol_mismatch]: Il simbolo 'PRT-14417' non corrisponde alla copia nella libreria 'qwiic'
+    ; warning
+    @(11100 mils, 10950 mils): Simbolo J21 [PRT-14417]
+[lib_symbol_mismatch]: Il simbolo 'PRT-14417' non corrisponde alla copia nella libreria 'qwiic'
+    ; warning
+    @(13850 mils, 8650 mils): Simbolo J25 [PRT-14417]
+[lib_symbol_mismatch]: Il simbolo 'PRT-14417' non corrisponde alla copia nella libreria 'qwiic'
+    ; warning
+    @(13850 mils, 9400 mils): Simbolo J26 [PRT-14417]
+[lib_symbol_mismatch]: Il simbolo 'PRT-14417' non corrisponde alla copia nella libreria 'qwiic'
+    ; warning
+    @(13850 mils, 10100 mils): Simbolo J27 [PRT-14417]
+[lib_symbol_mismatch]: Il simbolo 'PRT-14417' non corrisponde alla copia nella libreria 'qwiic'
+    ; warning
+    @(13950 mils, 10900 mils): Simbolo J28 [PRT-14417]
+[lib_symbol_mismatch]: Il simbolo 'ADS1115IDGSR' non corrisponde alla copia nella libreria 'AA_cape_symbol'
+    ; warning
+    @(2550 mils, 18250 mils): Simbolo U1 [ADS1115IDGSR]
+[lib_symbol_mismatch]: Il simbolo '2601-1102' non corrisponde alla copia nella libreria 'AA_cape_symbol'
+    ; warning
+    @(10050 mils, 18000 mils): Simbolo J18 [2601-1102]
+[lib_symbol_mismatch]: Il simbolo '01550900DR' non corrisponde alla copia nella libreria 'AA_cape_symbol'
+    ; warning
+    @(11250 mils, 17550 mils): Simbolo F1 [01550900DR]
+[lib_symbol_mismatch]: Il simbolo 'LM2596S-5.0_NOPB' non corrisponde alla copia nella libreria 'AA_cape_symbol'
+    ; warning
+    @(14450 mils, 16800 mils): Simbolo VR1 [LM2596S-5.0_NOPB]
+
+***** Foglio /StepDown 24v to 5V/
+
+ ** messaggi ERC: 21  Errori 0  Avvisi 21

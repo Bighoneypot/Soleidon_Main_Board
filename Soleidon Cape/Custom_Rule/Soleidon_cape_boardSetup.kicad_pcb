@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "project": "Soleidon Cape v1.0",
+    "author": "Foddis Gabriele / Lifely IoT Designer",
+    "description": "Custom PCB design rules for PCBWay 4-layer, 1oz copper",
+    "date": "2025-11-07",
+    "verified_against": "Soleidon Cape schematic"
+  },
+  "board_setup": {
+    "design_settings": {
+      "copper_layer_count": 4,
+      "board_thickness": 1.6,
+      "copper_thickness": 35,
+      "solder_mask_clearance": 0.05,
+      "solder_mask_min_width": 0.10,
+      "clearance": 0.20,
+      "min_trace_width": 0.20,
+      "via_diameter": 0.60,
+      "via_drill": 0.30,
+      "thermal_gap": 0.30,
+      "thermal_bridge_width": 0.30
+    },
+    "net_classes": [
+      { "name": "Default", "track_width": 0.25, "clearance": 0.20, "via_dia": 0.60, "via_drill": 0.30 },
+      { "name": "Signal_Low", "track_width": 0.25, "clearance": 0.20, "via_dia": 0.60, "via_drill": 0.30 },
+      { "name": "ADC_Signal", "track_width": 0.30, "clearance": 0.20, "via_dia": 0.60, "via_drill": 0.30 },
+      { "name": "Power_3V3", "track_width": 0.80, "clearance": 0.25, "via_dia": 0.80, "via_drill": 0.40 },
+      { "name": "Power_5V",  "track_width": 1.00, "clearance": 0.30, "via_dia": 1.00, "via_drill": 0.50 },
+      { "name": "Power_24V", "track_width": 2.00, "clearance": 0.40, "via_dia": 1.20, "via_drill": 0.60 },
+      { "name": "LED_Test",  "track_width": 0.25, "clearance": 0.20, "via_dia": 0.60, "via_drill": 0.30 },
+      { "name": "GND_Plane", "track_width": 0.25, "clearance": 0.25, "via_dia": 0.80, "via_drill": 0.40 }
+    ],
+    "advanced_clearance": {
+      "via_to_via": 0.20,
+      "via_to_track": 0.20,
+      "via_to_pad": 0.20,
+      "track_to_track": 0.20,
+      "pad_to_pad": 0.20,
+      "copper_to_edge": 0.25
+    }
+  },
+  "layer_stackup": {
+    "layers": [
+      { "name": "F.Cu", "type": "signal", "notes": "Top - Components and routing" },
+      { "name": "In1.Cu", "type": "plane", "notes": "Inner1 - GND Plane (solid fill)" },
+      { "name": "In2.Cu", "type": "plane", "notes": "Inner2 - Power Plane (24V / 5V / 3V3 zones)" },
+      { "name": "B.Cu", "type": "signal", "notes": "Bottom - routing and LEDs" }
+    ]
+  }
+}

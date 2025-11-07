@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AA_cape_symbol")(type "KiCad")(uri "${KIPRJMOD}/AA_cape_symbol/AA_cape_symbol.kicad_sym")(options "")(descr ""))
+)
